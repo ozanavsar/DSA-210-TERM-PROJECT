@@ -1,6 +1,7 @@
 # The Relationship Between Awards, Box Office, and IMDb Ratings
 
-**Overview of Project**
+## Overview of Project
+
 This project looks into whether big budget or award winning movies tend to get higher audience ratings.
 
 In this project, the I will investigate the influence of production budgets, box office performance, and awards on public perception, through IMDb ratings, using the Box Office Mojo dataset enriched with external metadata from the OMDb API.
@@ -47,7 +48,6 @@ By analyzing the patterns between budget, box office, and ratings, I try to unde
 
 * Source: [Open Movie Database (OMDb API)](https://www.omdbapi.com/)
 * Collected Fields:
-
   * Awards (Oscar and other wins/nominations)
   * BoxOffice (domestic revenue)
   * IMDb Rating
@@ -55,7 +55,7 @@ By analyzing the patterns between budget, box office, and ratings, I try to unde
   * IMDb Votes
 * Purpose:
   The main purpose of the OMDb API is to gain access to award and critical evaluation data not available in the Box Office Mojo dataset.
-
+  
   Specifically, it provides:
   * Awards information (to identify Oscar winners and total nominations)
   * Metascore values for critical reception
@@ -65,8 +65,7 @@ By analyzing the patterns between budget, box office, and ratings, I try to unde
 ### Personal IMDb Ratings
 
 * Source: IMDb personal export file
-* Purpose:
-  To compare personal preferences with overall audience trends.
+* Purpose: To compare personal preferences with overall audience trends.
 
 ## Planned Analysis
 
