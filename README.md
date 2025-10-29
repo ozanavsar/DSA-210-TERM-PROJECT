@@ -76,7 +76,7 @@ By analyzing the patterns between budget, box office, and ratings, I try to unde
 
 2. Awards vs Rating
 
-   * Group movies into categories like *Oscar winners*, *nominated*, or *non-awarded*.  
+   * Group movies into categories like Oscar winners, nominated, or non-awarded.  
    * Compare their average IMDb ratings using box plots to see if awards truly reflect audience appreciation.
 
 3. Box Office vs Rating
