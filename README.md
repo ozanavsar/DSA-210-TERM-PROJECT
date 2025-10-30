@@ -4,7 +4,7 @@
 
 This project looks into whether big budget or award winning movies tend to get higher audience ratings.
 
-In this project, the I will investigate the influence of production budgets, box office performance, and awards on public perception, through IMDb ratings, using the Box Office Mojo dataset enriched with external metadata from the OMDb API.
+In this project, the I will investigate the influence of *production budgets*, *box office performance*, and *awards* on public perception, through IMDb ratings, using the *Box Office Mojo dataset* enriched with external metadata from the *OMDb API*.
 
 Apart from public data, I will include my own personal rating according to IMDb to give an individual perspective.
 This comparison will reveal whether personal preferences align with global audience opinions highlighting how subjective taste differs from general trends.
@@ -16,25 +16,25 @@ The goal is to determine if financial and critical success correlate with audien
 Being a movie enthusiast, I have often wondered if commercial and critical success actually correlate to the enjoyment of the people who watch it.
 Some low-budget films turn out to be classics, while plenty of blockbusters fall flat with audiences despite their size and awards.
 This project gives an opportunity to investigate this question through real data. It combines my interest in cinema with data analysis and visualization techniques.
-By analyzing the patterns between budget, box office, and ratings, I try to understand whether the audience perception is influenced most by financial investment, critical acclaim, or storytelling quality.
+By analyzing the patterns between *budget*, *box office*, and *ratings*, I try to understand whether the audience perception is influenced most by *financial investment*, *critical acclaim*, or *storytelling quality*.
 
 ## Hypotheses
 
-* H₀₁: There is no significant relation between a movie's budget and its IMDb rating.
+* *H₀₁*: There is no significant relation between a movie's budget and its IMDb rating.
 
-* H₁₁: Higher-budget films are likely to be rated higher on IMDb.
+* *H₁₁*: Higher-budget films are likely to be rated higher on IMDb.
 
-* H₀₂: There is no significant effect of awards and nominations on the IMDb rating.
+* *H₀₂*: There is no significant effect of awards and nominations on the IMDb rating.
 
-* H₁₂: The award-winning movies, especially Oscar winners, have higher ratings on IMDb.
+* *H₁₂*: The award-winning movies, especially Oscar winners, have higher ratings on IMDb.
 
-* H₀₃: The box office performance, either domestic or worldwide gross, bears no association with IMDb ratings.
+* *H₀₃*: The box office performance, either domestic or worldwide gross, bears no association with IMDb ratings.
 
-* H₁₃: There is a positive correlation between the box office results and IMDb ratings.
+* *H₁₃*: There is a positive correlation between the box office results and IMDb ratings.
 
 ## Data Sources
 
-### Box Office Mojo Dataset
+### *Box Office Mojo Dataset*
 
 * Source: [Kaggle – Box Office Mojo Movies Dataset](https://www.kaggle.com/datasets/igorkirko/wwwboxofficemojocom-movies-with-budget-listed)
 * Scope: ~3,500 U.S. released, English language films between 1990 and 2020
@@ -44,7 +44,7 @@ By analyzing the patterns between budget, box office, and ratings, I try to unde
 * Purpose:
   Core financial information, such as budgets and worldwide grosses, will be provided by the Box Office Mojo dataset, which acts as the backbone of this project.
 
-### OMDb API
+### *OMDb API*
 
 * Source: [Open Movie Database (OMDb API)](https://www.omdbapi.com/)
 * Collected Fields:
@@ -62,7 +62,7 @@ By analyzing the patterns between budget, box office, and ratings, I try to unde
 
   These fields, in conjunction with the IMDb ratings, can be used to analyze how awards and critical reviews relate to audience perception and box-office performance.
 
-### Personal IMDb Ratings
+### *Personal IMDb Ratings*
 
 * Source: IMDb personal export file
 * Purpose: To compare personal preferences with overall audience trends.
