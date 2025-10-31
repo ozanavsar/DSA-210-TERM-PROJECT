@@ -20,21 +20,24 @@ By analyzing the patterns between *budget*, *box office*, and *ratings*, I try t
 
 ## Hypotheses
 
-* *H₀₁*: There is no significant relation between a movie's budget and its IMDb rating.
+### **1. Budget vs Ratings**
 
-* *H₁₁*: Higher-budget films are likely to be rated higher on IMDb.
+* **H₀₁:** There is no significant relationship between a movie’s budget and its IMDb rating or Metascore.
+* **H₁₁:** Higher budget films tend to receive higher IMDb ratings and Metascores.
 
-* *H₀₂*: There is no significant effect of awards and nominations on the IMDb rating.
+### **2. Awards vs Ratings**
 
-* *H₁₂*: The award-winning movies, especially Oscar winners, have higher ratings on IMDb.
+* **H₀₂:** Awards and nominations have no significant effect on IMDb ratings or Metascores.
+* **H₁₂:** Award winning movies, especially Oscar winners, tend to have higher IMDb ratings and Metascores than non-awarded films.
 
-* *H₀₃*: The box office performance, either domestic or worldwide gross, bears no association with IMDb ratings.
+### **3. Box Office vs Ratings**
 
-* *H₁₃*: There is a positive correlation between the box office results and IMDb ratings.
+* **H₀₃:** Box office performance (domestic or worldwide gross) has no association with IMDb ratings or Metascores.
+* **H₁₃:** There is a positive correlation between box office results and both IMDb ratings and Metascores.
 
 ## Data Sources
 
-### *Box Office Mojo Dataset*
+### **Box Office Mojo Dataset**
 
 * Source: [Kaggle – Box Office Mojo Movies Dataset](https://www.kaggle.com/datasets/igorkirko/wwwboxofficemojocom-movies-with-budget-listed)
 * Scope: ~3,500 U.S. released, English language films between 1990 and 2020
@@ -44,7 +47,7 @@ By analyzing the patterns between *budget*, *box office*, and *ratings*, I try t
 * Purpose:
   Core financial information, such as budgets and worldwide grosses, will be provided by the Box Office Mojo dataset, which acts as the backbone of this project.
 
-### *OMDb API*
+### **OMDb API**
 
 * Source: [Open Movie Database (OMDb API)](https://www.omdbapi.com/)
 * Collected Fields:
@@ -62,24 +65,24 @@ By analyzing the patterns between *budget*, *box office*, and *ratings*, I try t
 
   These fields, in conjunction with the IMDb ratings, can be used to analyze how awards and critical reviews relate to audience perception and box-office performance.
 
-### *Personal IMDb Ratings*
+### **Personal IMDb Ratings**
 
 * Source: IMDb personal export file
 * Purpose: To compare personal preferences with overall audience trends.
 
 ## Planned Analysis
 
-1. Budget vs Rating
+**1. Budget vs Rating**
 
    * Explore whether movies with bigger budgets actually get higher IMDb ratings.  
    * Visualize this relationship with scatter plots and check correlations to see if spending more really pays off.
 
-2. Awards vs Rating
+**2. Awards vs Rating**
 
    * Group movies into categories like Oscar winners, nominated, or non-awarded.  
    * Compare their average IMDb ratings using box plots to see if awards truly reflect audience appreciation.
 
-3. Box Office vs Rating
+**3. Box Office vs Rating**
 
    * Check if global box-office earnings are linked to audience ratings.  
    * Use simple regression analysis to find out whether commercial success also means higher ratings.
