@@ -1,0 +1,901 @@
+imdb_id,omdb_title,omdb_year,awards_text,omdb_boxoffice,omdb_imdb_rating,omdb_metascore,omdb_imdb_votes,response_ok,error_msg,fetched_at
+tt0099088,Back to the Future Part III,1990,5 wins & 11 nominations total,"$88,277,583",7.5,55,"503,526",True,,2025-10-26T10:45:13.916205
+tt0099165,The Bonfire of the Vanities,1990,1 win & 5 nominations total,"$15,691,192",5.6,27,"27,741",True,,2025-10-26T10:45:14.381526
+tt0099348,Dances with Wolves,1990,Won 7 Oscars. 55 wins & 40 nominations total,"$184,208,848",8.0,72,"304,578",True,,2025-10-26T10:45:14.797005
+tt0099422,Dick Tracy,1990,Won 3 Oscars. 9 wins & 37 nominations total,"$103,738,726",6.2,68,"68,992",True,,2025-10-26T10:45:15.214326
+tt0099423,Die Hard 2,1990,1 win & 1 nomination total,"$117,540,947",7.2,67,"400,230",True,,2025-10-26T10:45:15.628903
+tt0099587,Flight of the Intruder,1991,N/A,"$14,587,732",5.8,N/A,"8,176",True,,2025-10-26T10:45:16.124035
+tt0099611,Frankenhooker,1990,N/A,"$205,068",6.2,N/A,"15,381",True,,2025-10-26T10:45:16.583036
+tt0099653,Ghost,1990,Won 2 Oscars. 18 wins & 24 nominations total,"$217,631,306",7.1,52,"249,282",True,,2025-10-26T10:45:17.043877
+tt0099674,The Godfather Part III,1990,Nominated for 7 Oscars. 6 wins & 23 nominations total,"$66,761,392",7.6,60,"446,035",True,,2025-10-26T10:45:17.458135
+tt0099747,Havana,1990,Nominated for 1 Oscar. 3 nominations total,"$9,243,140",6.1,N/A,"8,745",True,,2025-10-26T10:45:17.929109
+tt0099785,Home Alone,1990,Nominated for 2 Oscars. 12 wins & 7 nominations total,"$285,761,243",7.7,63,"708,642",True,,2025-10-26T10:45:18.336928
+tt0099810,The Hunt for Red October,1990,Won 1 Oscar. 3 wins & 9 nominations total,"$122,012,643",7.5,58,"225,834",True,,2025-10-26T10:45:18.820602
+tt0099938,Kindergarten Cop,1990,4 wins & 1 nomination total,"$91,457,688",6.3,61,"169,069",True,,2025-10-26T10:45:19.278512
+tt0100029,Lionheart,1990,N/A,"$24,078,196",6.2,41,"41,956",True,,2025-10-26T10:45:19.741099
+tt0100142,Metropolitan,1989,Nominated for 1 Oscar. 6 wins & 10 nominations total,"$2,960,492",7.3,77,"12,934",True,,2025-10-26T10:45:20.211388
+tt0100332,Paris Is Burning,1990,17 wins & 1 nomination total,"$3,905,297",8.2,82,"19,088",True,,2025-10-26T10:45:20.679654
+tt0100405,Pretty Woman,1990,Nominated for 1 Oscar. 8 wins & 11 nominations total,"$178,406,268",7.1,51,"393,601",True,,2025-10-26T10:45:21.098965
+tt0100758,Teenage Mutant Ninja Turtles,1990,3 wins & 3 nominations total,"$135,384,756",6.8,51,"109,497",True,,2025-10-26T10:45:21.570991
+tt0100802,Total Recall,1990,Nominated for 2 Oscars. 7 wins & 16 nominations total,"$119,412,921",7.5,60,"371,849",True,,2025-10-26T10:45:22.027815
+tt0101272,The Addams Family,1991,Nominated for 1 Oscar. 5 wins & 23 nominations total,"$113,502,426",7.0,57,"192,418",True,,2025-10-26T10:45:22.511862
+tt0101356,Another You,1991,N/A,"$2,865,916",5.3,N/A,"4,451",True,,2025-10-26T10:45:22.981489
+tt0101414,Beauty and the Beast,1991,Won 2 Oscars. 33 wins & 32 nominations total,"$218,967,620",8.0,95,"498,015",True,,2025-10-26T10:45:23.397669
+tt0101453,Billy Bathgate,1991,3 nominations total,"$15,565,363",5.9,N/A,"13,101",True,,2025-10-26T10:45:23.867114
+tt0101507,Boyz n the Hood,1991,Nominated for 2 Oscars. 12 wins & 28 nominations total,"$57,504,069",7.8,76,"164,419",True,,2025-10-26T10:45:24.328003
+tt0101587,City Slickers,1991,Won 1 Oscar. 8 wins & 7 nominations total,"$124,033,791",6.8,70,"66,109",True,,2025-10-26T10:45:24.815634
+tt0101588,City of Hope,1991,5 wins & 4 nominations total,"$1,345,015",7.2,N/A,"2,810",True,,2025-10-26T10:45:25.287733
+tt0101615,Cool as Ice,1991,1 win & 7 nominations total,"$1,193,062",3.0,24,"10,719",True,,2025-10-26T10:45:25.745554
+tt0101701,Delirious,1991,N/A,"$5,546,827",5.8,N/A,"9,744",True,,2025-10-26T10:45:26.201746
+tt0101786,Dutch,1991,1 win & 1 nomination total,"$4,603,929",6.5,N/A,"14,969",True,,2025-10-26T10:45:26.665426
+tt0101831,Eve of Destruction,1991,N/A,"$5,451,119",5.0,N/A,"2,633",True,,2025-10-26T10:45:27.123772
+tt0101902,For the Boys,1991,Nominated for 1 Oscar. 1 win & 3 nominations total,"$17,860,280",6.4,N/A,"6,162",True,,2025-10-26T10:45:27.579520
+tt0101917,Freddy's Dead: The Final Nightmare,1991,1 win & 5 nominations total,"$34,872,033",4.7,39,"53,981",True,,2025-10-26T10:45:28.040114
+tt0102005,Harley Davidson and the Marlboro Man,1991,1 nomination,"$7,434,726",6.1,36,"23,394",True,,2025-10-26T10:45:28.498032
+tt0102032,High Strung,1992,N/A,$904,6.6,N/A,"2,230",True,,2025-10-26T10:45:28.984741
+tt0102057,Hook,1991,Nominated for 5 Oscars. 6 wins & 24 nominations total,"$119,654,823",6.8,52,"285,738",True,,2025-10-26T10:45:29.401391
+tt0102059,Hot Shots!,1991,1 win total,"$69,467,617",6.7,61,"122,922",True,,2025-10-26T10:45:29.815796
+tt0102065,House Party 2,1991,N/A,"$19,438,638",5.3,N/A,"7,301",True,,2025-10-26T10:45:30.277239
+tt0102070,Hudson Hawk,1991,3 wins & 5 nominations total,"$17,218,080",5.7,17,"63,297",True,,2025-10-26T10:45:30.691114
+tt0102175,Jungle Fever,1991,6 wins & 11 nominations total,"$32,482,682",6.6,78,"20,231",True,,2025-10-26T10:45:31.244256
+tt0102303,Life Stinks,1991,N/A,"$4,102,526",5.9,54,"11,903",True,,2025-10-26T10:45:31.711837
+tt0102307,Light Sleeper,1992,1 win & 6 nominations total,"$1,050,861",6.9,70,"10,734",True,,2025-10-26T10:45:32.176571
+tt0102370,Madonna: Truth or Dare,1991,1 win & 4 nominations,"$15,012,935",6.4,70,"10,182",True,,2025-10-26T10:45:32.660022
+tt0102395,Mannequin: On the Move,1991,N/A,"$3,752,428",4.4,31,"7,043",True,,2025-10-26T10:45:33.117402
+tt0102411,The Marrying Man,1991,1 nomination total,"$12,454,768",5.7,N/A,"6,560",True,,2025-10-26T10:45:33.531996
+tt0102492,My Girl,1991,2 wins & 5 nominations total,"$59,489,799",6.9,56,"94,285",True,,2025-10-26T10:45:33.991972
+tt0102510,The Naked Gun 2½: The Smell of Fear,1991,2 wins & 1 nomination total,"$86,930,411",6.9,65,"136,618",True,,2025-10-26T10:45:34.406006
+tt0102526,New Jack City,1991,1 win & 6 nominations total,"$47,624,353",6.6,61,"41,253",True,,2025-10-26T10:45:34.858723
+tt0102558,Nothing But Trouble,1991,2 wins & 6 nominations total,"$8,479,793",5.1,13,"29,145",True,,2025-10-26T10:45:35.319943
+tt0102614,Out for Justice,1991,N/A,"$39,673,161",6.1,38,"27,301",True,,2025-10-26T10:45:35.787096
+tt0102753,Rambling Rose,1991,Nominated for 2 Oscars. 6 wins & 15 nominations total,"$6,266,621",6.5,N/A,"5,746",True,,2025-10-26T10:45:36.258725
+tt0102782,Return to the Blue Lagoon,1991,6 nominations total,"$2,807,854",5.2,28,"22,148",True,,2025-10-26T10:45:36.745444
+tt0102798,Robin Hood: Prince of Thieves,1991,Nominated for 1 Oscar. 16 wins & 25 nominations total,"$165,493,908",6.9,51,"217,258",True,,2025-10-26T10:45:37.205164
+tt0102803,The Rocketeer,1991,2 wins & 6 nominations total,"$46,704,056",6.6,58,"64,748",True,,2025-10-26T10:45:37.621030
+tt0102818,Run,1991,N/A,"$4,409,328",6.2,N/A,"3,343",True,,2025-10-26T10:45:38.046105
+tt0102849,Scenes from a Mall,1991,N/A,"$9,563,393",5.4,N/A,"5,276",True,,2025-10-26T10:45:38.469520
+tt0102898,Shakes the Clown,1991,1 nomination total,"$115,103",5.6,N/A,"5,971",True,,2025-10-26T10:45:38.924323
+tt0102926,The Silence of the Lambs,1991,Won 5 Oscars. 71 wins & 50 nominations total,"$130,742,922",8.6,86,"1,667,162",True,,2025-10-26T10:45:39.335596
+tt0102943,Slacker,1990,1 win & 3 nominations,"$1,228,108",7.0,69,"24,059",True,,2025-10-26T10:45:39.797121
+tt0102945,Sleeping with the Enemy,1991,2 wins & 4 nominations total,"$101,599,005",6.3,48,"67,552",True,,2025-10-26T10:45:40.250882
+tt0103007,The Super,1991,1 nomination,"$11,000,863",5.7,N/A,"6,607",True,,2025-10-26T10:45:40.726531
+tt0103060,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,1991,2 wins & 1 nomination total,"$78,656,813",6.0,45,"63,358",True,,2025-10-26T10:45:41.191243
+tt0103064,Terminator 2: Judgment Day,1991,Won 4 Oscars. 39 wins & 33 nominations total,"$205,881,154",8.6,75,"1,254,827",True,,2025-10-26T10:45:41.614926
+tt0103074,Thelma & Louise,1991,Won 1 Oscar. 24 wins & 52 nominations total,"$45,360,915",7.6,89,"186,074",True,,2025-10-26T10:45:42.049924
+tt0103128,True Identity,1991,N/A,"$4,693,236",5.1,N/A,"1,345",True,,2025-10-26T10:45:42.527011
+tt0103247,White Fang,1991,1 win total,"$34,793,160",6.7,62,"23,299",True,,2025-10-26T10:45:42.947975
+tt0103594,1492: Conquest of Paradise,1992,2 nominations total,"$7,191,399",6.4,47,"34,388",True,,2025-10-26T10:45:43.409026
+tt0103639,Aladdin,1992,Won 2 Oscars. 35 wins & 22 nominations total,"$217,350,219",8.0,86,"490,592",True,,2025-10-26T10:45:43.863145
+tt0103644,Alien³,1992,Nominated for 1 Oscar. 5 wins & 25 nominations total,"$55,473,545",6.4,59,"345,876",True,,2025-10-26T10:45:44.283405
+tt0103772,Basic Instinct,1992,Nominated for 2 Oscars. 6 wins & 23 nominations total,"$117,727,224",7.1,43,"237,054",True,,2025-10-26T10:45:44.726368
+tt0103776,Batman Returns,1992,Nominated for 2 Oscars. 2 wins & 29 nominations total,"$162,924,631",7.1,68,"344,885",True,,2025-10-26T10:45:45.153609
+tt0103859,Boomerang,1992,1 win & 8 nominations total,"$70,052,444",5.6,45,"32,560",True,,2025-10-26T10:45:45.623066
+tt0103874,Dracula,1992,Won 3 Oscars. 25 wins & 25 nominations total,"$82,522,790",7.4,57,"261,085",True,,2025-10-26T10:45:46.040511
+tt0103962,Christopher Columbus: The Discovery,1992,2 wins & 6 nominations total,"$8,251,071",4.4,N/A,"3,332",True,,2025-10-26T10:45:46.484224
+tt0104070,Death Becomes Her,1992,Won 1 Oscar. 5 wins & 16 nominations total,"$58,422,650",6.7,56,"144,647",True,,2025-10-26T10:45:46.962885
+tt0104231,Far and Away,1992,3 nominations total,"$58,883,840",6.6,49,"71,063",True,,2025-10-26T10:45:47.435216
+tt0104257,A Few Good Men,1992,Nominated for 4 Oscars. 10 wins & 30 nominations total,"$141,340,178",7.7,62,"308,367",True,,2025-10-26T10:45:47.858535
+tt0104438,Honeymoon in Vegas,1992,4 nominations total,"$35,208,854",5.9,63,"19,967",True,,2025-10-26T10:45:48.319565
+tt0104691,The Last of the Mohicans,1992,Won 1 Oscar. 7 wins & 17 nominations total,"$75,505,856",7.6,76,"201,138",True,,2025-10-26T10:45:48.747944
+tt0104692,The Lawnmower Man,1992,3 nominations total,"$32,100,816",5.4,42,"40,365",True,,2025-10-26T10:45:49.221651
+tt0104694,A League of Their Own,1992,6 wins & 13 nominations total,"$107,533,928",7.4,69,"127,346",True,,2025-10-26T10:45:49.643646
+tt0104714,Lethal Weapon 3,1992,3 wins & 4 nominations total,"$144,731,527",6.7,40,"185,968",True,,2025-10-26T10:45:50.094362
+tt0104839,Medicine Man,1992,1 nomination,"$45,500,797",6.0,43,"25,157",True,,2025-10-26T10:45:50.577675
+tt0104868,The Mighty Ducks,1992,2 nominations total,"$50,752,337",6.6,46,"74,219",True,,2025-10-26T10:45:51.013224
+tt0104940,The Muppet Christmas Carol,1992,2 wins & 1 nomination total,"$27,381,507",7.8,64,"76,871",True,,2025-10-26T10:45:51.472461
+tt0104990,Newsies,1992,1 win & 6 nominations total,"$2,819,485",6.9,46,"23,649",True,,2025-10-26T10:45:51.938259
+tt0105112,Patriot Games,1992,1 win & 3 nominations total,"$83,351,587",6.8,64,"126,148",True,,2025-10-26T10:45:52.397255
+tt0105121,The People Under the Stairs,1991,2 wins & 8 nominations total,"$24,204,154",6.4,57,"42,266",True,,2025-10-26T10:45:52.861491
+tt0105130,Peter's Friends,1992,4 wins & 3 nominations,"$4,058,564",7.0,N/A,"12,338",True,,2025-10-26T10:45:53.281082
+tt0105226,Red Rock West,1993,3 nominations total,"$2,502,551",7.0,79,"27,153",True,,2025-10-26T10:45:53.758873
+tt0105236,Reservoir Dogs,1992,13 wins & 23 nominations total,"$2,832,029",8.3,81,"1,148,410",True,,2025-10-26T10:45:54.174510
+tt0105378,Shadows and Fog,1991,1 win & 2 nominations total,"$2,735,731",6.7,N/A,"18,657",True,,2025-10-26T10:45:54.623612
+tt0105399,Twin Dragons,1992,1 nomination total,"$8,359,717",6.4,54,"13,492",True,,2025-10-26T10:45:55.127558
+tt0105526,The Taking of Beverly Hills,1991,N/A,"$939,277",5.1,N/A,"1,419",True,,2025-10-26T10:45:55.586994
+tt0105793,Wayne's World,1992,4 wins & 5 nominations total,"$121,697,323",7.0,57,"178,076",True,,2025-10-26T10:45:56.065521
+tt0106226,The Age of Innocence,1993,Won 1 Oscar. 15 wins & 33 nominations total,"$32,255,440",7.2,90,"71,356",True,,2025-10-26T10:45:56.528869
+tt0106264,Amongst Friends,1993,2 nominations,"$265,000",5.5,N/A,676,True,,2025-10-26T10:45:56.993407
+tt0106379,Being Human,1994,N/A,"$1,519,366",5.3,33,"4,303",True,,2025-10-26T10:45:57.433690
+tt0106453,Body of Evidence,1993,1 win & 8 nominations total,"$13,273,595",4.6,29,"16,849",True,,2025-10-26T10:45:57.869223
+tt0106519,Carlito's Way,1993,2 wins & 9 nominations total,"$36,948,322",7.9,66,"242,344",True,,2025-10-26T10:45:58.295578
+tt0106582,Cliffhanger,1993,Nominated for 3 Oscars. 1 win & 12 nominations total,"$84,049,211",6.5,59,"145,457",True,,2025-10-26T10:45:58.761314
+tt0106611,Cool Runnings,1993,2 wins & 2 nominations total,"$68,856,263",7.0,60,"119,626",True,,2025-10-26T10:45:59.186672
+tt0106941,For Love or Money,1993,N/A,"$11,146,270",6.2,42,"16,130",True,,2025-10-26T10:45:59.648573
+tt0106950,Fortress,1992,2 nominations total,"$6,739,141",5.9,48,"31,499",True,,2025-10-26T10:46:00.112805
+tt0107004,Geronimo: An American Legend,1993,Nominated for 1 Oscar. 1 win & 2 nominations total,"$18,635,620",6.5,58,"14,083",True,,2025-10-26T10:46:00.573458
+tt0107096,Heaven & Earth,1993,1 win & 2 nominations total,"$5,864,949",6.8,N/A,"15,549",True,,2025-10-26T10:46:01.034783
+tt0107151,The House of the Spirits,1993,12 wins & 1 nomination total,"$6,265,311",6.9,N/A,"26,147",True,,2025-10-26T10:46:01.447092
+tt0107156,The Wedding Banquet,1993,Nominated for 1 Oscar. 13 wins & 11 nominations total,"$6,933,459",7.6,81,"18,350",True,,2025-10-26T10:46:01.909728
+tt0107206,In the Line of Fire,1993,Nominated for 3 Oscars. 2 wins & 17 nominations total,"$102,314,823",7.2,74,"120,053",True,,2025-10-26T10:46:02.368669
+tt0107290,Jurassic Park,1993,Won 3 Oscars. 44 wins & 27 nominations total,"$407,185,075",8.2,68,"1,148,871",True,,2025-10-26T10:46:02.779522
+tt0107362,Last Action Hero,1993,1 win & 16 nominations total,"$50,016,394",6.5,44,"171,378",True,,2025-10-26T10:46:03.193954
+tt0107614,Mrs. Doubtfire,1993,Won 1 Oscar. 11 wins & 10 nominations total,"$219,195,243",7.1,54,"307,375",True,,2025-10-26T10:46:03.668724
+tt0107616,Much Ado About Nothing,1993,Nominated for 1 BAFTA Award5 wins & 11 nominations total,"$22,549,338",7.3,80,"54,656",True,,2025-10-26T10:46:04.182712
+tt0107719,The Nutcracker,1993,N/A,"$2,119,994",5.8,N/A,"2,671",True,,2025-10-26T10:46:04.793217
+tt0107818,Philadelphia,1993,Won 2 Oscars. 20 wins & 23 nominations total,"$77,446,440",7.7,66,"269,184",True,,2025-10-26T10:46:05.267347
+tt0107978,RoboCop 3,1993,3 nominations total,"$10,696,210",4.2,40,"57,115",True,,2025-10-26T10:46:05.933179
+tt0108052,Schindler's List,1993,Won 7 Oscars. 91 wins & 49 nominations total,"$96,898,818",9.0,95,"1,548,974",True,,2025-10-26T10:46:06.341489
+tt0108101,Shadowlands,1993,Nominated for 2 Oscars. 7 wins & 14 nominations total,"$25,842,377",7.3,N/A,"20,775",True,,2025-10-26T10:46:06.773628
+tt0108148,Iron Monkey,1993,2 nominations total,"$14,694,904",7.5,79,"17,765",True,,2025-10-26T10:46:07.192090
+tt0108160,Sleepless in Seattle,1993,Nominated for 2 Oscars. 4 wins & 19 nominations total,"$126,808,165",6.8,72,"201,328",True,,2025-10-26T10:46:07.613191
+tt0108255,Super Mario Bros.,1993,2 nominations total,"$20,915,465",4.2,35,"66,417",True,,2025-10-26T10:46:08.255762
+tt0108308,Teenage Mutant Ninja Turtles III,1993,1 win total,"$42,273,609",4.8,40,"37,789",True,,2025-10-26T10:46:08.679183
+tt0108327,The Thing Called Love,1993,N/A,"$1,029,721",6.4,46,"9,010",True,,2025-10-26T10:46:09.105759
+tt0108525,Wayne's World 2,1993,3 nominations total,"$48,197,805",6.2,60,"91,066",True,,2025-10-26T10:46:09.522701
+tt0109040,Ace Ventura: Pet Detective,1994,5 wins & 6 nominations total,"$72,217,396",6.9,37,"342,014",True,,2025-10-26T10:46:09.991620
+tt0109190,Baby's Day Out,1994,N/A,"$16,827,402",6.2,N/A,"59,134",True,,2025-10-26T10:46:10.440870
+tt0109254,Beverly Hills Cop III,1994,3 nominations total,"$42,614,912",5.5,16,"97,794",True,,2025-10-26T10:46:10.888585
+tt0109370,Canadian Bacon,1995,N/A,"$163,971",5.9,N/A,"18,283",True,,2025-10-26T10:46:11.311874
+tt0109444,Clear and Present Danger,1994,Nominated for 2 Oscars. 3 wins & 11 nominations total,"$122,187,717",6.9,72,"113,327",True,,2025-10-26T10:46:11.769390
+tt0109445,Clerks,1994,7 wins & 10 nominations total,"$3,151,130",7.7,70,"238,383",True,,2025-10-26T10:46:12.227874
+tt0109456,Color of Night,1994,2 wins & 11 nominations total,"$19,726,050",5.2,36,"26,958",True,,2025-10-26T10:46:12.693073
+tt0109579,Death and the Maiden,1994,4 nominations total,"$3,103,716",7.2,72,"27,535",True,,2025-10-26T10:46:13.165029
+tt0109635,Disclosure,1994,2 wins & 2 nominations total,"$83,015,089",6.2,58,"56,603",True,,2025-10-26T10:46:13.638071
+tt0109676,Drop Zone,1994,N/A,"$28,735,315",5.6,N/A,"22,575",True,,2025-10-26T10:46:14.087041
+tt0109686,Dumb and Dumber,1994,5 wins & 3 nominations total,"$127,190,327",7.3,41,"432,617",True,,2025-10-26T10:46:14.512740
+tt0109707,Ed Wood,1994,Won 2 Oscars. 27 wins & 33 nominations total,"$5,887,457",7.8,71,"188,531",True,,2025-10-26T10:46:14.947677
+tt0109813,The Flintstones,1994,6 wins & 10 nominations total,"$130,531,208",5.0,38,"89,753",True,,2025-10-26T10:46:15.373164
+tt0109830,Forrest Gump,1994,Won 6 Oscars. 51 wins & 74 nominations total,"$330,455,270",8.8,82,"2,422,593",True,,2025-10-26T10:46:15.788868
+tt0109831,Four Weddings and a Funeral,1994,Nominated for 2 Oscars. 24 wins & 27 nominations total,"$52,700,832",7.1,81,"176,528",True,,2025-10-26T10:46:16.201696
+tt0109836,Frankenstein,1994,Nominated for 1 Oscar. 20 nominations total,"$22,006,296",6.3,49,"61,682",True,,2025-10-26T10:46:16.622363
+tt0110005,Heavenly Creatures,1994,Nominated for 1 Oscar. 17 wins & 17 nominations total,"$3,049,135",7.3,86,"69,272",True,,2025-10-26T10:46:17.093918
+tt0110074,The Hudsucker Proxy,1994,3 wins & 4 nominations total,"$2,816,518",7.2,53,"88,498",True,,2025-10-26T10:46:17.555070
+tt0110097,I'll Do Anything,1994,1 win & 2 nominations,"$10,424,645",5.5,N/A,"2,901",True,,2025-10-26T10:46:18.030137
+tt0110099,I.Q.,1994,N/A,"$26,381,221",6.2,66,"26,913",True,,2025-10-26T10:46:18.496132
+tt0110148,Interview with the Vampire,1994,Nominated for 2 Oscars. 24 wins & 34 nominations total,"$105,264,608",7.5,62,"366,784",True,,2025-10-26T10:46:18.947023
+tt0110197,Jimmy Hollywood,1994,N/A,"$3,783,003",5.3,N/A,"3,703",True,,2025-10-26T10:46:19.410605
+tt0110216,Junior,1994,Nominated for 1 Oscar. 5 nominations total,"$36,763,355",4.8,59,"76,426",True,,2025-10-26T10:46:19.878589
+tt0110265,Killing Zoe,1993,2 wins & 1 nomination total,"$418,961",6.4,49,"22,079",True,,2025-10-26T10:46:20.344196
+tt0110357,The Lion King,1994,Won 2 Oscars. 43 wins & 35 nominations total,"$424,979,720",8.5,88,"1,223,797",True,,2025-10-26T10:46:20.775482
+tt0110367,Little Women,1994,Nominated for 3 Oscars. 6 wins & 19 nominations total,"$50,083,616",7.3,87,"66,483",True,,2025-10-26T10:46:21.239583
+tt0110391,Love Affair,1994,2 nominations total,"$18,272,894",6.0,55,"5,245",True,,2025-10-26T10:46:21.712241
+tt0110475,The Mask,1994,Nominated for 1 Oscar. 6 wins & 22 nominations total,"$119,938,730",7.0,59,"454,382",True,,2025-10-26T10:46:22.170041
+tt0110598,Muriel's Wedding,1994,Nominated for 1 BAFTA Award9 wins & 13 nominations total,"$15,119,639",7.2,63,"44,296",True,,2025-10-26T10:46:22.669699
+tt0110622,Naked Gun 33 1/3: The Final Insult,1994,3 wins total,"$51,132,598",6.5,63,"124,002",True,,2025-10-26T10:46:23.089897
+tt0110632,Natural Born Killers,1994,5 wins & 10 nominations total,"$50,282,766",7.2,74,"263,444",True,,2025-10-26T10:46:23.513731
+tt0110687,North,1994,4 wins & 9 nominations,"$7,182,747",4.5,N/A,"14,983",True,,2025-10-26T10:46:23.983842
+tt0110725,On Deadly Ground,1994,1 win & 6 nominations total,"$38,590,458",4.6,33,"26,625",True,,2025-10-26T10:46:24.415806
+tt0110912,Pulp Fiction,1994,Won 1 Oscar. 69 wins & 72 nominations total,"$107,928,762",8.8,95,"2,371,438",True,,2025-10-26T10:46:24.856433
+tt0110944,Rapa Nui,1994,1 win & 1 nomination,"$305,070",6.4,N/A,"5,421",True,,2025-10-26T10:46:25.354668
+tt0110989,Richie Rich,1994,3 nominations total,"$38,087,756",5.4,49,"76,687",True,,2025-10-26T10:46:25.815632
+tt0111070,The Santa Clause,1994,2 wins & 9 nominations total,"$145,539,357",6.6,57,"141,768",True,,2025-10-26T10:46:26.230553
+tt0111127,Serial Mom,1994,1 nomination total,"$7,820,688",6.8,64,"36,994",True,,2025-10-26T10:46:26.650898
+tt0111149,Shallow Grave,1994,Won 1 BAFTA Award14 wins & 1 nomination total,"$2,079,569",7.2,69,"69,165",True,,2025-10-26T10:46:27.080416
+tt0111161,The Shawshank Redemption,1994,Nominated for 7 Oscars. 21 wins & 42 nominations total,"$28,767,189",9.3,82,"3,104,274",True,,2025-10-26T10:46:27.493041
+tt0111187,Silent Fall,1994,1 nomination total,"$3,180,674",5.9,N/A,"5,187",True,,2025-10-26T10:46:27.908779
+tt0111252,Spanking the Monkey,1994,3 wins & 5 nominations,"$1,359,736",6.3,66,"6,824",True,,2025-10-26T10:46:28.380538
+tt0111255,The Specialist,1994,4 wins & 7 nominations total,"$57,362,582",5.6,N/A,"72,085",True,,2025-10-26T10:46:28.839604
+tt0111257,Speed,1994,Won 2 Oscars. 20 wins & 20 nominations total,"$121,248,145",7.3,78,"414,713",True,,2025-10-26T10:46:29.252789
+tt0111280,Star Trek: Generations,1994,2 wins & 4 nominations total,"$75,671,125",6.6,55,"89,927",True,,2025-10-26T10:46:29.716166
+tt0111301,Street Fighter,1994,4 nominations total,"$33,423,521",4.1,34,"77,991",True,,2025-10-26T10:46:30.177504
+tt0111359,Tall Tale,1995,N/A,"$8,247,627",5.9,N/A,"4,394",True,,2025-10-26T10:46:30.878515
+tt0111400,Terminal Velocity,1994,N/A,"$16,487,349",5.5,N/A,"14,825",True,,2025-10-26T10:46:31.342937
+tt0111503,True Lies,1994,Nominated for 1 Oscar. 8 wins & 23 nominations total,"$146,282,411",7.3,63,"294,950",True,,2025-10-26T10:46:31.810534
+tt0111512,Drunken Master II,1994,3 wins & 1 nomination total,"$11,555,430",7.5,74,"50,952",True,,2025-10-26T10:46:32.225144
+tt0111756,Wyatt Earp,1994,Nominated for 1 Oscar. 3 wins & 7 nominations total,"$25,052,000",6.7,47,"58,175",True,,2025-10-26T10:46:32.696578
+tt0112389,The Thief and the Cobbler,1993,N/A,"$669,276",7.1,N/A,"5,003",True,,2025-10-26T10:46:33.156065
+tt0112401,Assassins,1995,1 win & 1 nomination total,"$30,303,072",6.3,N/A,"90,171",True,,2025-10-26T10:46:33.618168
+tt0112427,An Awfully Big Adventure,1995,2 nominations,"$259,724",5.8,N/A,"3,064",True,,2025-10-26T10:46:34.099572
+tt0112442,Bad Boys,1995,1 win & 3 nominations total,"$65,807,024",6.8,41,"309,450",True,,2025-10-26T10:46:34.521405
+tt0112462,Batman Forever,1995,Nominated for 3 Oscars. 10 wins & 26 nominations total,"$184,069,126",5.4,54,"278,326",True,,2025-10-26T10:46:34.932211
+tt0112471,Before Sunrise,1995,1 win & 7 nominations total,"$5,535,405",8.1,79,"367,504",True,,2025-10-26T10:46:35.346594
+tt0112508,Billy Madison,1995,1 nomination total,"$25,588,734",6.4,16,"164,723",True,,2025-10-26T10:46:35.764775
+tt0112573,Braveheart,1995,Won 5 Oscars. 34 wins & 34 nominations total,"$75,609,945",8.3,68,"1,142,882",True,,2025-10-26T10:46:36.186744
+tt0112579,The Bridges of Madison County,1995,Nominated for 1 Oscar. 8 wins & 19 nominations total,"$71,516,617",7.6,69,"94,556",True,,2025-10-26T10:46:36.597697
+tt0112585,The Brothers McMullen,1995,4 wins & 1 nomination,"$10,426,506",6.6,73,"8,313",True,,2025-10-26T10:46:37.075669
+tt0112682,The City of Lost Children,1995,5 wins & 14 nominations total,"$1,738,611",7.4,73,"73,866",True,,2025-10-26T10:46:37.533929
+tt0112760,Cutthroat Island,1995,1 nomination total,"$10,017,322",5.7,37,"32,062",True,,2025-10-26T10:46:37.957339
+tt0112864,Die Hard with a Vengeance,1995,2 wins & 3 nominations total,"$100,012,499",7.6,58,"424,477",True,,2025-10-26T10:46:38.368337
+tt0112883,Don Juan DeMarco,1994,Nominated for 1 Oscar. 4 wins & 5 nominations total,"$22,150,451",6.7,63,"54,447",True,,2025-10-26T10:46:38.806857
+tt0113010,Fair Game,1995,4 nominations total,"$11,534,477",4.4,13,"14,157",True,,2025-10-26T10:46:39.311091
+tt0113118,Friday,1995,1 win & 5 nominations total,"$27,467,564",7.2,54,"134,003",True,,2025-10-26T10:46:39.726164
+tt0113326,Rumble in the Bronx,1995,2 wins & 11 nominations total,"$32,392,047",6.8,61,"48,298",True,,2025-10-26T10:46:40.143903
+tt0113409,In the Mouth of Madness,1994,1 win & 4 nominations total,"$8,924,549",7.1,53,"84,849",True,,2025-10-26T10:46:40.604098
+tt0113481,Johnny Mnemonic,1995,2 wins & 3 nominations total,"$19,075,720",5.6,36,"79,282",True,,2025-10-26T10:46:41.091264
+tt0113492,Judge Dredd,1995,2 wins & 5 nominations total,"$34,693,481",5.6,N/A,"129,496",True,,2025-10-26T10:46:41.521885
+tt0113497,Jumanji,1995,4 wins & 11 nominations total,"$100,499,940",7.1,39,"401,045",True,,2025-10-26T10:46:41.993995
+tt0113540,Kids,1995,1 win & 5 nominations total,"$7,412,216",7.0,63,"88,412",True,,2025-10-26T10:46:42.461462
+tt0113758,Man with a Plan,1996,N/A,"$33,402",8.0,N/A,145,True,,2025-10-26T10:46:42.945417
+tt0113987,Nixon,1995,Nominated for 4 Oscars. 11 wins & 18 nominations total,"$13,681,765",7.0,66,"34,110",True,,2025-10-26T10:46:43.359589
+tt0114113,The Perez Family,1995,N/A,"$2,832,826",6.0,N/A,"2,550",True,,2025-10-26T10:46:43.837673
+tt0114214,The Quick and the Dead,1995,1 nomination total,"$18,636,537",6.5,49,"110,250",True,,2025-10-26T10:46:44.261510
+tt0114272,Restoration,1995,Won 2 Oscars. 2 wins & 2 nominations total,"$4,005,941",6.6,66,"10,162",True,,2025-10-26T10:46:44.731331
+tt0114319,Sabrina,1995,Nominated for 2 Oscars. 2 wins & 6 nominations total,"$53,672,080",6.3,56,"46,030",True,,2025-10-26T10:46:45.191909
+tt0114345,The Scarlet Letter,1995,1 win & 10 nominations total,"$10,382,407",5.3,N/A,"16,679",True,,2025-10-26T10:46:45.695975
+tt0114369,Se7en,1995,Nominated for 1 Oscar. 29 wins & 44 nominations total,"$101,040,643",8.6,65,"1,949,470",True,,2025-10-26T10:46:46.177020
+tt0114371,Search and Destroy,1995,1 nomination,"$389,503",5.3,N/A,"1,402",True,,2025-10-26T10:46:46.645464
+tt0114436,Showgirls,1995,10 wins & 10 nominations total,"$20,350,754",5.1,25,"79,630",True,,2025-10-26T10:46:47.156651
+tt0114536,Steal Big Steal Little,1995,N/A,"$3,150,170",4.7,N/A,"1,100",True,,2025-10-26T10:46:47.592822
+tt0114558,Strange Days,1995,2 wins & 4 nominations total,"$7,959,291",7.2,66,"82,503",True,,2025-10-26T10:46:48.016744
+tt0114614,Tank Girl,1995,N/A,"$4,064,495",5.4,46,"36,830",True,,2025-10-26T10:46:48.475826
+tt0114814,The Usual Suspects,1995,Won 2 Oscars. 37 wins & 17 nominations total,"$23,341,568",8.5,76,"1,203,191",True,,2025-10-26T10:46:48.936123
+tt0114898,Waterworld,1995,Nominated for 1 Oscar. 6 wins & 9 nominations total,"$88,246,220",6.3,56,"219,877",True,,2025-10-26T10:46:49.409060
+tt0114924,While You Were Sleeping,1995,4 wins & 5 nominations total,"$81,057,016",6.8,67,"121,250",True,,2025-10-26T10:46:49.874451
+tt0114928,White Man's Burden,1995,N/A,"$3,734,870",5.3,N/A,"5,240",True,,2025-10-26T10:46:50.366323
+tt0114938,Wild Bill,1995,3 nominations total,"$2,193,982",5.8,51,"8,401",True,,2025-10-26T10:46:50.822083
+tt0115495,Albino Alligator,1996,1 nomination,"$339,379",6.1,48,"8,688",True,,2025-10-26T10:46:51.240042
+tt0115641,Beavis and Butt-Head Do America,1996,1 win & 4 nominations total,"$63,118,386",6.8,64,"62,022",True,,2025-10-26T10:46:51.665553
+tt0115734,Bottle Rocket,1996,2 wins & 1 nomination total,"$560,069",6.9,67,"86,928",True,,2025-10-26T10:46:52.165069
+tt0115798,The Cable Guy,1996,3 wins & 2 nominations total,"$60,240,295",6.1,56,"185,590",True,,2025-10-26T10:46:52.620978
+tt0115927,Commandments,1997,1 nomination,"$548,561",5.5,N/A,"1,760",True,,2025-10-26T10:46:53.092225
+tt0115994,Curdled,1996,2 nominations total,"$49,620",5.9,N/A,"5,769",True,,2025-10-26T10:46:53.556750
+tt0116209,The English Patient,1996,Won 9 Oscars. 62 wins & 78 nominations total,"$78,676,425",7.4,86,"209,933",True,,2025-10-26T10:46:54.021613
+tt0116213,Eraser,1996,Nominated for 1 Oscar. 3 wins & 2 nominations total,"$101,295,562",6.2,56,"122,562",True,,2025-10-26T10:46:54.448018
+tt0116250,Evita,1996,Won 1 Oscar. 19 wins & 44 nominations total,"$50,047,179",6.3,45,"38,647",True,,2025-10-26T10:46:54.907780
+tt0116282,Fargo,1996,Won 2 Oscars. 84 wins & 58 nominations total,"$24,611,975",8.1,88,"765,891",True,,2025-10-26T10:46:55.323095
+tt0116361,Freeway,1996,6 wins & 4 nominations total,"$295,493",6.8,61,"33,535",True,,2025-10-26T10:46:55.741854
+tt0116367,From Dusk Till Dawn,1996,7 wins & 13 nominations total,"$25,836,616",7.2,48,"358,974",True,,2025-10-26T10:46:56.168745
+tt0116477,Hamlet,1996,Nominated for 4 Oscars. 9 wins & 25 nominations total,"$4,708,156",7.7,N/A,"41,367",True,,2025-10-26T10:46:56.581924
+tt0116483,Happy Gilmore,1996,1 win & 4 nominations total,"$39,041,354",7.0,31,"293,294",True,,2025-10-26T10:46:57.046465
+tt0116493,Harriet the Spy,1996,3 wins & 2 nominations total,"$26,570,048",6.0,N/A,"12,004",True,,2025-10-26T10:46:57.503246
+tt0116583,The Hunchback of Notre Dame,1996,Nominated for 1 Oscar. 8 wins & 26 nominations total,"$100,138,851",7.0,74,"180,933",True,,2025-10-26T10:46:57.916421
+tt0116629,Independence Day,1996,Won 1 Oscar. 35 wins & 35 nominations total,"$306,169,268",7.0,59,"635,621",True,,2025-10-26T10:46:58.343188
+tt0116654,The Island of Dr. Moreau,1996,2 wins & 10 nominations total,"$27,663,982",4.6,37,"37,450",True,,2025-10-26T10:46:58.757936
+tt0116669,Jack,1996,6 nominations total,"$58,620,973",5.8,31,"65,291",True,,2025-10-26T10:46:59.223205
+tt0116695,Jerry Maguire,1996,Won 1 Oscar. 26 wins & 41 nominations total,"$153,952,592",7.3,77,"299,553",True,,2025-10-26T10:46:59.682243
+tt0116705,Jingle All the Way,1996,2 wins & 4 nominations total,"$60,592,389",5.8,34,"123,903",True,,2025-10-26T10:47:00.155222
+tt0116743,Kama Sutra: A Tale of Love,1996,1 win & 1 nomination total,"$4,109,095",6.0,N/A,"11,779",True,,2025-10-26T10:47:00.585834
+tt0116830,Last Man Standing,1996,N/A,"$18,115,927",6.4,44,"62,842",True,,2025-10-26T10:47:01.050126
+tt0116908,The Long Kiss Goodnight,1996,3 nominations total,"$33,447,612",6.8,43,"89,593",True,,2025-10-26T10:47:01.514984
+tt0117008,Matilda,1996,3 wins & 7 nominations total,"$33,459,416",7.0,72,"190,104",True,,2025-10-26T10:47:01.933865
+tt0117039,Michael Collins,1996,Nominated for 2 Oscars. 4 wins & 17 nominations total,"$11,092,559",7.1,59,"35,506",True,,2025-10-26T10:47:02.353104
+tt0117060,Mission: Impossible,1996,3 wins & 17 nominations total,"$180,981,856",7.2,59,"507,313",True,,2025-10-26T10:47:02.792414
+tt0117218,The Nutty Professor,1996,Won 1 Oscar. 10 wins & 12 nominations total,"$128,814,019",5.7,64,"128,638",True,,2025-10-26T10:47:03.214520
+tt0117500,The Rock,1996,Nominated for 1 Oscar. 9 wins & 10 nominations total,"$134,069,511",7.4,58,"374,427",True,,2025-10-26T10:47:03.638431
+tt0117571,Scream,1996,12 wins & 11 nominations total,"$103,046,663",7.4,66,"425,175",True,,2025-10-26T10:47:04.063748
+tt0117589,Secrets & Lies,1996,Nominated for 5 Oscars. 36 wins & 47 nominations total,"$13,417,292",8.0,92,"48,878",True,,2025-10-26T10:47:04.479116
+tt0117603,Set It Off,1996,5 wins & 6 nominations total,"$36,461,139",6.9,62,"19,407",True,,2025-10-26T10:47:04.959443
+tt0117666,Sling Blade,1996,Won 1 Oscar. 14 wins & 15 nominations total,"$24,444,121",8.0,85,"103,152",True,,2025-10-26T10:47:05.372391
+tt0117723,Spy Hard,1996,N/A,"$26,960,191",5.3,25,"42,408",True,,2025-10-26T10:47:05.785469
+tt0117791,Surviving Picasso,1996,N/A,"$2,021,348",6.3,55,"8,060",True,,2025-10-26T10:47:06.242873
+tt0117802,Swingers,1996,3 wins & 3 nominations total,"$4,555,020",7.2,71,"90,281",True,,2025-10-26T10:47:06.720619
+tt0117998,Twister,1996,Nominated for 2 Oscars. 11 wins & 17 nominations total,"$241,830,615",6.6,68,"246,056",True,,2025-10-26T10:47:07.160005
+tt0118073,A Very Brady Sequel,1996,2 nominations total,"$21,440,752",5.9,56,"12,123",True,,2025-10-26T10:47:07.642437
+tt0118111,Waiting for Guffman,1996,2 wins & 3 nominations total,"$2,923,982",7.4,72,"31,662",True,,2025-10-26T10:47:08.133843
+tt0118163,The Whole Wide World,1996,6 wins & 7 nominations,"$375,757",7.0,N/A,"4,162",True,,2025-10-26T10:47:08.595465
+tt0118564,Affliction,1997,Won 1 Oscar. 8 wins & 19 nominations total,"$6,330,054",6.9,79,"20,627",True,,2025-10-26T10:47:09.048398
+tt0118571,Air Force One,1997,Nominated for 2 Oscars. 7 wins & 13 nominations total,"$172,956,409",6.5,62,"219,324",True,,2025-10-26T10:47:09.517528
+tt0118583,Alien: Resurrection,1997,7 wins & 21 nominations total,"$47,795,658",6.2,62,"285,408",True,,2025-10-26T10:47:09.979036
+tt0118589,Glitter,2001,3 wins & 10 nominations total,"$4,274,407",2.4,14,"24,250",True,,2025-10-26T10:47:10.466051
+tt0118604,An American Werewolf in Paris,1997,3 wins & 2 nominations total,"$26,570,463",5.1,31,"28,267",True,,2025-10-26T10:47:10.934972
+tt0118607,Amistad,1997,Nominated for 4 Oscars. 11 wins & 44 nominations total,"$44,229,441",7.3,64,"86,310",True,,2025-10-26T10:47:11.354881
+tt0118655,Austin Powers: International Man of Mystery,1997,3 wins & 8 nominations total,"$53,911,748",7.0,51,"268,496",True,,2025-10-26T10:47:11.814038
+tt0118661,The Avengers,1998,4 wins & 17 nominations total,"$23,384,939",3.8,12,"46,537",True,,2025-10-26T10:47:12.227089
+tt0118662,Ayn Rand: A Sense of Life,1996,Nominated for 1 Oscar. 1 win & 2 nominations total,"$205,246",6.5,N/A,652,True,,2025-10-26T10:47:12.716016
+tt0118665,Baby Geniuses,1999,2 wins & 3 nominations total,"$27,250,736",2.6,7,"27,943",True,,2025-10-26T10:47:13.172803
+tt0118688,Batman & Robin,1997,10 wins & 22 nominations total,"$107,353,792",3.8,29,"278,703",True,,2025-10-26T10:47:13.583609
+tt0118689,Bean,1997,2 wins & 1 nomination total,"$45,319,423",6.5,52,"114,270",True,,2025-10-26T10:47:14.045719
+tt0118691,The Beautician and the Beast,1997,1 nomination total,"$11,486,880",5.5,N/A,"10,382",True,,2025-10-26T10:47:14.458374
+tt0118749,Boogie Nights,1997,Nominated for 3 Oscars. 36 wins & 64 nominations total,"$26,416,349",7.9,86,"294,236",True,,2025-10-26T10:47:15.047980
+tt0118771,Breakdown,1997,1 win & 2 nominations total,"$50,159,144",7.0,74,"66,714",True,,2025-10-26T10:47:15.622688
+tt0118880,Con Air,1997,Nominated for 2 Oscars. 7 wins & 11 nominations total,"$101,117,573",6.9,52,"334,216",True,,2025-10-26T10:47:16.063422
+tt0118884,Contact,1997,Nominated for 1 Oscar. 14 wins & 32 nominations total,"$100,920,329",7.5,62,"305,697",True,,2025-10-26T10:47:16.550844
+tt0118887,Cop Land,1997,1 win & 1 nomination total,"$44,862,187",7.0,64,"112,175",True,,2025-10-26T10:47:17.014164
+tt0118901,Critical Care,1997,1 nomination,"$221,193",5.9,N/A,"2,335",True,,2025-10-26T10:47:17.480240
+tt0118928,Dante's Peak,1997,4 wins & 1 nomination total,"$67,127,760",6.1,43,"104,678",True,,2025-10-26T10:47:17.942569
+tt0118954,Deconstructing Harry,1997,Nominated for 1 Oscar. 4 wins & 6 nominations total,"$10,686,841",7.3,62,"49,726",True,,2025-10-26T10:47:18.361928
+tt0118972,The Devil's Own,1997,1 nomination,"$42,868,348",6.2,53,"73,243",True,,2025-10-26T10:47:18.830245
+tt0119019,Dream with the Fishes,1997,N/A,"$543,708",6.9,N/A,"1,926",True,,2025-10-26T10:47:19.349410
+tt0119062,The End of Violence,1997,1 win & 4 nominations total,"$386,673",5.6,N/A,"5,447",True,,2025-10-26T10:47:19.826062
+tt0119079,Onegin,1999,Nominated for 1 BAFTA Award3 wins & 4 nominations total,"$206,128",6.8,59,"8,409",True,,2025-10-26T10:47:20.310020
+tt0119094,Face/Off,1997,Nominated for 1 Oscar. 11 wins & 23 nominations total,"$112,276,146",7.3,82,"418,395",True,,2025-10-26T10:47:20.773959
+tt0119142,For Richer or Poorer,1997,1 nomination total,"$31,642,995",5.8,N/A,"12,725",True,,2025-10-26T10:47:21.236911
+tt0119164,The Full Monty,1997,Won 1 Oscar. 37 wins & 35 nominations total,"$45,950,122",7.2,75,"117,363",True,,2025-10-26T10:47:21.724950
+tt0119190,George of the Jungle,1997,1 win & 3 nominations total,"$105,263,257",5.6,53,"88,109",True,,2025-10-26T10:47:22.210203
+tt0119219,Goodbye Lover,1998,2 nominations,"$1,940,299",5.6,N/A,"4,404",True,,2025-10-26T10:47:22.668192
+tt0119282,Hercules,1997,Nominated for 1 Oscar. 9 wins & 16 nominations total,"$99,112,101",7.3,74,"272,825",True,,2025-10-26T10:47:23.486886
+tt0119303,Home Alone 3,1997,3 nominations total,"$30,882,515",4.6,N/A,"134,440",True,,2025-10-26T10:47:24.431911
+tt0119304,Home Fries,1998,N/A,"$10,493,366",5.1,45,"9,058",True,,2025-10-26T10:47:24.895625
+tt0119324,The House of Yes,1997,1 win & 6 nominations total,"$626,057",6.6,54,"9,133",True,,2025-10-26T10:47:26.085222
+tt0119336,Hurlyburly,1998,1 win & 3 nominations total,"$1,798,862",5.8,N/A,"10,572",True,,2025-10-26T10:47:26.840962
+tt0119338,Hurricane Streets,1997,3 wins & 3 nominations,"$375,634",6.4,N/A,"1,322",True,,2025-10-26T10:47:28.123839
+tt0119346,I Married a Strange Person!,1997,3 wins & 4 nominations,"$206,272",6.9,N/A,"2,196",True,,2025-10-26T10:47:28.600221
+tt0119360,In & Out,1997,Nominated for 1 Oscar. 7 wins & 18 nominations total,"$63,856,929",6.4,70,"45,681",True,,2025-10-26T10:47:29.345264
+tt0119395,The Jackal,1997,1 win & 4 nominations total,"$54,930,280",6.4,36,"130,235",True,,2025-10-26T10:47:30.049201
+tt0119396,Jackie Brown,1997,Nominated for 1 Oscar. 9 wins & 24 nominations total,"$39,673,162",7.5,62,"394,343",True,,2025-10-26T10:47:30.509441
+tt0119468,Kiss the Girls,1997,5 nominations total,"$60,527,873",6.6,46,"98,255",True,,2025-10-26T10:47:30.926568
+tt0119485,Kundun,1997,Nominated for 4 Oscars. 7 wins & 13 nominations total,"$5,684,789",7.0,74,"31,010",True,,2025-10-26T10:47:31.388166
+tt0119502,The Last Time I Committed Suicide,1997,N/A,"$46,362",5.5,N/A,"2,544",True,,2025-10-26T10:47:31.854219
+tt0119506,Lawn Dogs,1997,7 wins & 4 nominations,"$106,404",7.4,N/A,"8,742",True,,2025-10-26T10:47:32.337764
+tt0119509,Leave It to Beaver,1997,4 nominations,"$10,925,060",5.2,42,"4,618",True,,2025-10-26T10:47:32.818055
+tt0119558,Lolita,1997,2 wins & 4 nominations total,"$1,071,255",6.8,46,"71,694",True,,2025-10-26T10:47:33.286592
+tt0119560,No Looking Back,1998,N/A,"$222,099",5.9,N/A,"2,220",True,,2025-10-26T10:47:33.750781
+tt0119567,The Lost World: Jurassic Park,1997,Nominated for 1 Oscar. 4 wins & 28 nominations total,"$229,086,679",6.6,59,"469,641",True,,2025-10-26T10:47:34.176605
+tt0119592,Mad City,1997,1 nomination total,"$10,541,523",6.3,45,"21,644",True,,2025-10-26T10:47:34.633438
+tt0119594,Twilight,1998,N/A,"$15,055,091",6.2,N/A,"14,449",True,,2025-10-26T10:47:35.138413
+tt0119643,Meet Joe Black,1998,3 wins & 6 nominations total,"$44,619,100",7.2,43,"290,273",True,,2025-10-26T10:47:35.652908
+tt0119654,Men in Black,1997,Won 1 Oscar. 22 wins & 39 nominations total,"$250,690,539",7.3,72,"649,952",True,,2025-10-26T10:47:36.067134
+tt0119668,Midnight in the Garden of Good and Evil,1997,1 win & 4 nominations total,"$25,105,255",6.6,56,"42,981",True,,2025-10-26T10:47:36.545851
+tt0119675,Mimic,1997,3 wins & 8 nominations total,"$25,480,490",6.0,56,"57,996",True,,2025-10-26T10:47:37.195067
+tt0119715,Mousehunt,1997,2 wins & 2 nominations total,"$61,917,389",6.5,53,"63,338",True,,2025-10-26T10:47:37.770573
+tt0119718,Mr. Magoo,1997,2 nominations total,"$21,437,192",4.1,18,"16,696",True,,2025-10-26T10:47:38.234881
+tt0119738,My Best Friend's Wedding,1997,Nominated for 1 Oscar. 12 wins & 24 nominations total,"$127,120,029",6.4,51,"162,542",True,,2025-10-26T10:47:38.751848
+tt0119792,Nil by Mouth,1997,Won 2 BAFTA 9 wins & 9 nominations total,"$266,130",7.3,76,"10,464",True,,2025-10-26T10:47:39.212062
+tt0119802,Monument Ave.,1998,1 nomination,"$333,760",6.6,71,"1,923",True,,2025-10-26T10:47:39.921798
+tt0119807,Nothing to Lose,1997,1 win total,"$44,480,039",6.7,N/A,"51,424",True,,2025-10-26T10:47:40.386637
+tt0119822,As Good as It Gets,1997,Won 2 Oscars. 38 wins & 54 nominations total,"$148,478,011",7.7,67,"332,618",True,,2025-10-26T10:47:40.939963
+tt0119874,The Peacemaker,1997,2 nominations total,"$41,263,140",6.0,43,"65,442",True,,2025-10-26T10:47:41.426547
+tt0119925,The Postman,1997,7 wins & 7 nominations total,"$17,626,234",6.1,29,"81,394",True,,2025-10-26T10:47:41.950548
+tt0119934,Without Limits,1998,1 win & 2 nominations total,"$777,423",7.2,71,"7,901",True,,2025-10-26T10:47:42.425129
+tt0119937,Prefontaine,1997,N/A,"$589,304",6.8,55,"7,902",True,,2025-10-26T10:47:42.838552
+tt0119942,Primary Colors,1998,Nominated for 2 Oscars. 10 wins & 31 nominations total,"$39,001,187",6.7,70,"31,019",True,,2025-10-26T10:47:43.311750
+tt0119951,Private Parts,1997,2 wins & 3 nominations total,"$41,230,799",6.9,67,"40,007",True,,2025-10-26T10:47:43.770039
+tt0120070,Savior,1998,3 wins total,"$14,328",7.2,N/A,"12,020",True,,2025-10-26T10:47:44.343814
+tt0120082,Scream 2,1997,8 wins & 13 nominations total,"$101,363,301",6.3,62,"227,818",True,,2025-10-26T10:47:44.767268
+tt0120148,Sliding Doors,1998,Nominated for 1 BAFTA Award6 wins & 4 nominations total,"$11,841,544",6.7,59,"73,343",True,,2025-10-26T10:47:45.240451
+tt0120157,Soldier,1998,1 nomination total,"$14,594,226",6.1,N/A,"61,551",True,,2025-10-26T10:47:45.707004
+tt0120169,Soul Food,1997,6 wins & 11 nominations,"$43,700,855",7.0,68,"9,135",True,,2025-10-26T10:47:46.247965
+tt0120177,Spawn,1997,2 wins & 6 nominations total,"$54,870,175",5.2,34,"74,931",True,,2025-10-26T10:47:46.711402
+tt0120179,Speed 2: Cruise Control,1997,1 win & 9 nominations total,"$48,608,066",4.0,24,"88,751",True,,2025-10-26T10:47:47.181713
+tt0120184,Sphere,1998,3 nominations total,"$37,020,277",6.1,35,"117,084",True,,2025-10-26T10:47:47.609566
+tt0120188,Three Kings,1999,8 wins & 19 nominations total,"$60,652,036",7.1,82,"185,340",True,,2025-10-26T10:47:48.026770
+tt0120201,Starship Troopers,1997,Nominated for 1 Oscar. 3 wins & 16 nominations total,"$54,814,377",7.3,52,"340,192",True,,2025-10-26T10:47:48.470587
+tt0120207,Steel,1997,1 nomination total,"$1,710,972",3.0,28,"15,516",True,,2025-10-26T10:47:48.962228
+tt0120241,Suicide Kings,1997,N/A,"$1,740,156",6.9,43,"29,922",True,,2025-10-26T10:47:49.453167
+tt0120303,Telling Lies in America,1997,1 win,"$318,809",6.2,65,"2,471",True,,2025-10-26T10:47:49.954505
+tt0120324,A Simple Plan,1998,Nominated for 2 Oscars. 16 wins & 24 nominations total,"$16,316,273",7.5,81,"80,865",True,,2025-10-26T10:47:50.374873
+tt0120338,Titanic,1997,Won 11 Oscars. 126 wins & 84 nominations total,"$674,354,882",7.9,75,"1,358,780",True,,2025-10-26T10:47:50.790045
+tt0120363,Toy Story 2,1999,Nominated for 1 Oscar. 21 wins & 27 nominations total,"$245,852,179",7.9,88,"654,814",True,,2025-10-26T10:47:51.213434
+tt0120390,Turbulence,1997,4 nominations total,"$11,538,235",5.0,N/A,"13,238",True,,2025-10-26T10:47:51.700516
+tt0120394,Twin Town,1997,1 win & 1 nomination,"$127,923",6.7,N/A,"6,511",True,,2025-10-26T10:47:52.158537
+tt0120458,Virus,1999,N/A,"$14,036,005",5.1,19,"31,158",True,,2025-10-26T10:47:52.674868
+tt0120461,Volcano,1997,1 win & 1 nomination total,"$49,323,468",5.6,54,"85,545",True,,2025-10-26T10:47:53.098355
+tt0120483,The Man Who Knew Too Little,1997,N/A,"$13,717,039",6.6,N/A,"36,141",True,,2025-10-26T10:47:53.563179
+tt0120484,The Waterboy,1998,6 wins & 6 nominations total,"$161,491,646",6.2,41,"188,653",True,,2025-10-26T10:47:53.991736
+tt0120490,Welcome to Sarajevo,1997,1 win & 2 nominations total,"$334,319",6.7,72,"7,946",True,,2025-10-26T10:47:54.466091
+tt0120510,Wide Awake,1998,2 nominations,"$282,175",5.8,50,"4,652",True,,2025-10-26T10:47:54.941071
+tt0120586,American History X,1998,Nominated for 1 Oscar. 4 wins & 15 nominations total,"$6,719,864",8.5,62,"1,243,261",True,,2025-10-26T10:47:55.407591
+tt0120587,Antz,1998,Nominated for 1 BAFTA Award6 wins & 14 nominations total,"$90,757,863",6.5,73,"169,324",True,,2025-10-26T10:47:55.820036
+tt0120591,Armageddon,1998,Nominated for 4 Oscars. 15 wins & 41 nominations total,"$201,578,182",6.7,42,"470,671",True,,2025-10-26T10:47:56.526997
+tt0120595,Babe: Pig in the City,1998,Nominated for 1 Oscar. 1 win & 17 nominations total,"$18,319,860",5.8,68,"37,060",True,,2025-10-26T10:47:56.943651
+tt0120596,The Bachelor,1999,1 win & 2 nominations total,"$21,760,240",5.1,31,"19,198",True,,2025-10-26T10:47:57.411526
+tt0120601,Being John Malkovich,1999,Nominated for 3 Oscars. 49 wins & 79 nominations total,"$22,863,596",7.7,90,"363,946",True,,2025-10-26T10:47:57.904904
+tt0120603,Beloved,1998,Nominated for 1 Oscar. 3 wins & 24 nominations total,"$22,852,487",6.0,57,"9,677",True,,2025-10-26T10:47:58.364049
+tt0120616,The Mummy,1999,Nominated for 1 Oscar. 5 wins & 24 nominations total,"$157,095,368",7.1,48,"489,354",True,,2025-10-26T10:47:58.784944
+tt0120618,Breakfast of Champions,1999,1 nomination,"$178,278",4.5,42,"8,339",True,,2025-10-26T10:47:59.245264
+tt0120620,Brokedown Palace,1999,1 nomination,"$10,115,013",6.4,44,"24,354",True,,2025-10-26T10:47:59.716820
+tt0120623,A Bug's Life,1998,Nominated for 1 Oscar. 14 wins & 21 nominations total,"$162,798,565",7.2,78,"331,897",True,,2025-10-26T10:48:00.136113
+tt0120630,Chicken Run,2000,Nominated for 2 BAFTA 24 wins & 27 nominations total,"$106,834,564",7.1,88,"221,612",True,,2025-10-26T10:48:00.565297
+tt0120631,Ever After: A Cinderella Story,1998,6 wins & 15 nominations total,"$65,705,771",7.1,66,"84,139",True,,2025-10-26T10:48:01.081177
+tt0120633,A Civil Action,1998,Nominated for 2 Oscars. 5 wins & 10 nominations total,"$56,709,981",6.6,68,"32,005",True,,2025-10-26T10:48:01.539181
+tt0120646,The Deep End of the Ocean,1999,3 wins & 2 nominations,"$13,898,649",6.3,45,"21,405",True,,2025-10-26T10:48:02.012548
+tt0120655,Dogma,1999,8 nominations total,"$32,846,695",7.3,62,"236,518",True,,2025-10-26T10:48:02.432523
+tt0120657,The 13th Warrior,1999,2 wins & 2 nominations total,"$32,698,899",6.6,42,"137,391",True,,2025-10-26T10:48:02.844713
+tt0120660,Enemy of the State,1998,5 wins & 16 nominations total,"$111,549,836",7.3,67,"271,120",True,,2025-10-26T10:48:03.268623
+tt0120662,Eye of the Beholder,1999,1 win total,"$16,500,786",5.0,29,"16,268",True,,2025-10-26T10:48:03.728436
+tt0120663,Eyes Wide Shut,1999,12 wins & 30 nominations total,"$55,691,208",7.5,69,"408,870",True,,2025-10-26T10:48:04.146946
+tt0120667,Fantastic Four,2005,4 wins & 13 nominations total,"$154,696,080",5.7,40,"368,633",True,,2025-10-26T10:48:04.556536
+tt0120669,Fear and Loathing in Las Vegas,1998,1 win & 3 nominations total,"$10,680,275",7.5,41,"312,052",True,,2025-10-26T10:48:04.993215
+tt0120670,Firestorm,1998,N/A,"$8,165,212",4.8,N/A,"4,462",True,,2025-10-26T10:48:05.416499
+tt0120679,Frida,2002,Won 2 Oscars. 17 wins & 47 nominations total,"$25,885,000",7.3,61,"99,487",True,,2025-10-26T10:48:05.835527
+tt0120681,From Hell,2001,15 nominations total,"$31,602,566",6.7,54,"169,551",True,,2025-10-26T10:48:06.290259
+tt0120683,Gloria,1999,6 nominations,"$4,197,729",5.1,26,"6,365",True,,2025-10-26T10:48:06.749900
+tt0120684,Gods and Monsters,1998,Won 1 Oscar. 38 wins & 33 nominations total,"$6,451,628",7.3,74,"33,632",True,,2025-10-26T10:48:07.212516
+tt0120685,Godzilla,1998,10 wins & 13 nominations total,"$136,314,294",5.5,32,"210,191",True,,2025-10-26T10:48:07.627520
+tt0120686,Stepmom,1998,8 wins & 7 nominations total,"$91,137,662",6.8,58,"77,395",True,,2025-10-26T10:48:08.090767
+tt0120689,The Green Mile,1999,Nominated for 4 Oscars. 15 wins & 37 nominations total,"$136,801,374",8.6,61,"1,511,405",True,,2025-10-26T10:48:08.551006
+tt0120694,Halloween H20: 20 Years Later,1998,2 wins & 12 nominations total,"$55,041,738",5.8,52,"86,565",True,,2025-10-26T10:48:08.976096
+tt0120696,Hard Rain,1998,N/A,"$19,870,567",5.9,36,"38,351",True,,2025-10-26T10:48:09.431517
+tt0120701,Holy Man,1998,1 nomination,"$12,069,719",5.0,42,"21,207",True,,2025-10-26T10:48:09.857489
+tt0120703,How Stella Got Her Groove Back,1998,4 wins & 8 nominations,"$37,672,941",5.7,56,"8,508",True,,2025-10-26T10:48:10.311525
+tt0120710,In Dreams,1999,1 win total,"$12,017,369",5.5,N/A,"14,016",True,,2025-10-26T10:48:10.783084
+tt0120716,Jakob the Liar,1999,2 wins & 3 nominations total,"$4,956,401",6.5,40,"18,527",True,,2025-10-26T10:48:11.195872
+tt0120722,Living Out Loud,1998,5 nominations total,"$12,905,901",6.5,64,"5,176",True,,2025-10-26T10:48:11.653159
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,2001,Won 4 Oscars. 125 wins & 126 nominations total,"$319,372,078",8.9,92,"2,145,663",True,,2025-10-26T10:48:12.072949
+tt0120738,Lost in Space,1998,3 wins & 17 nominations total,"$69,117,629",5.2,43,"76,464",True,,2025-10-26T10:48:12.547947
+tt0120741,Mafia!,1998,2 nominations,"$19,889,299",5.5,N/A,"16,182",True,,2025-10-26T10:48:13.000552
+tt0120746,The Mask of Zorro,1998,Nominated for 2 Oscars. 9 wins & 18 nominations total,"$94,095,523",6.8,62,"206,947",True,,2025-10-26T10:48:13.420009
+tt0120751,Mighty Joe Young,1998,Nominated for 1 Oscar. 1 win & 4 nominations total,"$50,632,037",5.7,51,"31,958",True,,2025-10-26T10:48:13.851616
+tt0120755,Mission: Impossible II,2000,12 wins & 20 nominations total,"$215,409,889",6.1,59,"404,699",True,,2025-10-26T10:48:14.271759
+tt0120757,The Mod Squad,1999,7 nominations total,"$13,263,993",4.3,16,"9,785",True,,2025-10-26T10:48:14.722935
+tt0120764,My Favorite Martian,1999,3 nominations total,"$36,850,101",5.1,33,"14,969",True,,2025-10-26T10:48:15.139084
+tt0120784,Payback,1999,2 wins & 2 nominations total,"$81,526,121",7.1,46,"151,570",True,,2025-10-26T10:48:15.561622
+tt0120789,Pleasantville,1998,Nominated for 3 Oscars. 18 wins & 45 nominations total,"$40,584,421",7.5,71,"140,989",True,,2025-10-26T10:48:16.022781
+tt0120791,Practical Magic,1998,1 win & 6 nominations total,"$46,732,881",6.3,47,"101,203",True,,2025-10-26T10:48:16.493580
+tt0120794,The Prince of Egypt,1998,Won 1 Oscar. 12 wins & 27 nominations total,"$101,413,188",7.2,64,"158,262",True,,2025-10-26T10:48:16.907782
+tt0120797,Pushing Tin,1999,2 nominations,"$8,408,835",6.0,47,"30,747",True,,2025-10-26T10:48:17.343264
+tt0120802,The Red Violin,1998,Won 1 Oscar. 20 wins & 19 nominations total,"$10,019,109",7.6,57,"35,364",True,,2025-10-26T10:48:17.752890
+tt0120804,Resident Evil,2002,7 nominations total,"$40,119,709",6.6,35,"303,743",True,,2025-10-26T10:48:18.178821
+tt0120812,Rush Hour,1998,6 wins & 9 nominations total,"$141,186,864",7.0,61,"319,211",True,,2025-10-26T10:48:18.619469
+tt0120813,Safe Men,1998,N/A,"$45,724",5.8,N/A,"3,623",True,,2025-10-26T10:48:19.107704
+tt0120815,Saving Private Ryan,1998,Won 5 Oscars. 79 wins & 75 nominations total,"$217,049,603",8.6,91,"1,598,938",True,,2025-10-26T10:48:19.526738
+tt0120824,The Shipping News,2001,Nominated for 2 BAFTA 2 wins & 13 nominations total,"$11,434,216",6.7,47,"34,123",True,,2025-10-26T10:48:19.987764
+tt0120832,Snake Eyes,1998,1 win & 4 nominations total,"$55,591,409",6.1,52,"91,526",True,,2025-10-26T10:48:20.417988
+tt0120834,Snow Falling on Cedars,1999,Nominated for 1 Oscar. 5 wins & 11 nominations total,"$14,417,593",6.7,44,"14,817",True,,2025-10-26T10:48:20.887830
+tt0120836,Lost & Found,1999,1 nomination total,"$6,552,255",5.1,19,"7,028",True,,2025-10-26T10:48:21.345522
+tt0120844,Star Trek: Insurrection,1998,3 wins & 8 nominations total,"$70,187,658",6.4,64,"81,912",True,,2025-10-26T10:48:21.834266
+tt0120855,Tarzan,1999,Won 1 Oscar. 11 wins & 23 nominations total,"$171,091,819",7.3,80,"263,547",True,,2025-10-26T10:48:22.248942
+tt0120857,Tea with Mussolini,1999,Won 1 BAFTA Award5 wins & 3 nominations total,"$14,401,563",6.9,53,"14,523",True,,2025-10-26T10:48:22.705145
+tt0120863,The Thin Red Line,1998,Nominated for 7 Oscars. 23 wins & 47 nominations total,"$36,400,491",7.6,78,"209,437",True,,2025-10-26T10:48:23.122852
+tt0120877,Vampires,1998,7 wins & 6 nominations total,"$20,308,772",6.1,42,"66,942",True,,2025-10-26T10:48:23.623406
+tt0120878,The Velocity of Gary,1998,N/A,"$2,143",4.8,N/A,"1,856",True,,2025-10-26T10:48:24.088749
+tt0120888,The Wedding Singer,1998,5 wins & 7 nominations total,"$80,245,725",6.9,60,"167,280",True,,2025-10-26T10:48:24.547369
+tt0120889,What Dreams May Come,1998,Won 1 Oscar. 7 wins & 2 nominations total,"$55,382,927",7.0,44,"117,520",True,,2025-10-26T10:48:25.009258
+tt0120891,Wild Wild West,1999,16 wins & 17 nominations total,"$113,804,681",4.9,40,"171,641",True,,2025-10-26T10:48:25.472587
+tt0120903,X-Men,2000,14 wins & 26 nominations total,"$157,299,718",7.3,64,"682,015",True,,2025-10-26T10:48:25.898817
+tt0120907,eXistenZ,1999,3 wins & 14 nominations total,"$2,856,712",6.8,70,"111,094",True,,2025-10-26T10:48:26.322224
+tt0120910,Fantasia 2000,1999,4 wins & 7 nominations total,"$60,655,420",7.1,59,"43,005",True,,2025-10-26T10:48:26.774792
+tt0120912,Men in Black II,2002,4 wins & 16 nominations total,"$193,735,288",6.2,49,"421,618",True,,2025-10-26T10:48:27.236927
+tt0120913,Titan A.E.,2000,1 win & 6 nominations total,"$22,753,426",6.6,48,"65,351",True,,2025-10-26T10:48:27.693052
+tt0120915,Star Wars: Episode I - The Phantom Menace,1999,Nominated for 3 Oscars. 28 wins & 71 nominations total,"$487,576,624",6.5,51,"907,382",True,,2025-10-26T10:48:28.109870
+tt0120917,The Emperor's New Groove,2000,Nominated for 1 Oscar. 7 wins & 27 nominations total,"$89,636,687",7.4,70,"242,173",True,,2025-10-26T10:48:28.529854
+tt0121765,Star Wars: Episode II - Attack of the Clones,2002,Nominated for 1 Oscar. 21 wins & 71 nominations total,"$310,676,740",6.6,54,"803,328",True,,2025-10-26T10:48:28.944691
+tt0121766,Star Wars: Episode III - Revenge of the Sith,2005,Nominated for 1 Oscar. 29 wins & 64 nominations total,"$414,378,291",7.6,68,"900,423",True,,2025-10-26T10:48:29.363352
+tt0122151,Lethal Weapon 4,1998,4 wins & 11 nominations total,"$130,444,603",6.6,39,"177,572",True,,2025-10-26T10:48:29.853754
+tt0122459,Return to Me,2000,2 wins & 2 nominations total,"$32,722,798",7.0,54,"24,415",True,,2025-10-26T10:48:30.279266
+tt0122933,Analyze This,1999,4 wins & 7 nominations total,"$106,885,658",6.7,60,"166,116",True,,2025-10-26T10:48:30.746749
+tt0123209,The Other Sister,1999,2 nominations total,"$27,807,627",6.4,28,"13,224",True,,2025-10-26T10:48:31.209028
+tt0123221,Just the Ticket,1998,1 nomination,"$430,404",5.6,N/A,"2,031",True,,2025-10-26T10:48:31.673133
+tt0123964,Life,1999,Nominated for 1 Oscar. 1 win & 6 nominations total,"$64,016,268",6.8,63,"59,656",True,,2025-10-26T10:48:32.087055
+tt0124198,Very Bad Things,1998,2 wins & 3 nominations total,"$9,898,412",6.3,33,"50,332",True,,2025-10-26T10:48:32.547701
+tt0124298,Blast from the Past,1999,1 nomination total,"$26,511,114",6.7,50,"75,400",True,,2025-10-26T10:48:33.007666
+tt0124315,The Cider House Rules,1999,Won 2 Oscars. 8 wins & 30 nominations total,"$57,545,092",7.4,75,"108,131",True,,2025-10-26T10:48:33.429007
+tt0125022,Heartbreakers,2001,4 nominations total,"$40,336,607",6.2,47,"60,998",True,,2025-10-26T10:48:33.892323
+tt0125439,Notting Hill,1999,Won 1 BAFTA Award11 wins & 17 nominations total,"$116,089,678",7.2,68,"371,379",True,,2025-10-26T10:48:34.313494
+tt0125454,Paulie,1998,Won 1 BAFTA Award2 wins & 6 nominations total,"$26,875,268",6.5,N/A,"17,125",True,,2025-10-26T10:48:34.727009
+tt0125664,Man on the Moon,1999,5 wins & 25 nominations total,"$34,607,430",7.4,58,"140,789",True,,2025-10-26T10:48:35.145976
+tt0125971,Outside Providence,1999,1 nomination,"$7,302,522",6.4,62,"9,461",True,,2025-10-26T10:48:35.611875
+tt0126029,Shrek,2001,Won 1 Oscar. 40 wins & 60 nominations total,"$268,698,241",7.9,84,"790,161",True,,2025-10-26T10:48:36.027062
+tt0126250,Cookie's Fortune,1999,3 wins & 11 nominations,"$10,920,544",6.8,70,"13,972",True,,2025-10-26T10:48:36.500610
+tt0126886,Election,1999,Nominated for 1 Oscar. 16 wins & 34 nominations total,"$14,902,041",7.2,83,"109,811",True,,2025-10-26T10:48:36.939714
+tt0126916,For Love of the Game,1999,7 nominations total,"$35,188,640",6.6,43,"39,393",True,,2025-10-26T10:48:37.494867
+tt0127536,Elizabeth,1998,Won 1 Oscar. 35 wins & 56 nominations total,"$30,082,699",7.4,75,"108,734",True,,2025-10-26T10:48:37.920898
+tt0128214,"First Love, Last Rites",1997,1 win & 1 nomination total,"$42,953",5.6,N/A,379,True,,2025-10-26T10:48:38.334031
+tt0128239,Grey Owl,1999,3 wins & 5 nominations total,"$632,617",6.0,N/A,"4,128",True,,2025-10-26T10:48:38.776758
+tt0128278,Instinct,1999,1 win & 2 nominations total,"$34,105,207",6.5,43,"34,687",True,,2025-10-26T10:48:39.233525
+tt0128445,Rushmore,1998,17 wins & 16 nominations total,"$17,105,219",7.6,87,"205,779",True,,2025-10-26T10:48:39.660950
+tt0128853,You've Got Mail,1998,6 wins & 8 nominations total,"$115,821,495",6.7,58,"238,946",True,,2025-10-26T10:48:40.116373
+tt0129136,Hell's Kitchen,1998,N/A,"$11,710",4.6,N/A,"2,850",True,,2025-10-26T10:48:40.583103
+tt0129167,The Iron Giant,1999,Won 1 BAFTA Award20 wins & 18 nominations total,"$23,315,035",8.1,85,"250,038",True,,2025-10-26T10:48:41.053816
+tt0129280,The Out-of-Towners,1999,1 win,"$28,544,120",5.5,33,"15,221",True,,2025-10-26T10:48:41.587719
+tt0129290,Patch Adams,1998,Nominated for 1 Oscar. 1 win & 7 nominations total,"$135,026,902",6.8,26,"127,126",True,,2025-10-26T10:48:42.005438
+tt0129332,Ravenous,1999,1 win & 6 nominations total,"$2,062,405",6.9,46,"44,376",True,,2025-10-26T10:48:42.426965
+tt0129387,There's Something About Mary,1998,17 wins & 17 nominations total,"$176,484,651",7.1,69,"341,230",True,,2025-10-26T10:48:42.869485
+tt0130018,I Still Know What You Did Last Summer,1998,5 wins & 7 nominations total,"$40,002,112",4.8,21,"81,882",True,,2025-10-26T10:48:43.326673
+tt0130121,Mickey Blue Eyes,1999,N/A,"$33,864,342",5.9,49,"38,755",True,,2025-10-26T10:48:43.790059
+tt0130623,Dinosaur,2000,4 wins & 23 nominations total,"$137,748,063",6.4,56,"71,457",True,,2025-10-26T10:48:44.204981
+tt0131325,Bowfinger,1999,6 nominations total,"$66,384,775",6.5,73,"76,806",True,,2025-10-26T10:48:44.640837
+tt0131369,Edtv,1999,1 win & 1 nomination total,"$22,431,897",6.1,49,"46,115",True,,2025-10-26T10:48:45.166028
+tt0131646,Wing Commander,1999,N/A,"$11,578,059",4.3,21,"17,613",True,,2025-10-26T10:48:45.645558
+tt0131704,The Adventures of Rocky & Bullwinkle,2000,2 wins & 6 nominations total,"$26,005,820",4.3,36,"21,703",True,,2025-10-26T10:48:46.304574
+tt0132245,Driven,2001,1 win & 10 nominations total,"$32,720,065",4.6,29,"44,565",True,,2025-10-26T10:48:46.730589
+tt0132347,Mystery Men,1999,3 nominations total,"$29,762,011",6.1,66,"72,952",True,,2025-10-26T10:48:47.292661
+tt0132477,October Sky,1999,4 wins & 11 nominations total,"$32,570,685",7.8,71,"108,202",True,,2025-10-26T10:48:47.706997
+tt0132512,At First Sight,1999,N/A,"$22,365,133",6.0,40,"14,516",True,,2025-10-26T10:48:48.792382
+tt0133046,Teaching Mrs. Tingle,1999,4 nominations total,"$8,951,935",5.3,35,"22,227",True,,2025-10-26T10:48:50.431726
+tt0133093,The Matrix,1999,Won 4 Oscars. 42 wins & 52 nominations total,"$172,076,928",8.7,73,"2,195,275",True,,2025-10-26T10:48:52.037439
+tt0133152,Planet of the Apes,2001,Nominated for 2 BAFTA 11 wins & 32 nominations total,"$180,011,740",5.7,50,"238,729",True,,2025-10-26T10:48:52.502679
+tt0133240,Treasure Planet,2002,Nominated for 1 Oscar. 1 win & 14 nominations total,"$38,176,783",7.2,60,"144,235",True,,2025-10-26T10:48:53.505554
+tt0133412,Best Laid Plans,1999,1 win total,"$27,816",6.1,41,"8,438",True,,2025-10-26T10:48:54.350668
+tt0133751,The Faculty,1998,11 nominations total,"$40,283,321",6.6,61,"144,689",True,,2025-10-26T10:48:54.877884
+tt0133952,The Siege,1998,2 wins & 4 nominations total,"$40,981,289",6.4,53,"81,824",True,,2025-10-26T10:48:55.307956
+tt0134067,The Rugrats Movie,1998,2 wins & 6 nominations total,"$100,494,675",5.9,62,"21,435",True,,2025-10-26T10:48:55.770525
+tt0134084,Scream 3,2000,6 wins & 5 nominations total,"$89,143,175",5.7,56,"176,302",True,,2025-10-26T10:48:56.195025
+tt0134119,The Talented Mr. Ripley,1999,Nominated for 5 Oscars. 10 wins & 81 nominations total,"$81,298,265",7.4,76,"264,777",True,,2025-10-26T10:48:56.636943
+tt0134154,Ride with the Devil,1999,1 win total,"$635,096",6.7,69,"15,024",True,,2025-10-26T10:48:57.544132
+tt0134273,8MM,1999,2 wins & 2 nominations total,"$36,663,315",6.6,21,"148,600",True,,2025-10-26T10:48:57.998918
+tt0134618,"Mystery, Alaska",1999,1 nomination total,"$8,891,623",6.7,49,"28,838",True,,2025-10-26T10:48:58.422224
+tt0134630,Duets,2000,1 nomination total,"$4,739,023",6.1,40,"10,305",True,,2025-10-26T10:48:58.839813
+tt0134847,Pitch Black,2000,2 wins & 9 nominations total,"$39,240,659",7.0,49,"261,288",True,,2025-10-26T10:48:59.258261
+tt0134983,Supernova,2000,N/A,"$14,230,455",4.9,19,"20,483",True,,2025-10-26T10:48:59.730520
+tt0136244,Hideous Kinky,1998,1 win,"$1,263,279",6.0,N/A,"6,854",True,,2025-10-26T10:49:00.234772
+tt0137338,200 Cigarettes,1999,2 nominations total,"$6,852,450",6.0,35,"16,840",True,,2025-10-26T10:49:00.703802
+tt0137363,Arlington Road,1999,5 nominations total,"$24,756,177",7.2,65,"95,512",True,,2025-10-26T10:49:01.178072
+tt0137494,Entrapment,1999,4 wins & 6 nominations total,"$87,704,396",6.3,54,"127,557",True,,2025-10-26T10:49:01.634017
+tt0137523,Fight Club,1999,Nominated for 1 Oscar. 12 wins & 38 nominations total,"$37,030,102",8.8,67,"2,518,290",True,,2025-10-26T10:49:02.076347
+tt0138097,Shakespeare in Love,1998,Won 7 Oscars. 65 wins & 87 nominations total,"$100,317,794",7.1,87,"240,389",True,,2025-10-26T10:49:02.487934
+tt0138304,The Astronaut's Wife,1999,1 nomination total,"$10,672,566",5.4,38,"58,464",True,,2025-10-26T10:49:02.946560
+tt0138510,Idle Hands,1999,4 nominations total,"$4,152,230",6.3,31,"49,023",True,,2025-10-26T10:49:03.401738
+tt0138749,The Road to El Dorado,2000,1 win & 12 nominations total,"$50,863,742",6.9,51,"116,449",True,,2025-10-26T10:49:03.825914
+tt0138862,Taxman,1998,N/A,"$9,871",5.6,48,554,True,,2025-10-26T10:49:04.286783
+tt0138946,The Yards,2000,3 wins & 2 nominations total,"$889,352",6.4,58,"23,926",True,,2025-10-26T10:49:04.766466
+tt0139134,Cruel Intentions,1999,8 wins & 14 nominations total,"$38,773,785",6.8,56,"215,176",True,,2025-10-26T10:49:05.241237
+tt0139239,Go,1999,5 wins & 7 nominations total,"$16,943,454",7.2,74,"77,949",True,,2025-10-26T10:49:05.710565
+tt0139414,Lake Placid,1999,N/A,"$31,770,414",5.8,34,"69,079",True,,2025-10-26T10:49:06.126007
+tt0139462,Message in a Bottle,1999,6 nominations,"$52,880,016",6.2,39,"40,863",True,,2025-10-26T10:49:06.588033
+tt0139668,True Crime,1999,5 nominations,"$16,649,768",6.6,65,"39,192",True,,2025-10-26T10:49:07.072628
+tt0139699,Varsity Blues,1999,2 wins & 5 nominations total,"$52,894,169",6.5,50,"51,402",True,,2025-10-26T10:49:07.511455
+tt0139809,The Thirteenth Floor,1999,1 nomination total,"$11,916,661",7.0,36,"81,270",True,,2025-10-26T10:49:07.928449
+tt0140352,The Insider,1999,Nominated for 7 Oscars. 23 wins & 58 nominations total,"$29,089,912",7.8,85,"188,820",True,,2025-10-26T10:49:08.344361
+tt0140379,A Midsummer Night's Dream,1999,1 win & 2 nominations total,"$16,071,990",6.4,61,"27,688",True,,2025-10-26T10:49:08.810199
+tt0140688,Whatever,1998,N/A,"$307,037",6.4,N/A,"1,050",True,,2025-10-26T10:49:09.266100
+tt0141098,Forces of Nature,1999,2 wins & 5 nominations,"$52,900,680",5.5,46,"36,403",True,,2025-10-26T10:49:09.688044
+tt0141109,Jack Frost,1998,1 nomination total,"$34,562,556",5.4,40,"43,250",True,,2025-10-26T10:49:10.146479
+tt0141369,Inspector Gadget,1999,1 win & 13 nominations total,"$97,403,112",4.2,36,"53,127",True,,2025-10-26T10:49:10.567435
+tt0141399,Isn't She Great,2000,2 nominations,"$2,962,465",5.3,34,"2,591",True,,2025-10-26T10:49:11.093387
+tt0141907,Town & Country,2001,1 win & 5 nominations total,"$6,719,973",4.5,34,"5,347",True,,2025-10-26T10:49:11.563023
+tt0141926,U-571,2000,Won 1 Oscar. 4 wins & 10 nominations total,"$77,122,415",6.6,62,"90,323",True,,2025-10-26T10:49:12.026527
+tt0142192,The Corruptor,1999,1 nomination total,"$15,164,492",6.1,56,"19,720",True,,2025-10-26T10:49:12.484423
+tt0142342,Big Daddy,1999,8 wins & 14 nominations total,"$163,479,795",6.4,42,"245,369",True,,2025-10-26T10:49:12.974622
+tt0142688,The Ninth Gate,1999,2 wins & 5 nominations total,"$18,661,336",6.7,44,"205,868",True,,2025-10-26T10:49:13.459603
+tt0143145,The World Is Not Enough,1999,7 wins & 12 nominations total,"$126,943,684",6.4,57,"217,018",True,,2025-10-26T10:49:13.884197
+tt0143746,Molly,1999,N/A,"$17,650",5.7,21,"3,205",True,,2025-10-26T10:49:14.353367
+tt0144084,American Psycho,2000,7 wins & 11 nominations total,"$15,070,285",7.6,64,"802,752",True,,2025-10-26T10:49:14.775990
+tt0144117,The Boondock Saints,1999,N/A,"$45,050",7.6,44,"258,935",True,,2025-10-26T10:49:15.257485
+tt0144120,Bride of Chucky,1998,5 wins & 7 nominations total,"$32,400,658",5.6,48,"68,028",True,,2025-10-26T10:49:15.679100
+tt0144142,Committed,2000,1 win & 2 nominations total,"$40,361",5.1,44,"4,145",True,,2025-10-26T10:49:16.095257
+tt0144214,The General's Daughter,1999,3 wins & 5 nominations total,"$102,705,852",6.4,47,"67,337",True,,2025-10-26T10:49:16.510686
+tt0144528,Nutty Professor II: The Klumps,2000,2 wins & 15 nominations total,"$123,309,890",4.5,38,"54,847",True,,2025-10-26T10:49:16.974452
+tt0144640,Three to Tango,1999,N/A,"$10,570,375",6.1,36,"20,299",True,,2025-10-26T10:49:17.446325
+tt0144814,The Rage: Carrie 2,1999,1 win & 3 nominations total,"$17,762,705",4.8,42,"18,523",True,,2025-10-26T10:49:17.919867
+tt0144964,Highlander: Endgame,2000,1 nomination total,"$12,811,858",4.6,21,"21,884",True,,2025-10-26T10:49:18.343040
+tt0145487,Spider-Man,2002,Nominated for 2 Oscars. 17 wins & 65 nominations total,"$408,524,875",7.4,73,"943,110",True,,2025-10-26T10:49:18.760903
+tt0145531,Stigmata,1999,6 nominations total,"$50,046,268",6.2,28,"75,471",True,,2025-10-26T10:49:19.176261
+tt0145653,Angela's Ashes,1999,Nominated for 1 Oscar. 5 wins & 12 nominations total,"$13,042,112",7.3,54,"23,686",True,,2025-10-26T10:49:19.591016
+tt0145660,Austin Powers: The Spy Who Shagged Me,1999,Nominated for 1 Oscar. 18 wins & 31 nominations total,"$206,040,086",6.7,59,"258,479",True,,2025-10-26T10:49:20.063738
+tt0145681,The Bone Collector,1999,1 win & 3 nominations total,"$66,518,655",6.7,45,"193,520",True,,2025-10-26T10:49:20.522632
+tt0145734,Playing by Heart,1998,1 win & 1 nomination total,"$3,970,078",6.9,55,"20,645",True,,2025-10-26T10:49:20.985106
+tt0145893,Simply Irresistible,1999,N/A,"$4,398,989",5.2,27,"15,404",True,,2025-10-26T10:49:21.447969
+tt0146309,Thirteen Days,2000,3 wins & 8 nominations,"$34,592,089",7.3,67,"63,884",True,,2025-10-26T10:49:21.913749
+tt0146316,Lara Croft: Tomb Raider,2001,4 wins & 21 nominations total,"$131,168,070",5.8,33,"227,400",True,,2025-10-26T10:49:22.334118
+tt0146336,Urban Legend,1998,1 win & 2 nominations total,"$38,072,438",5.6,35,"76,345",True,,2025-10-26T10:49:22.802103
+tt0146675,End of Days,1999,1 win & 7 nominations total,"$66,889,043",5.8,34,"120,450",True,,2025-10-26T10:49:23.293934
+tt0146838,Any Given Sunday,1999,3 wins & 9 nominations total,"$75,530,832",6.9,52,"129,885",True,,2025-10-26T10:49:23.709675
+tt0146882,High Fidelity,2000,Nominated for 1 BAFTA Award3 wins & 22 nominations total,"$27,287,137",7.4,79,"194,744",True,,2025-10-26T10:49:24.170749
+tt0146984,The Legend of Bagger Vance,2000,2 wins & 11 nominations total,"$30,919,168",6.7,47,"61,148",True,,2025-10-26T10:49:24.631685
+tt0147800,10 Things I Hate About You,1999,2 wins & 13 nominations total,"$38,178,166",7.4,70,"430,258",True,,2025-10-26T10:49:25.098230
+tt0149261,Deep Blue Sea,1999,2 wins & 4 nominations total,"$73,648,142",5.9,54,"147,946",True,,2025-10-26T10:49:25.562933
+tt0149367,Where the Money Is,2000,N/A,"$5,661,798",6.3,49,"6,536",True,,2025-10-26T10:49:26.019039
+tt0149624,All the Pretty Horses,2000,2 wins & 14 nominations total,"$15,540,353",5.8,55,"16,195",True,,2025-10-26T10:49:26.437704
+tt0149691,Anywhere But Here,1999,1 win & 4 nominations total,"$18,670,401",6.2,59,"18,962",True,,2025-10-26T10:49:26.900056
+tt0150216,Cradle Will Rock,1999,5 wins & 7 nominations,"$2,903,404",6.8,64,"9,622",True,,2025-10-26T10:49:27.383983
+tt0150377,Double Jeopardy,1999,1 win & 3 nominations total,"$116,741,558",6.5,41,"100,892",True,,2025-10-26T10:49:27.803450
+tt0151137,The Messenger: The Story of Joan of Arc,1999,5 wins & 13 nominations total,"$14,276,317",6.4,54,"72,004",True,,2025-10-26T10:49:28.214062
+tt0151738,Never Been Kissed,1999,2 wins & 8 nominations,"$55,474,756",6.0,60,"99,122",True,,2025-10-26T10:49:28.672359
+tt0151804,Office Space,1999,1 win & 2 nominations total,"$10,827,810",7.6,68,"301,280",True,,2025-10-26T10:49:29.146468
+tt0154506,Following,1998,5 wins & 4 nominations total,"$48,482",7.4,60,"107,789",True,,2025-10-26T10:49:29.558882
+tt0155267,The Thomas Crown Affair,1999,3 wins & 2 nominations total,"$69,305,181",6.9,72,"105,816",True,,2025-10-26T10:49:30.018975
+tt0155753,I'll Be Home for Christmas,1998,N/A,"$12,214,338",5.5,N/A,"12,444",True,,2025-10-26T10:49:30.497955
+tt0155776,Jawbreaker,1999,1 nomination total,"$3,117,085",5.7,24,"30,284",True,,2025-10-26T10:49:30.988662
+tt0155975,Psycho,1998,4 wins & 6 nominations total,"$21,485,655",4.6,47,"51,842",True,,2025-10-26T10:49:31.468019
+tt0156096,Spring Forward,1999,2 wins & 4 nominations,"$117,471",7.5,79,"1,506",True,,2025-10-26T10:49:31.926821
+tt0156323,Screwed,2000,N/A,"$7,027,345",5.7,7,"9,792",True,,2025-10-26T10:49:32.410563
+tt0156812,My Dog Skip,2000,7 wins & 4 nominations total,"$34,134,641",7.0,61,"21,613",True,,2025-10-26T10:49:32.870975
+tt0156841,The Next Best Thing,2000,3 wins & 10 nominations total,"$14,990,582",4.7,25,"11,958",True,,2025-10-26T10:49:33.343866
+tt0156934,Random Hearts,1999,N/A,"$31,502,583",5.4,38,"24,605",True,,2025-10-26T10:49:33.821770
+tt0157472,Clockstoppers,2002,N/A,"$36,989,956",5.2,40,"15,572",True,,2025-10-26T10:49:34.237526
+tt0157503,Drop Dead Gorgeous,1999,2 wins & 2 nominations,"$10,571,408",6.7,28,"42,058",True,,2025-10-26T10:49:34.698883
+tt0158583,Deterrence,1999,1 nomination total,"$145,071",6.4,50,"2,910",True,,2025-10-26T10:49:35.160925
+tt0158622,The Flintstones in Viva Rock Vegas,2000,1 win & 11 nominations total,"$35,268,275",3.7,27,"26,591",True,,2025-10-26T10:49:35.572440
+tt0158811,Muppets from Space,1999,1 nomination total,"$16,625,807",6.2,53,"21,535",True,,2025-10-26T10:49:36.035443
+tt0158983,"South Park: Bigger, Longer & Uncut",1999,Nominated for 1 Oscar. 7 wins & 11 nominations total,"$52,037,603",7.7,73,"222,293",True,,2025-10-26T10:49:36.449627
+tt0159097,The Virgin Suicides,1999,3 wins & 15 nominations total,"$4,906,229",7.2,77,"181,615",True,,2025-10-26T10:49:36.908643
+tt0159273,Behind Enemy Lines,2001,1 win & 2 nominations total,"$58,856,790",6.4,49,"117,437",True,,2025-10-26T10:49:37.380592
+tt0159365,Cold Mountain,2003,Won 1 Oscar. 20 wins & 101 nominations total,"$95,636,509",7.2,73,"162,013",True,,2025-10-26T10:49:37.825939
+tt0159421,The Adventures of Elmo in Grouchland,1999,1 win & 1 nomination,"$11,683,047",5.8,59,"3,838",True,,2025-10-26T10:49:38.303237
+tt0160009,The Art of War,2000,2 wins & 9 nominations total,"$30,208,599",5.7,30,"31,792",True,,2025-10-26T10:49:38.780217
+tt0160127,Charlie's Angels,2000,15 wins & 33 nominations total,"$125,305,545",5.6,52,"203,338",True,,2025-10-26T10:49:39.240535
+tt0160184,D-Tox,2002,N/A,"$79,161",5.3,N/A,"30,366",True,,2025-10-26T10:49:39.706169
+tt0160236,Dudley Do-Right,1999,1 nomination,"$9,974,410",3.9,44,"11,523",True,,2025-10-26T10:49:40.180008
+tt0160399,Impostor,2001,1 nomination total,"$6,285,176",6.2,33,"25,179",True,,2025-10-26T10:49:40.615022
+tt0160429,The King and I,1999,6 nominations,"$11,993,021",4.4,29,"4,372",True,,2025-10-26T10:49:41.135787
+tt0160484,Lost Souls,2000,2 nominations total,"$16,815,253",4.8,16,"11,518",True,,2025-10-26T10:49:41.599153
+tt0160797,Rules of Engagement,2000,1 win & 2 nominations total,"$61,335,230",6.4,45,"52,097",True,,2025-10-26T10:49:42.017108
+tt0160862,She's All That,1999,8 wins & 6 nominations total,"$63,366,989",5.9,51,"106,106",True,,2025-10-26T10:49:42.519646
+tt0160916,The Story of Us,1999,1 win & 4 nominations total,"$27,100,031",6.0,37,"25,484",True,,2025-10-26T10:49:42.975659
+tt0161081,What Lies Beneath,2000,7 wins & 7 nominations total,"$155,464,351",6.6,51,"141,301",True,,2025-10-26T10:49:43.439926
+tt0161083,What's the Worst That Could Happen?,2001,N/A,"$32,269,834",5.5,37,"17,524",True,,2025-10-26T10:49:43.903817
+tt0161100,The Wood,1999,1 win & 7 nominations total,"$25,059,640",7.0,52,"10,620",True,,2025-10-26T10:49:44.321100
+tt0162222,Cast Away,2000,Nominated for 2 Oscars. 15 wins & 36 nominations total,"$233,632,142",7.8,74,"676,631",True,,2025-10-26T10:49:44.746551
+tt0162346,Ghost World,2001,Nominated for 1 Oscar. 28 wins & 56 nominations total,"$6,217,849",7.3,90,"129,756",True,,2025-10-26T10:49:45.208868
+tt0162360,"Happy, Texas",1999,6 wins & 6 nominations total,"$1,955,933",6.3,62,"10,403",True,,2025-10-26T10:49:45.664883
+tt0162650,Shaft,2000,2 wins & 13 nominations total,"$70,334,258",6.0,50,"83,881",True,,2025-10-26T10:49:46.126211
+tt0162661,Sleepy Hollow,1999,Won 1 Oscar. 28 wins & 44 nominations total,"$101,071,502",7.3,65,"406,254",True,,2025-10-26T10:49:46.540615
+tt0162677,Summer of Sam,1999,7 nominations total,"$19,288,130",6.7,67,"43,268",True,,2025-10-26T10:49:46.995081
+tt0162983,Hanging Up,2000,2 wins & 1 nomination,"$36,050,230",4.8,33,"13,328",True,,2025-10-26T10:49:47.460563
+tt0163025,Jurassic Park III,2001,5 wins & 16 nominations total,"$181,171,875",6.0,42,"362,281",True,,2025-10-26T10:49:47.879787
+tt0163187,Runaway Bride,1999,6 wins & 11 nominations total,"$152,257,509",5.6,39,"108,268",True,,2025-10-26T10:49:48.411700
+tt0163579,Chill Factor,1999,1 nomination total,"$11,263,966",5.2,33,"10,327",True,,2025-10-26T10:49:48.838979
+tt0163651,American Pie,1999,9 wins & 14 nominations total,"$102,561,004",7.0,58,"457,741",True,,2025-10-26T10:49:49.299845
+tt0163676,The in Crowd,2000,N/A,"$5,280,035",4.6,14,"4,922",True,,2025-10-26T10:49:49.765352
+tt0163978,The Beach,2000,7 nominations total,"$39,785,027",6.6,43,"264,267",True,,2025-10-26T10:49:50.185228
+tt0163983,Bless the Child,2000,1 win & 6 nominations total,"$29,381,494",5.1,17,"15,691",True,,2025-10-26T10:49:50.645355
+tt0163988,Bringing Out the Dead,1999,2 wins & 5 nominations total,"$16,797,191",6.9,72,"78,459",True,,2025-10-26T10:49:51.099618
+tt0164052,Hollow Man,2000,Nominated for 1 Oscar. 7 wins & 15 nominations total,"$73,209,340",5.9,24,"144,058",True,,2025-10-26T10:49:51.517519
+tt0164085,Limbo,1999,2 wins & 5 nominations total,"$2,160,710",7.0,68,"6,522",True,,2025-10-26T10:49:51.979325
+tt0164108,The Muse,1999,3 nominations,"$11,614,954",5.7,56,"11,504",True,,2025-10-26T10:49:52.445233
+tt0164114,Drive Me Crazy,1999,1 win total,"$17,845,337",5.8,42,"22,300",True,,2025-10-26T10:49:52.905368
+tt0164181,Stir of Echoes,1999,3 wins & 5 nominations total,"$21,142,914",6.9,67,"89,780",True,,2025-10-26T10:49:53.363669
+tt0164184,The Sum of All Fears,2002,2 wins & 5 nominations total,"$118,907,036",6.5,45,"131,205",True,,2025-10-26T10:49:53.850252
+tt0164212,Under Suspicion,2000,2 nominations,"$260,562",6.4,43,"28,123",True,,2025-10-26T10:49:54.328144
+tt0164334,Along Came a Spider,2001,1 win & 1 nomination total,"$74,078,174",6.4,42,"99,408",True,,2025-10-26T10:49:54.812415
+tt0164912,Stuart Little,1999,Nominated for 1 Oscar. 7 wins & 14 nominations total,"$140,035,367",6.0,61,"157,408",True,,2025-10-26T10:49:55.234246
+tt0165494,Ringmaster,1998,1 win,"$9,257,103",3.3,N/A,"5,418",True,,2025-10-26T10:49:55.709122
+tt0165643,Black & White,1999,N/A,"$5,277,299",4.9,47,"6,111",True,,2025-10-26T10:49:56.145988
+tt0165710,Detroit Rock City,1999,3 nominations total,"$4,217,115",6.8,33,"42,553",True,,2025-10-26T10:49:56.558415
+tt0165854,The Limey,1999,1 win & 9 nominations total,"$3,204,663",6.9,73,"37,295",True,,2025-10-26T10:49:56.978166
+tt0165929,Romeo Must Die,2000,2 wins & 7 nominations total,"$55,973,336",6.1,52,"76,005",True,,2025-10-26T10:49:57.439512
+tt0165982,Sinbad: Legend of the Seven Seas,2003,9 nominations total,"$26,483,452",6.7,48,"62,500",True,,2025-10-26T10:49:57.932172
+tt0166110,Bones,2001,1 nomination total,"$7,316,658",4.5,42,"8,570",True,,2025-10-26T10:49:58.385800
+tt0166252,The Love Letter,1999,1 nomination,"$8,302,478",5.5,N/A,"4,756",True,,2025-10-26T10:49:58.865840
+tt0166276,Monkeybone,2001,3 nominations,"$5,411,999",4.8,40,"19,482",True,,2025-10-26T10:49:59.354532
+tt0166485,Anna and the King,1999,Nominated for 2 Oscars. 14 nominations total,"$39,263,420",6.7,56,"40,005",True,,2025-10-26T10:49:59.770991
+tt0166813,Spirit: Stallion of the Cimarron,2002,Nominated for 1 Oscar. 10 wins & 22 nominations total,"$73,280,117",7.2,52,"91,688",True,,2025-10-26T10:50:00.239245
+tt0166943,Music of the Heart,1999,Nominated for 2 Oscars. 5 wins & 11 nominations total,"$14,859,394",6.7,54,"13,530",True,,2025-10-26T10:50:00.669723
+tt0167190,Hellboy,2004,3 wins & 23 nominations total,"$59,623,958",6.9,72,"365,031",True,,2025-10-26T10:50:01.178955
+tt0167203,I Dreamed of Africa,2000,3 nominations,"$6,651,522",5.5,33,"4,973",True,,2025-10-26T10:50:01.675754
+tt0167260,The Lord of the Rings: The Return of the King,2003,Won 11 Oscars. 215 wins & 124 nominations total,"$381,878,219",9.0,94,"2,108,964",True,,2025-10-26T10:50:02.092669
+tt0167261,The Lord of the Rings: The Two Towers,2002,Won 2 Oscars. 132 wins & 138 nominations total,"$345,518,923",8.8,87,"1,902,785",True,,2025-10-26T10:50:02.514730
+tt0167404,The Sixth Sense,1999,Nominated for 6 Oscars. 37 wins & 56 nominations total,"$293,506,292",8.2,64,"1,115,366",True,,2025-10-26T10:50:02.930392
+tt0167427,Superstar,1999,2 nominations total,"$30,636,478",5.2,42,"21,041",True,,2025-10-26T10:50:03.406615
+tt0167456,Thunderbirds,2004,1 win & 1 nomination total,"$6,880,917",4.3,36,"14,842",True,,2025-10-26T10:50:03.859983
+tt0168501,The Best Man,1999,8 wins & 11 nominations total,"$34,102,780",6.7,61,"12,606",True,,2025-10-26T10:50:04.287843
+tt0168786,Antwone Fisher,2002,19 wins & 22 nominations,"$21,078,145",7.3,62,"39,075",True,,2025-10-26T10:50:04.711817
+tt0169547,American Beauty,1999,Won 5 Oscars. 112 wins & 102 nominations total,"$130,096,601",8.3,84,"1,258,807",True,,2025-10-26T10:50:05.174046
+tt0170016,How the Grinch Stole Christmas,2000,Won 1 Oscar. 18 wins & 37 nominations total,"$261,901,880",6.4,46,"316,350",True,,2025-10-26T10:50:05.585068
+tt0171356,Gun Shy,2000,N/A,"$1,638,202",5.6,42,"7,979",True,,2025-10-26T10:50:06.054761
+tt0171363,The Haunting,1999,4 wins & 14 nominations total,"$91,411,151",5.0,42,"82,177",True,,2025-10-26T10:50:06.521268
+tt0171433,Keeping the Faith,2000,2 wins & 6 nominations,"$37,047,880",6.4,60,"53,572",True,,2025-10-26T10:50:07.116601
+tt0171580,Nurse Betty,2000,5 wins & 14 nominations total,"$25,170,054",6.3,69,"36,809",True,,2025-10-26T10:50:07.584437
+tt0171804,Boys Don't Cry,1999,Won 1 Oscar. 50 wins & 39 nominations total,"$11,540,607",7.5,86,"106,431",True,,2025-10-26T10:50:08.073140
+tt0172156,Bad Boys II,2003,5 wins & 13 nominations total,"$138,608,444",6.6,38,"283,970",True,,2025-10-26T10:50:08.505845
+tt0172396,The End of the Affair,1999,Nominated for 2 Oscars. 2 wins & 29 nominations total,"$10,827,816",7.0,65,"24,911",True,,2025-10-26T10:50:08.975182
+tt0172493,"Girl, Interrupted",1999,Won 1 Oscar. 9 wins & 11 nominations total,"$28,912,646",7.3,51,"226,524",True,,2025-10-26T10:50:09.431499
+tt0172495,Gladiator,2000,Won 5 Oscars. 60 wins & 104 nominations total,"$187,705,427",8.5,67,"1,795,475",True,,2025-10-26T10:50:09.853192
+tt0172726,Light It Up,1999,5 nominations,"$5,985,690",6.0,43,"3,994",True,,2025-10-26T10:50:10.315891
+tt0173840,Final Fantasy: The Spirits Within,2001,3 wins & 11 nominations total,"$32,131,830",6.4,49,"85,348",True,,2025-10-26T10:50:10.780228
+tt0174336,Whipped,2000,1 nomination,"$4,159,986",4.4,10,"4,443",True,,2025-10-26T10:50:11.249339
+tt0174480,Autumn in New York,2000,3 nominations total,"$37,761,915",5.6,24,"29,484",True,,2025-10-26T10:50:11.712237
+tt0174856,The Hurricane,1999,Nominated for 1 Oscar. 7 wins & 18 nominations total,"$50,699,241",7.6,74,"105,197",True,,2025-10-26T10:50:12.181932
+tt0175142,Scary Movie,2000,7 wins & 6 nominations total,"$157,019,771",6.3,48,"307,378",True,,2025-10-26T10:50:12.635507
+tt0175880,Magnolia,1999,Nominated for 3 Oscars. 28 wins & 59 nominations total,"$22,455,976",8.0,78,"341,915",True,,2025-10-26T10:50:13.053684
+tt0176269,Universal Soldier: The Return,1999,N/A,"$10,667,893",4.2,24,"31,649",True,,2025-10-26T10:50:13.529163
+tt0176783,Gossip,2000,3 nominations,"$5,108,820",5.9,31,"17,834",True,,2025-10-26T10:50:13.993883
+tt0177650,Company Man,2000,N/A,"$146,193",5.2,18,"2,200",True,,2025-10-26T10:50:14.469881
+tt0177789,Galaxy Quest,1999,7 wins & 14 nominations total,"$71,583,916",7.4,70,"188,202",True,,2025-10-26T10:50:14.891405
+tt0177971,The Perfect Storm,2000,Nominated for 2 Oscars. 4 wins & 28 nominations total,"$182,618,434",6.5,59,"185,002",True,,2025-10-26T10:50:15.349634
+tt0179098,Moonlight Mile,2002,1 win & 6 nominations,"$6,835,856",6.6,59,"14,841",True,,2025-10-26T10:50:15.811689
+tt0179626,15 Minutes,2001,1 nomination total,"$24,403,552",6.1,34,"53,088",True,,2025-10-26T10:50:16.231815
+tt0180052,The Adventures of Pluto Nash,2002,1 win & 12 nominations,"$4,420,080",3.9,12,"27,418",True,,2025-10-26T10:50:16.708222
+tt0180734,Hardball,2001,2 nominations total,"$40,222,729",6.4,48,"35,194",True,,2025-10-26T10:50:17.173898
+tt0181151,What Planet Are You From?,2000,1 nomination total,"$6,291,602",5.6,41,"10,042",True,,2025-10-26T10:50:17.600886
+tt0181316,Blue Streak,1999,N/A,"$68,518,533",6.4,46,"92,855",True,,2025-10-26T10:50:18.014099
+tt0181689,Minority Report,2002,Nominated for 1 Oscar. 20 wins & 91 nominations total,"$132,072,926",7.6,80,"610,524",True,,2025-10-26T10:50:18.423203
+tt0181852,Terminator 3: Rise of the Machines,2003,3 wins & 24 nominations total,"$150,371,112",6.3,66,"431,759",True,,2025-10-26T10:50:18.835816
+tt0181875,Almost Famous,2000,Won 1 Oscar. 54 wins & 103 nominations total,"$32,534,850",7.9,90,"307,588",True,,2025-10-26T10:50:19.311541
+tt0181984,Boiler Room,2000,1 win & 9 nominations total,"$16,970,581",7.0,63,"58,620",True,,2025-10-26T10:50:19.773376
+tt0182000,The Caveman's Valentine,2001,4 nominations total,"$687,194",5.8,44,"8,203",True,,2025-10-26T10:50:20.249478
+tt0182295,Love's Labour's Lost,2000,1 win & 2 nominations,"$299,792",5.9,35,"4,962",True,,2025-10-26T10:50:20.673331
+tt0182789,Bicentennial Man,1999,Nominated for 1 Oscar. 2 wins & 8 nominations total,"$58,223,861",6.9,42,"130,066",True,,2025-10-26T10:50:21.089219
+tt0183505,"Me, Myself & Irene",2000,2 wins & 4 nominations total,"$90,570,999",6.6,49,"261,531",True,,2025-10-26T10:50:21.503541
+tt0183523,Mission to Mars,2000,3 nominations total,"$60,883,407",5.7,34,"78,892",True,,2025-10-26T10:50:21.914728
+tt0183649,Phone Booth,2002,1 win & 8 nominations total,"$46,566,212",7.1,56,"295,377",True,,2025-10-26T10:50:22.375138
+tt0183790,A Knight's Tale,2001,4 wins & 13 nominations total,"$56,569,702",7.0,56,"213,272",True,,2025-10-26T10:50:22.837910
+tt0184858,Reindeer Games,2000,3 nominations total,"$23,368,995",5.8,37,"43,965",True,,2025-10-26T10:50:23.252004
+tt0184894,Shanghai Noon,2000,1 win & 7 nominations total,"$56,937,502",6.6,77,"139,655",True,,2025-10-26T10:50:23.749560
+tt0184907,Snow Day,2000,4 nominations,"$60,020,107",5.2,34,"13,867",True,,2025-10-26T10:50:24.207698
+tt0185014,Wonder Boys,2000,Won 1 Oscar. 21 wins & 46 nominations total,"$19,393,557",7.2,74,"67,814",True,,2025-10-26T10:50:24.634807
+tt0185183,Battlefield Earth,2000,19 wins & 3 nominations total,"$21,471,685",2.5,9,"84,567",True,,2025-10-26T10:50:25.105047
+tt0185371,House on Haunted Hill,1999,1 win & 4 nominations total,"$40,846,082",5.6,28,"62,582",True,,2025-10-26T10:50:25.516479
+tt0185431,Little Nicky,2000,1 win & 12 nominations total,"$39,464,775",5.3,38,"117,416",True,,2025-10-26T10:50:25.981971
+tt0185937,The Blair Witch Project,1999,23 wins & 27 nominations total,"$140,539,099",6.5,80,"306,527",True,,2025-10-26T10:50:26.589254
+tt0186045,Drowning Mona,2000,1 nomination total,"$15,506,764",5.7,25,"16,214",True,,2025-10-26T10:50:27.051499
+tt0186151,Frequency,2000,2 wins & 8 nominations total,"$45,010,278",7.4,67,"120,135",True,,2025-10-26T10:50:27.504504
+tt0186253,Jesus' Son,1999,4 wins & 7 nominations,"$1,302,067",6.9,76,"7,551",True,,2025-10-26T10:50:27.963036
+tt0186566,Space Cowboys,2000,Nominated for 1 Oscar. 4 wins & 9 nominations total,"$90,464,773",6.5,73,"88,855",True,,2025-10-26T10:50:28.421260
+tt0186589,Sugar & Spice,2001,N/A,"$13,305,101",5.8,48,"16,043",True,,2025-10-26T10:50:28.903392
+tt0186894,Bounce,2000,2 wins & 2 nominations total,"$36,805,288",5.8,52,"22,267",True,,2025-10-26T10:50:29.560667
+tt0186975,Down to You,2000,1 win & 4 nominations total,"$20,069,008",5.0,13,"16,088",True,,2025-10-26T10:50:30.037465
+tt0187078,Gone in 60 Seconds,2000,9 wins & 6 nominations total,"$101,648,571",6.5,35,"306,129",True,,2025-10-26T10:50:30.628863
+tt0187393,The Patriot,2000,Nominated for 3 Oscars. 9 wins & 23 nominations total,"$113,330,342",7.2,63,"305,970",True,,2025-10-26T10:50:31.194166
+tt0187738,Blade II,2002,6 wins & 10 nominations total,"$82,348,319",6.7,52,"246,544",True,,2025-10-26T10:50:31.653320
+tt0188160,Price of Glory,2000,1 win & 2 nominations,"$3,440,228",6.1,32,913,True,,2025-10-26T10:50:32.119013
+tt0188640,Godzilla 2000,1999,2 nominations,"$10,037,390",6.0,41,"9,682",True,,2025-10-26T10:50:33.665184
+tt0189192,Just Visiting,2001,N/A,"$4,781,539",5.7,38,"20,739",True,,2025-10-26T10:50:34.127389
+tt0189584,The Big Kahuna,1999,1 nomination total,"$3,165,544",6.5,56,"15,269",True,,2025-10-26T10:50:34.603570
+tt0190138,The Whole Nine Yards,2000,6 nominations total,"$57,262,492",6.7,47,"133,978",True,,2025-10-26T10:50:35.067087
+tt0190332,"Crouching Tiger, Hidden Dragon",2000,Won 4 Oscars. 101 wins & 132 nominations total,"$128,530,421",7.9,94,"290,075",True,,2025-10-26T10:50:35.523250
+tt0190374,Dungeons & Dragons,2000,11 nominations total,"$15,391,970",3.6,14,"36,868",True,,2025-10-26T10:50:36.005669
+tt0190641,Pokémon: The First Movie - Mewtwo Strikes Back,1998,3 wins & 6 nominations total,"$85,744,662",6.3,35,"48,652",True,,2025-10-26T10:50:36.477014
+tt0190865,Vertical Limit,2000,Nominated for 1 BAFTA Award2 wins & 4 nominations total,"$69,243,859",6.0,48,"67,868",True,,2025-10-26T10:50:36.887998
+tt0191133,The Fighting Temptations,2003,4 wins & 11 nominations,"$30,250,745",5.6,53,"7,742",True,,2025-10-26T10:50:37.348627
+tt0191397,The Replacements,2000,N/A,"$44,737,059",6.6,30,"72,776",True,,2025-10-26T10:50:37.911127
+tt0191754,28 Days,2000,1 win total,"$37,170,488",6.1,46,"56,391",True,,2025-10-26T10:50:38.371190
+tt0192071,Get Over It,2001,4 nominations total,"$11,576,464",5.7,52,"20,369",True,,2025-10-26T10:50:38.834047
+tt0192111,Head Over Heels,2001,N/A,"$10,424,470",5.4,27,"15,791",True,,2025-10-26T10:50:39.293123
+tt0192255,The Little Vampire,2000,1 win & 3 nominations,"$13,572,400",5.7,45,"11,866",True,,2025-10-26T10:50:39.755645
+tt0192614,The Skulls,2000,1 nomination total,"$35,046,120",5.6,24,"34,685",True,,2025-10-26T10:50:40.213874
+tt0192731,Urban Legends: Final Cut,2000,1 win & 2 nominations total,"$21,468,807",4.4,16,"19,750",True,,2025-10-26T10:50:40.699002
+tt0193560,Texas Rangers,2001,N/A,"$623,374",5.2,29,"6,414",True,,2025-10-26T10:50:41.178920
+tt0194218,Panic,2000,2 nominations total,"$779,137",6.6,77,"9,463",True,,2025-10-26T10:50:41.611564
+tt0195234,Saving Grace,2000,Nominated for 1 BAFTA Award4 wins & 9 nominations total,"$12,178,602",6.9,62,"19,495",True,,2025-10-26T10:50:42.071093
+tt0195685,Erin Brockovich,2000,Won 1 Oscar. 33 wins & 59 nominations total,"$125,595,205",7.5,73,"237,249",True,,2025-10-26T10:50:42.539545
+tt0195714,Final Destination,2000,3 wins & 5 nominations total,"$53,331,147",6.7,39,"324,324",True,,2025-10-26T10:50:42.975721
+tt0195778,Here on Earth,2000,2 nominations total,"$10,522,168",5.2,25,"9,083",True,,2025-10-26T10:50:43.432768
+tt0195945,Next Friday,2000,2 nominations total,"$57,328,603",6.1,41,"46,627",True,,2025-10-26T10:50:43.849139
+tt0196216,Small Time Crooks,2000,1 win & 4 nominations total,"$17,266,359",6.7,69,"41,827",True,,2025-10-26T10:50:44.317057
+tt0196229,Zoolander,2001,1 win & 11 nominations total,"$45,172,250",6.5,61,"308,631",True,,2025-10-26T10:50:44.783766
+tt0196857,Play It to the Bone,1999,N/A,"$8,434,146",5.5,32,"12,506",True,,2025-10-26T10:50:45.246725
+tt0198021,Where the Heart Is,2000,1 win & 2 nominations total,"$33,772,838",6.7,30,"37,754",True,,2025-10-26T10:50:45.666745
+tt0198386,The Crew,2000,1 win,"$13,023,075",5.6,37,"6,743",True,,2025-10-26T10:50:46.123823
+tt0198781,"Monsters, Inc.",2001,Won 1 Oscar. 15 wins & 38 nominations total,"$290,642,256",8.1,79,"1,045,975",True,,2025-10-26T10:50:46.543043
+tt0199290,3 Strikes,2000,N/A,"$9,832,166",4.7,11,"3,740",True,,2025-10-26T10:50:47.005049
+tt0199725,Love & Basketball,2000,14 wins & 15 nominations total,"$27,475,093",7.2,72,"25,268",True,,2025-10-26T10:50:47.462157
+tt0199753,Red Planet,2000,1 nomination total,"$17,480,890",5.7,34,"61,121",True,,2025-10-26T10:50:47.921148
+tt0200469,Bats,1999,N/A,"$10,155,690",4.1,23,"11,670",True,,2025-10-26T10:50:48.385714
+tt0200550,Coyote Ugly,2000,4 wins & 8 nominations total,"$60,786,269",5.8,27,"125,922",True,,2025-10-26T10:50:48.870956
+tt0202402,Whatever It Takes,2000,3 nominations total,"$8,745,680",5.5,20,"12,407",True,,2025-10-26T10:50:49.334855
+tt0202470,Rock Star,2001,1 nomination total,"$17,008,282",6.3,54,"46,295",True,,2025-10-26T10:50:49.895334
+tt0202677,The Way of the Gun,2000,N/A,"$6,055,661",6.6,49,"36,690",True,,2025-10-26T10:50:50.309815
+tt0203009,Moulin Rouge!,2001,Won 2 Oscars. 89 wins & 133 nominations total,"$57,386,607",7.6,66,"309,051",True,,2025-10-26T10:50:50.772097
+tt0203019,Men of Honor,2000,11 nominations total,"$48,818,921",7.2,56,"129,589",True,,2025-10-26T10:50:51.235096
+tt0203408,The Omega Code,1999,N/A,"$12,614,346",3.5,14,"5,572",True,,2025-10-26T10:50:51.691706
+tt0203755,One Night at McCool's,2001,N/A,"$6,290,673",6.2,46,"31,505",True,,2025-10-26T10:50:52.150656
+tt0204175,Boys and Girls,2000,1 nomination total,"$21,799,652",5.4,29,"17,882",True,,2025-10-26T10:50:52.612583
+tt0204313,Exorcist: The Beginning,2004,6 nominations total,"$41,821,986",5.1,30,"41,249",True,,2025-10-26T10:50:53.178942
+tt0204626,The Watcher,2000,3 nominations total,"$28,946,615",5.3,22,"29,163",True,,2025-10-26T10:50:53.609422
+tt0204946,Bring It On,2000,2 wins & 7 nominations total,"$68,379,000",6.2,52,"112,315",True,,2025-10-26T10:50:54.029091
+tt0205000,Deuce Bigalow: Male Gigolo,1999,2 nominations total,"$65,538,755",5.7,30,"82,494",True,,2025-10-26T10:50:54.495038
+tt0205271,Dr. T & the Women,2000,4 nominations total,"$13,113,041",4.7,64,"20,655",True,,2025-10-26T10:50:54.966059
+tt0206314,Joy Ride,2001,5 nominations total,"$21,974,919",6.6,75,"79,821",True,,2025-10-26T10:50:55.429567
+tt0206420,Woman on Top,2000,3 nominations total,"$5,020,111",5.3,41,"11,097",True,,2025-10-26T10:50:55.891182
+tt0206634,Children of Men,2006,Nominated for 3 Oscars. 49 wins & 89 nominations total,"$35,552,383",7.9,84,"554,932",True,,2025-10-26T10:50:56.362909
+tt0206963,My First Mister,2001,1 nomination,"$568,762",7.1,48,"5,967",True,,2025-10-26T10:50:56.823969
+tt0207201,What Women Want,2000,5 wins & 9 nominations total,"$182,811,707",6.5,47,"232,782",True,,2025-10-26T10:50:57.238705
+tt0208003,Big Momma's House,2000,1 win & 9 nominations total,"$117,559,438",5.3,33,"94,296",True,,2025-10-26T10:50:57.700582
+tt0208874,The Contender,2000,Nominated for 2 Oscars. 1 win & 22 nominations total,"$17,872,723",6.9,59,"25,569",True,,2025-10-26T10:50:58.119818
+tt0208988,Get Carter,2000,7 nominations total,"$14,967,182",5.2,24,"38,345",True,,2025-10-26T10:50:58.591594
+tt0209144,Memento,2000,Nominated for 2 Oscars. 57 wins & 59 nominations total,"$25,544,867",8.4,83,"1,403,331",True,,2025-10-26T10:50:59.027518
+tt0209163,The Mummy Returns,2001,6 wins & 19 nominations total,"$202,019,785",6.4,48,"361,453",True,,2025-10-26T10:50:59.442623
+tt0209475,The Wedding Planner,2001,2 wins & 6 nominations total,"$60,400,856",5.4,33,"90,779",True,,2025-10-26T10:50:59.902850
+tt0209958,The Cell,2000,Nominated for 1 Oscar. 9 wins & 29 nominations total,"$61,334,059",6.4,40,"113,875",True,,2025-10-26T10:51:00.362267
+tt0210234,Pokémon the Movie 2000,1999,2 nominations total,"$43,758,684",6.1,28,"25,199",True,,2025-10-26T10:51:00.824235
+tt0210567,Beautiful,2000,2 nominations,"$3,157,348",5.6,23,"4,363",True,,2025-10-26T10:51:01.288786
+tt0210616,Center Stage,2000,1 win total,"$17,200,925",6.7,52,"23,343",True,,2025-10-26T10:51:01.753986
+tt0210945,Remember the Titans,2000,8 wins & 17 nominations total,"$115,719,751",7.8,48,"243,588",True,,2025-10-26T10:51:02.241222
+tt0211181,102 Dalmatians,2000,Nominated for 1 Oscar. 1 win & 8 nominations total,"$66,957,026",4.9,35,"40,862",True,,2025-10-26T10:51:02.697035
+tt0211443,Jason X,2001,1 nomination total,"$13,121,555",4.5,25,"64,767",True,,2025-10-26T10:51:03.164092
+tt0211915,Amélie,2001,Nominated for 5 Oscars. 59 wins & 74 nominations total,"$33,712,444",8.3,70,"826,337",True,,2025-10-26T10:51:03.576542
+tt0211933,Awake,2007,1 win & 3 nominations total,"$14,377,198",6.5,33,"83,312",True,,2025-10-26T10:51:04.042867
+tt0211938,Bait,2000,N/A,"$15,325,127",5.7,39,"13,348",True,,2025-10-26T10:51:04.512105
+tt0212338,Meet the Parents,2000,Nominated for 1 Oscar. 7 wins & 15 nominations total,"$166,244,045",7.0,73,"372,039",True,,2025-10-26T10:51:04.928643
+tt0212346,Miss Congeniality,2000,7 wins & 8 nominations total,"$106,807,667",6.3,43,"242,923",True,,2025-10-26T10:51:05.405106
+tt0212712,2046,2004,38 wins & 81 nominations total,"$1,444,588",7.4,78,"64,480",True,,2025-10-26T10:51:05.870264
+tt0212720,A.I. Artificial Intelligence,2001,Nominated for 2 Oscars. 18 wins & 71 nominations total,"$78,616,689",7.2,65,"333,739",True,,2025-10-26T10:51:06.335064
+tt0212985,Hannibal,2001,9 wins & 25 nominations total,"$165,092,268",6.8,57,"307,314",True,,2025-10-26T10:51:06.804778
+tt0213149,Pearl Harbor,2001,Won 1 Oscar. 14 wins & 51 nominations total,"$198,542,554",6.3,44,"364,567",True,,2025-10-26T10:51:07.230962
+tt0213203,Rugrats in Paris,2000,3 wins & 7 nominations total,"$76,507,756",6.2,62,"14,203",True,,2025-10-26T10:51:07.691310
+tt0213790,The Ladies Man,2000,1 nomination,"$13,616,610",5.2,22,"13,973",True,,2025-10-26T10:51:08.152210
+tt0215129,Road Trip,2000,4 wins & 9 nominations total,"$68,540,777",6.5,55,"185,957",True,,2025-10-26T10:51:08.579770
+tt0215750,Enemy at the Gates,2001,7 nominations total,"$51,401,758",7.5,53,"288,286",True,,2025-10-26T10:51:09.040342
+tt0216216,The 6th Day,2000,8 nominations total,"$34,604,280",5.9,49,"131,389",True,,2025-10-26T10:51:09.467081
+tt0216772,Turn It Up,2000,1 nomination,"$1,247,949",4.1,18,"1,422",True,,2025-10-26T10:51:09.911127
+tt0217505,Gangs of New York,2002,Nominated for 10 Oscars. 50 wins & 135 nominations total,"$77,812,000",7.5,72,"491,688",True,,2025-10-26T10:51:10.329431
+tt0217630,Loser,2000,1 nomination,"$15,618,626",5.3,35,"30,771",True,,2025-10-26T10:51:10.793709
+tt0217756,Ready to Rumble,2000,1 nomination total,"$12,394,327",5.3,23,"15,945",True,,2025-10-26T10:51:11.254432
+tt0217869,Unbreakable,2000,2 wins & 16 nominations total,"$95,011,339",7.3,62,"461,307",True,,2025-10-26T10:51:11.669944
+tt0218182,An Everlasting Piece,2000,1 nomination total,"$75,228",6.2,56,"1,763",True,,2025-10-26T10:51:12.130511
+tt0218619,Soul Survivors,2001,N/A,"$3,111,545",3.9,20,"9,801",True,,2025-10-26T10:51:12.605680
+tt0218839,Best in Show,2000,11 wins & 14 nominations total,"$18,715,392",7.5,78,"69,618",True,,2025-10-26T10:51:13.061434
+tt0218922,Original Sin,2001,2 nominations total,"$16,534,221",6.0,33,"62,238",True,,2025-10-26T10:51:13.521761
+tt0218967,The Family Man,2000,4 wins & 7 nominations total,"$75,793,305",6.8,42,"126,644",True,,2025-10-26T10:51:13.989800
+tt0219653,Dracula 2000,2000,2 nominations total,"$33,022,767",4.9,26,"38,016",True,,2025-10-26T10:51:14.419035
+tt0219854,The Kid,2000,1 win & 3 nominations total,"$69,691,949",6.1,45,"45,100",True,,2025-10-26T10:51:14.875932
+tt0219952,Lucky Numbers,2000,2 wins & 1 nomination total,"$10,042,516",5.1,31,"11,065",True,,2025-10-26T10:51:15.336761
+tt0219965,Bandits,2001,5 wins & 7 nominations total,"$41,575,141",6.5,60,"72,881",True,,2025-10-26T10:51:15.822496
+tt0220099,The Tigger Movie,2000,4 nominations total,"$45,554,533",6.3,53,"21,302",True,,2025-10-26T10:51:16.287465
+tt0220100,Timecode,2000,2 nominations total,"$1,057,750",6.0,65,"7,201",True,,2025-10-26T10:51:16.743912
+tt0220506,Halloween: Resurrection,2002,1 win & 1 nomination total,"$30,354,442",3.9,19,"52,144",True,,2025-10-26T10:51:17.235759
+tt0221027,Blow,2001,3 wins & 9 nominations total,"$52,990,775",7.5,52,"283,921",True,,2025-10-26T10:51:17.701239
+tt0221074,Christmas in the Clouds,2001,3 wins & 4 nominations total,"$279,225",6.4,56,909,True,,2025-10-26T10:51:18.149053
+tt0221218,The Glass House,2001,3 nominations total,"$18,150,259",5.8,34,"41,531",True,,2025-10-26T10:51:18.585996
+tt0223897,Pay It Forward,2000,1 win & 4 nominations total,"$33,519,628",7.2,40,"126,963",True,,2025-10-26T10:51:19.061190
+tt0225071,Angel Eyes,2001,3 wins & 5 nominations,"$24,174,218",5.7,39,"25,945",True,,2025-10-26T10:51:19.524468
+tt0227445,The Score,2001,1 win & 1 nomination total,"$71,107,711",6.8,71,"141,193",True,,2025-10-26T10:51:19.942359
+tt0227538,Spy Kids,2001,3 wins & 10 nominations total,"$112,719,001",5.6,71,"131,798",True,,2025-10-26T10:51:20.413069
+tt0227984,Formula 51,2001,1 nomination total,"$5,204,007",6.3,23,"51,519",True,,2025-10-26T10:51:20.878210
+tt0228333,Ghosts of Mars,2001,2 nominations,"$8,709,640",4.9,35,"58,945",True,,2025-10-26T10:51:21.363588
+tt0228750,Proof of Life,2000,5 nominations total,"$32,598,931",6.3,45,"60,394",True,,2025-10-26T10:51:21.774648
+tt0228786,The Crimson Rivers,2000,1 win & 6 nominations total,"$594,966",6.9,49,"67,189",True,,2025-10-26T10:51:22.261196
+tt0229260,Book of Shadows: Blair Witch 2,2000,5 wins & 11 nominations total,"$26,437,094",4.0,15,"40,827",True,,2025-10-26T10:51:22.736114
+tt0230011,Atlantis: The Lost Empire,2001,2 wins & 14 nominations total,"$84,056,472",6.9,52,"142,896",True,,2025-10-26T10:51:23.210710
+tt0230030,Bedazzled,2000,1 win & 3 nominations total,"$37,886,980",6.1,49,"116,002",True,,2025-10-26T10:51:23.667549
+tt0230600,The Others,2001,Nominated for 2 BAFTA 29 wins & 55 nominations total,"$96,578,502",7.6,74,"416,312",True,,2025-10-26T10:51:24.130503
+tt0231775,Down to Earth,2001,3 nominations total,"$64,186,502",5.4,32,"25,349",True,,2025-10-26T10:51:24.603430
+tt0232500,The Fast and the Furious,2001,11 wins & 18 nominations total,"$144,745,925",6.8,58,"446,760",True,,2025-10-26T10:51:25.017396
+tt0233142,3000 Miles to Graceland,2001,13 nominations total,"$15,749,959",6.0,21,"50,389",True,,2025-10-26T10:51:25.484923
+tt0233469,Collateral Damage,2002,N/A,"$40,077,257",5.5,33,"79,897",True,,2025-10-26T10:51:25.957613
+tt0234215,The Matrix Reloaded,2003,8 wins & 34 nominations total,"$281,576,461",7.2,62,"659,708",True,,2025-10-26T10:51:26.387228
+tt0234354,Novocaine,2001,N/A,"$2,036,682",5.8,45,"12,253",True,,2025-10-26T10:51:26.807875
+tt0234829,Summer Catch,2001,1 nomination total,"$19,753,553",5.1,21,"16,962",True,,2025-10-26T10:51:27.266071
+tt0235679,Pokémon 3 the Movie: Spell of the Unown,2000,N/A,"$17,052,128",5.9,22,"16,319",True,,2025-10-26T10:51:27.703013
+tt0236348,Josie and the Pussycats,2001,5 nominations total,"$14,271,015",5.7,47,"26,253",True,,2025-10-26T10:51:28.142043
+tt0236388,The Original Kings of Comedy,2000,3 nominations,"$38,182,790",6.8,73,"6,140",True,,2025-10-26T10:51:28.599830
+tt0236493,The Mexican,2001,3 wins & 2 nominations total,"$66,845,033",6.1,43,"118,184",True,,2025-10-26T10:51:29.055381
+tt0236784,The Tailor of Panama,2001,1 win & 1 nomination,"$13,729,742",6.1,66,"31,627",True,,2025-10-26T10:51:29.519078
+tt0237534,Brotherhood of the Wolf,2001,4 wins & 22 nominations total,"$11,274,610",7.0,57,"74,805",True,,2025-10-26T10:51:29.958498
+tt0237572,The Pledge,2001,1 win & 6 nominations total,"$19,733,089",6.7,71,"72,050",True,,2025-10-26T10:51:30.440453
+tt0238112,Captain Corelli's Mandolin,2001,2 wins & 6 nominations total,"$25,543,895",5.9,36,"36,957",True,,2025-10-26T10:51:30.895609
+tt0238546,Queen of the Damned,2002,7 nominations total,"$30,336,800",5.3,30,"63,148",True,,2025-10-26T10:51:31.312509
+tt0239395,Cats & Dogs,2001,2 wins & 3 nominations total,"$93,385,515",5.2,47,"64,724",True,,2025-10-26T10:51:31.727656
+tt0239948,Saving Silverman,2001,N/A,"$19,402,030",5.9,22,"44,467",True,,2025-10-26T10:51:32.213831
+tt0239949,Say It Isn't So,2001,1 nomination,"$5,520,393",5.0,21,"13,907",True,,2025-10-26T10:51:32.676077
+tt0240462,Dr. Dolittle 2,2001,3 wins & 6 nominations total,"$112,952,899",4.7,49,"48,781",True,,2025-10-26T10:51:33.141120
+tt0240468,Kung Pow: Enter the Fist,2002,1 win & 1 nomination total,"$16,037,962",6.2,14,"50,110",True,,2025-10-26T10:51:33.558254
+tt0240510,The Four Feathers,2002,N/A,"$18,306,166",6.5,49,"36,318",True,,2025-10-26T10:51:33.972822
+tt0240515,Freddy Got Fingered,2001,13 wins & 7 nominations total,"$14,254,993",4.7,13,"53,072",True,,2025-10-26T10:51:34.400495
+tt0240772,Ocean's Eleven,2001,4 wins & 20 nominations total,"$183,417,150",7.7,74,"658,059",True,,2025-10-26T10:51:34.836084
+tt0240900,Slackers,2002,N/A,"$5,285,941",5.3,12,"15,379",True,,2025-10-26T10:51:35.298017
+tt0241025,Vanity Fair,2004,2 wins & 5 nominations total,"$16,136,476",6.2,53,"23,823",True,,2025-10-26T10:51:35.754791
+tt0241303,Chocolat,2000,Nominated for 5 Oscars. 7 wins & 35 nominations total,"$71,509,363",7.2,64,"207,570",True,,2025-10-26T10:51:36.217693
+tt0241527,Harry Potter and the Sorcerer's Stone,2001,Nominated for 3 Oscars. 20 wins & 74 nominations total,"$318,886,962",7.7,65,"921,510",True,,2025-10-26T10:51:36.632995
+tt0241760,The New Guy,2002,1 nomination,"$29,760,152",5.8,24,"38,348",True,,2025-10-26T10:51:37.091978
+tt0242423,"Dude, Where's My Car?",2000,1 win & 6 nominations total,"$46,729,800",5.5,30,"150,225",True,,2025-10-26T10:51:37.577311
+tt0242445,Exit Wounds,2001,4 nominations,"$51,758,599",5.6,39,"37,382",True,,2025-10-26T10:51:38.005186
+tt0242653,The Matrix Revolutions,2003,5 wins & 36 nominations total,"$139,313,948",6.7,47,"566,996",True,,2025-10-26T10:51:38.419484
+tt0242998,Valentine,2001,2 wins & 3 nominations,"$20,384,136",4.9,18,"30,727",True,,2025-10-26T10:51:38.842644
+tt0243155,Bridget Jones's Diary,2001,Nominated for 1 Oscar. 8 wins & 32 nominations total,"$71,543,427",6.8,66,"281,081",True,,2025-10-26T10:51:39.298248
+tt0243415,Mercy Streets,2000,N/A,"$173,599",5.2,28,606,True,,2025-10-26T10:51:39.785523
+tt0243585,Stuart Little 2,2002,Nominated for 1 BAFTA Award1 win & 4 nominations total,"$64,956,806",5.5,66,"60,920",True,,2025-10-26T10:51:40.200009
+tt0243862,Italian for Beginners,2000,21 wins & 22 nominations,"$4,544,753",7.0,77,"14,060",True,,2025-10-26T10:51:40.671234
+tt0244244,Swordfish,2001,5 wins & 10 nominations total,"$69,772,969",6.5,32,"201,658",True,,2025-10-26T10:51:41.100246
+tt0244970,Someone Like You,2001,N/A,"$27,343,067",6.1,32,"28,004",True,,2025-10-26T10:51:41.574999
+tt0245120,The Forsaken,2001,N/A,"$7,288,451",5.3,35,"9,335",True,,2025-10-26T10:51:42.046611
+tt0245350,The Pearl,2004,N/A,N/A,3.9,N/A,268,True,,2025-10-26T10:51:42.526620
+tt0245407,Crush,2001,N/A,"$1,084,935",5.7,37,"3,994",True,,2025-10-26T10:51:42.948237
+tt0245562,Windtalkers,2002,3 wins & 6 nominations total,"$40,914,068",6.1,51,"76,046",True,,2025-10-26T10:51:43.404642
+tt0245674,Thir13en Ghosts,2001,1 win & 4 nominations total,"$41,867,960",5.6,30,"97,477",True,,2025-10-26T10:51:43.961112
+tt0245686,Joe Dirt,2001,1 win & 3 nominations total,"$27,087,695",6.0,20,"64,259",True,,2025-10-26T10:51:44.382354
+tt0245803,Bulletproof Monk,2003,1 nomination total,"$23,358,708",5.5,40,"53,492",True,,2025-10-26T10:51:44.799194
+tt0245844,The Count of Monte Cristo,2002,N/A,"$54,234,062",7.7,61,"156,774",True,,2025-10-26T10:51:45.208873
+tt0246002,Kingdom Come,2001,1 win & 6 nominations,"$23,249,649",5.5,48,"2,497",True,,2025-10-26T10:51:45.668851
+tt0246460,Die Another Day,2002,6 wins & 36 nominations total,"$160,942,139",6.1,56,"236,957",True,,2025-10-26T10:51:46.082383
+tt0246464,Big Trouble,2002,N/A,"$7,267,307",6.4,47,"22,197",True,,2025-10-26T10:51:46.553852
+tt0246544,The Musketeer,2001,1 nomination,"$27,073,640",4.7,27,"15,157",True,,2025-10-26T10:51:47.030840
+tt0246578,Donnie Darko,2001,12 wins & 17 nominations total,"$1,478,493",8.0,88,"894,255",True,,2025-10-26T10:51:47.444002
+tt0246894,Rollerball,2002,5 wins & 3 nominations,"$18,990,798",3.1,14,"30,030",True,,2025-10-26T10:51:47.917314
+tt0246989,Tomcats,2001,2 nominations,"$13,558,739",5.3,15,"20,064",True,,2025-10-26T10:51:48.384797
+tt0247199,The Believer,2001,6 wins & 10 nominations total,"$416,925",7.1,75,"42,325",True,,2025-10-26T10:51:48.842118
+tt0247425,In the Bedroom,2001,Nominated for 5 Oscars. 39 wins & 75 nominations total,"$35,930,604",7.4,86,"43,508",True,,2025-10-26T10:51:49.303201
+tt0247638,The Princess Diaries,2001,3 wins & 11 nominations total,"$108,248,956",6.4,52,"177,641",True,,2025-10-26T10:51:49.725936
+tt0247745,Super Troopers,2001,1 win total,"$18,492,362",7.0,48,"117,249",True,,2025-10-26T10:51:50.155228
+tt0248126,Kabhi Khushi Kabhie Gham...,2001,27 wins & 47 nominations,"$2,902,000",7.4,N/A,"58,366",True,,2025-10-26T10:51:50.615235
+tt0248667,Ali,2001,Nominated for 2 Oscars. 10 wins & 27 nominations total,"$58,203,105",6.7,65,"108,321",True,,2025-10-26T10:51:51.037494
+tt0249462,Billy Elliot,2000,Nominated for 3 Oscars. 55 wins & 71 nominations total,"$21,995,263",7.7,74,"149,035",True,,2025-10-26T10:51:51.504533
+tt0249478,Domestic Disturbance,2001,1 win & 3 nominations total,"$45,246,095",5.6,29,"29,538",True,,2025-10-26T10:51:51.970120
+tt0250224,Crazy/Beautiful,2001,5 nominations total,"$16,937,988",6.4,61,"26,176",True,,2025-10-26T10:51:52.448818
+tt0250274,The Brothers,2001,1 win & 8 nominations,"$27,457,409",6.3,50,"5,147",True,,2025-10-26T10:51:52.922673
+tt0250323,The Deep End,2001,4 wins & 19 nominations total,"$8,823,109",6.5,78,"12,304",True,,2025-10-26T10:51:53.388677
+tt0250494,Legally Blonde,2001,6 wins & 14 nominations total,"$96,520,674",6.5,59,"272,673",True,,2025-10-26T10:51:53.880749
+tt0250720,See Spot Run,2001,1 nomination,"$33,357,476",5.4,24,"9,869",True,,2025-10-26T10:51:54.355579
+tt0250797,Unfaithful,2002,Nominated for 1 Oscar. 3 wins & 16 nominations total,"$52,775,765",6.7,63,"104,051",True,,2025-10-26T10:51:54.815535
+tt0251075,Evolution,2001,2 nominations total,"$38,345,494",6.1,40,"139,541",True,,2025-10-26T10:51:55.280009
+tt0251114,Hart's War,2002,1 win & 1 nomination total,"$19,077,641",6.3,49,"56,919",True,,2025-10-26T10:51:55.736505
+tt0251160,John Q,2002,2 wins & 8 nominations total,"$71,756,802",7.1,30,"151,094",True,,2025-10-26T10:51:56.148595
+tt0251736,House of 1000 Corpses,2003,4 wins & 8 nominations total,"$12,634,962",6.0,31,"96,997",True,,2025-10-26T10:51:56.648688
+tt0252076,Maid in Manhattan,2002,1 win & 8 nominations total,"$94,011,225",5.4,45,"100,087",True,,2025-10-26T10:51:57.112386
+tt0252223,All the Queen's Men,2001,N/A,"$23,662",4.8,19,"2,745",True,,2025-10-26T10:51:57.591938
+tt0252299,Buffalo Soldiers,2001,1 win & 6 nominations total,"$354,421",6.7,56,"25,827",True,,2025-10-26T10:51:58.052854
+tt0252501,Hearts in Atlantis,2001,2 wins & 8 nominations total,"$24,185,781",6.9,55,"41,796",True,,2025-10-26T10:51:58.481522
+tt0252503,Heist,2001,N/A,"$23,510,841",6.5,66,"40,828",True,,2025-10-26T10:51:58.898260
+tt0252866,American Pie 2,2001,8 wins & 7 nominations total,"$145,103,595",6.5,43,"280,801",True,,2025-10-26T10:51:59.369735
+tt0253126,High Heels and Low Lifes,2001,1 nomination,"$228,194",6.1,39,"3,717",True,,2025-10-26T10:51:59.889872
+tt0253474,The Pianist,2002,Won 3 Oscars. 57 wins & 74 nominations total,"$32,590,750",8.5,85,"985,127",True,,2025-10-26T10:52:00.344194
+tt0253556,Reign of Fire,2002,1 win & 3 nominations total,"$43,061,982",6.2,39,"150,235",True,,2025-10-26T10:52:00.927503
+tt0253754,Star Trek: Nemesis,2002,1 win & 4 nominations total,"$43,254,409",6.4,51,"86,512",True,,2025-10-26T10:52:01.386327
+tt0253798,Out Cold,2001,N/A,"$13,906,394",6.2,22,"18,718",True,,2025-10-26T10:52:02.144855
+tt0253867,The Sweetest Thing,2002,1 win & 4 nominations total,"$24,718,164",5.2,32,"64,477",True,,2025-10-26T10:52:02.655192
+tt0255798,The Animal,2001,6 nominations total,"$57,743,062",4.8,43,"66,123",True,,2025-10-26T10:52:03.346774
+tt0255819,Baby Boy,2001,1 win & 14 nominations total,"$28,734,552",6.5,55,"17,600",True,,2025-10-26T10:52:04.082787
+tt0256380,Shallow Hal,2001,3 nominations total,"$70,839,203",6.0,48,"150,221",True,,2025-10-26T10:52:04.551093
+tt0256415,Sweet Home Alabama,2002,3 wins & 6 nominations total,"$127,223,418",6.2,45,"129,343",True,,2025-10-26T10:52:05.078973
+tt0256524,The Curse of the Jade Scorpion,2001,1 win & 1 nomination total,"$7,517,191",6.7,52,"43,414",True,,2025-10-26T10:52:05.627608
+tt0257044,Road to Perdition,2002,Won 1 Oscar. 23 wins & 82 nominations total,"$104,454,762",7.6,72,"296,515",True,,2025-10-26T10:52:06.045924
+tt0257076,S.W.A.T.,2003,5 wins & 5 nominations total,"$116,934,650",6.1,45,"158,083",True,,2025-10-26T10:52:06.504379
+tt0257106,Scary Movie 2,2001,3 wins & 5 nominations total,"$71,308,997",5.4,29,"185,695",True,,2025-10-26T10:52:07.499580
+tt0257360,About Schmidt,2002,Nominated for 2 Oscars. 25 wins & 71 nominations total,"$65,016,287",7.2,85,"136,631",True,,2025-10-26T10:52:08.994067
+tt0257516,Cursed,2005,3 nominations total,"$19,297,522",5.1,31,"36,574",True,,2025-10-26T10:52:09.461877
+tt0257568,Kangaroo Jack,2003,1 win & 9 nominations total,"$66,934,963",4.5,16,"34,956",True,,2025-10-26T10:52:10.195122
+tt0257756,High Crimes,2002,2 nominations total,"$41,543,917",6.4,48,"49,640",True,,2025-10-26T10:52:10.806756
+tt0258000,Panic Room,2002,1 win & 9 nominations total,"$96,397,334",6.8,65,"310,689",True,,2025-10-26T10:52:11.219552
+tt0258038,Pootie Tang,2001,1 nomination,"$3,313,583",5.3,31,"15,296",True,,2025-10-26T10:52:11.679253
+tt0258068,The Quiet American,2002,Nominated for 1 Oscar. 13 wins & 14 nominations total,"$12,988,801",7.0,84,"30,491",True,,2025-10-26T10:52:12.153423
+tt0258463,The Bourne Identity,2002,3 wins & 6 nominations total,"$121,661,683",7.8,68,"601,881",True,,2025-10-26T10:52:12.580015
+tt0258470,Bubble Boy,2001,1 nomination total,"$5,007,898",5.7,41,"36,409",True,,2025-10-26T10:52:13.049324
+tt0259288,Dragonfly,2002,1 nomination total,"$30,323,400",6.1,25,"41,154",True,,2025-10-26T10:52:13.486439
+tt0259324,Ghost Rider,2007,1 win & 11 nominations total,"$115,802,596",5.3,35,"264,852",True,,2025-10-26T10:52:13.909228
+tt0259446,My Big Fat Greek Wedding,2002,Nominated for 1 Oscar. 20 wins & 29 nominations total,"$241,438,208",6.6,62,"149,502",True,,2025-10-26T10:52:14.377761
+tt0259711,Vanilla Sky,2001,Nominated for 1 Oscar. 5 wins & 34 nominations total,"$100,618,344",6.9,45,"299,078",True,,2025-10-26T10:52:14.860603
+tt0259974,Digimon: The Movie,2000,1 win & 1 nomination total,"$9,631,153",6.1,20,"8,295",True,,2025-10-26T10:52:15.280925
+tt0260866,Don't Say a Word,2001,1 nomination total,"$55,001,642",6.3,38,"59,439",True,,2025-10-26T10:52:15.771021
+tt0261289,Serving Sara,2002,N/A,"$16,930,185",5.3,18,"19,162",True,,2025-10-26T10:52:16.279612
