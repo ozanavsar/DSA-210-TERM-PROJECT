@@ -1,0 +1,544 @@
+imdb_id,omdb_title,omdb_year,awards_text,omdb_boxoffice,omdb_imdb_rating,omdb_metascore,omdb_imdb_votes,response_ok,error_msg,fetched_at
+tt2023587,Mama,2013,11 wins & 19 nominations total,"$71,628,180",6.2,57,"197,699",True,,2025-10-29T13:47:56.529850
+tt2024432,Identity Thief,2013,1 win & 9 nominations total,"$134,506,920",5.7,35,"144,775",True,,2025-10-29T13:47:56.957784
+tt2024469,Non-Stop,2014,1 nomination total,"$92,168,600",6.9,56,"283,572",True,,2025-10-29T13:47:57.381835
+tt2024544,12 Years a Slave,2013,Won 3 Oscars. 244 wins & 338 nominations total,"$56,671,993",8.1,96,"772,130",True,,2025-10-29T13:47:57.810929
+tt2034139,The Last Exorcism Part II,2013,1 win & 2 nominations total,"$15,179,302",4.0,35,"17,323",True,,2025-10-29T13:47:58.235612
+tt2034800,The Great Wall,2016,3 wins & 2 nominations total,"$45,540,830",5.9,42,"156,740",True,,2025-10-29T13:47:58.668463
+tt2039338,Flatliners,2017,1 win & 4 nominations total,"$16,883,115",5.2,27,"52,106",True,,2025-10-29T13:47:59.100894
+tt2039393,The Gambler,2014,1 win & 3 nominations total,"$33,680,992",6.0,55,"75,412",True,,2025-10-29T13:47:59.529446
+tt2052015,Water & Power,2013,N/A,"$82,312",4.2,N/A,149,True,,2025-10-29T13:47:59.960921
+tt2058673,Point Break,2015,2 wins & 4 nominations total,"$28,782,481",5.3,34,"67,928",True,,2025-10-29T13:48:00.400699
+tt2066051,Rocketman,2019,Won 1 Oscar. 25 wins & 87 nominations total,"$96,368,160",7.3,69,"204,815",True,,2025-10-29T13:48:00.823898
+tt2080374,Steve Jobs,2015,Nominated for 2 Oscars. 28 wins & 117 nominations total,"$17,766,658",7.2,82,"184,236",True,,2025-10-29T13:48:01.267138
+tt2083355,The Best Man Holiday,2013,3 wins & 15 nominations total,"$70,525,195",6.6,59,"17,550",True,,2025-10-29T13:48:01.687463
+tt2091256,Captain Underpants: The First Epic Movie,2017,3 wins & 15 nominations total,"$73,921,000",6.2,69,"35,075",True,,2025-10-29T13:48:02.112644
+tt2093269,The Prophet's Son,2012,N/A,"$16,983",5.2,N/A,47,True,,2025-10-29T13:48:02.542040
+tt2094766,Assassin's Creed,2016,2 wins & 2 nominations total,"$54,647,948",5.6,36,"216,208",True,,2025-10-29T13:48:02.968926
+tt2096672,Dumb and Dumber To,2014,1 win & 7 nominations total,"$86,208,010",5.6,36,"151,451",True,,2025-10-29T13:48:03.391584
+tt2096673,Inside Out,2015,Won 1 Oscar. 99 wins & 118 nominations total,"$356,461,711",8.1,94,"886,854",True,,2025-10-29T13:48:03.816442
+tt2097307,Hit and Run,2012,1 win total,"$13,749,300",6.1,50,"38,474",True,,2025-10-29T13:48:04.243354
+tt2101441,Spring Breakers,2012,14 wins & 35 nominations total,"$14,124,284",5.3,63,"152,753",True,,2025-10-29T13:48:04.670003
+tt2103254,Tammy,2014,1 win & 7 nominations total,"$84,525,432",4.9,39,"56,325",True,,2025-10-29T13:48:05.106177
+tt2103281,Dawn of the Planet of the Apes,2014,Nominated for 1 Oscar. 17 wins & 48 nominations total,"$208,545,589",7.6,79,"503,917",True,,2025-10-29T13:48:05.536910
+tt2106361,Into the Storm,2014,3 wins & 1 nomination total,"$47,615,959",5.8,44,"73,498",True,,2025-10-29T13:48:05.973404
+tt2109184,Paranormal Activity 4,2012,2 wins total,"$53,885,000",4.7,40,"72,449",True,,2025-10-29T13:48:06.399578
+tt2109248,Transformers: Age of Extinction,2014,5 wins & 23 nominations total,"$245,439,076",5.6,32,"344,373",True,,2025-10-29T13:48:06.823647
+tt2119532,Hacksaw Ridge,2016,Won 2 Oscars. 57 wins & 115 nominations total,"$67,209,615",8.1,71,"655,217",True,,2025-10-29T13:48:07.247969
+tt2119543,The House with a Clock in Its Walls,2018,1 win & 1 nomination total,"$68,549,695",6.1,57,"58,552",True,,2025-10-29T13:48:07.671389
+tt2120120,Pixels,2015,5 wins & 9 nominations total,"$78,747,585",5.6,27,"172,697",True,,2025-10-29T13:48:08.096056
+tt2126355,San Andreas,2015,2 wins & 10 nominations total,"$155,190,832",6.1,43,"271,110",True,,2025-10-29T13:48:08.521746
+tt2126357,Second Act,2018,2 wins & 1 nomination total,"$39,282,227",5.8,46,"31,529",True,,2025-10-29T13:48:08.945318
+tt2139881,Long Shot,2019,5 wins & 13 nominations total,"$30,316,271",6.8,67,"126,759",True,,2025-10-29T13:48:09.367404
+tt2140373,Saving Mr. Banks,2013,Nominated for 1 Oscar. 13 wins & 74 nominations total,"$83,301,580",7.5,65,"174,077",True,,2025-10-29T13:48:09.791292
+tt2140379,Self/less,2015,N/A,"$12,279,691",6.5,34,"106,052",True,,2025-10-29T13:48:10.225233
+tt2140479,The Accountant,2016,3 wins & 5 nominations total,"$86,260,045",7.3,51,"384,492",True,,2025-10-29T13:48:10.650623
+tt2167202,Getaway,2013,2 nominations total,"$10,501,938",4.4,22,"25,707",True,,2025-10-29T13:48:11.262044
+tt2170439,Horrible Bosses 2,2014,1 win & 6 nominations total,"$54,445,357",6.3,40,"191,215",True,,2025-10-29T13:48:11.688340
+tt2172934,3 Days to Kill,2014,N/A,"$30,697,999",6.2,40,"100,415",True,,2025-10-29T13:48:12.125118
+tt2172935,Metallica Through the Never,2013,1 win & 3 nominations total,"$3,419,967",7.1,61,"18,585",True,,2025-10-29T13:48:12.547307
+tt2177771,The Monuments Men,2014,3 wins & 3 nominations total,"$78,031,620",6.1,52,"146,728",True,,2025-10-29T13:48:12.974719
+tt2179136,American Sniper,2014,Won 1 Oscar. 24 wins & 43 nominations total,"$350,159,020",7.3,73,"556,779",True,,2025-10-29T13:48:13.397025
+tt2180411,Into the Woods,2014,Nominated for 3 Oscars. 11 wins & 75 nominations total,"$128,002,372",5.9,69,"152,185",True,,2025-10-29T13:48:13.823625
+tt2183034,Earth to Echo,2014,2 wins & 1 nomination total,"$38,934,842",5.7,53,"20,231",True,,2025-10-29T13:48:14.252979
+tt2184339,The Purge,2013,2 wins & 6 nominations total,"$64,473,115",5.8,41,"255,029",True,,2025-10-29T13:48:14.680839
+tt2191701,Grown Ups 2,2013,5 wins & 15 nominations total,"$133,668,525",5.4,19,"185,515",True,,2025-10-29T13:48:15.105000
+tt2193215,The Counselor,2013,5 wins & 3 nominations total,"$16,973,715",5.4,48,"108,778",True,,2025-10-29T13:48:15.528120
+tt2199571,Run All Night,2015,N/A,"$26,461,644",6.6,59,"118,524",True,,2025-10-29T13:48:15.954471
+tt2203939,The Other Woman,2014,3 wins & 5 nominations total,"$83,911,193",6.0,39,"157,469",True,,2025-10-29T13:48:16.387823
+tt2206498,In Over My Head,2012,N/A,"$19,482",5.1,N/A,41,True,,2025-10-29T13:48:16.812880
+tt2209764,Transcendence,2014,3 wins & 5 nominations total,"$23,022,309",6.2,42,"244,737",True,,2025-10-29T13:48:17.238423
+tt2215285,Madea's Witness Protection,2012,1 win & 5 nominations total,"$65,653,242",5.0,42,"11,727",True,,2025-10-29T13:48:17.670119
+tt2215719,Katy Perry: Part of Me,2012,1 win total,"$25,326,071",6.0,57,"13,980",True,,2025-10-29T13:48:18.106483
+tt2224026,Home,2015,3 wins & 10 nominations total,"$177,397,510",6.5,55,"118,719",True,,2025-10-29T13:48:18.531404
+tt2226417,Insidious: Chapter 2,2013,16 nominations total,"$83,586,447",6.6,40,"198,038",True,,2025-10-29T13:48:18.954949
+tt2226597,The Mountain Between Us,2017,2 wins & 1 nomination total,"$30,348,555",6.4,48,"87,013",True,,2025-10-29T13:48:19.380315
+tt2229499,Don Jon,2013,2 wins & 28 nominations total,"$24,477,704",6.5,66,"253,256",True,,2025-10-29T13:48:19.803923
+tt2231461,Rampage,2018,7 nominations total,"$101,028,233",6.1,45,"197,675",True,,2025-10-29T13:48:20.227986
+tt2234155,The Internship,2013,2 nominations total,"$44,672,764",6.3,42,"222,971",True,,2025-10-29T13:48:20.650769
+tt2239822,Valerian and the City of a Thousand Planets,2017,11 nominations total,"$41,189,488",6.4,51,"206,328",True,,2025-10-29T13:48:21.074287
+tt2239832,Think Like a Man Too,2014,2 wins & 4 nominations total,"$65,182,182",5.7,38,"23,826",True,,2025-10-29T13:48:21.500188
+tt2241351,Money Monster,2016,2 nominations total,"$41,012,075",6.5,55,"110,480",True,,2025-10-29T13:48:21.923417
+tt2243537,A Haunted House,2013,1 win & 1 nomination total,"$40,041,683",5.1,20,"52,749",True,,2025-10-29T13:48:22.352474
+tt2245084,Big Hero 6,2014,Won 1 Oscar. 17 wins & 58 nominations total,"$222,527,828",7.8,74,"539,795",True,,2025-10-29T13:48:22.777042
+tt2247476,When the Game Stands Tall,2014,1 nomination total,"$30,127,963",6.6,41,"17,366",True,,2025-10-29T13:48:23.200411
+tt2250912,Spider-Man: Homecoming,2017,8 wins & 11 nominations total,"$334,952,829",7.4,73,"774,283",True,,2025-10-29T13:48:23.642030
+tt2262227,The Book of Life,2014,3 wins & 29 nominations total,"$50,151,543",7.2,67,"81,652",True,,2025-10-29T13:48:24.063871
+tt2267968,Kung Fu Panda 3,2016,1 win & 10 nominations total,"$143,528,619",7.1,66,"210,055",True,,2025-10-29T13:48:24.497729
+tt2267998,Gone Girl,2014,Nominated for 1 Oscar. 64 wins & 189 nominations total,"$167,767,189",8.1,79,"1,142,231",True,,2025-10-29T13:48:24.920733
+tt2268016,Magic Mike XXL,2015,2 wins & 5 nominations total,"$66,013,057",5.6,61,"62,982",True,,2025-10-29T13:48:25.344647
+tt2274648,Hellboy,2019,1 win & 8 nominations total,"$21,903,748",5.3,31,"105,623",True,,2025-10-29T13:48:25.768837
+tt2276023,The United States of Autism,2013,N/A,"$100,403",6.3,N/A,48,True,,2025-10-29T13:48:26.203357
+tt2278388,The Grand Budapest Hotel,2014,Won 4 Oscars. 135 wins & 227 nominations total,"$59,301,324",8.1,88,"944,259",True,,2025-10-29T13:48:26.647866
+tt2279339,Love the Coopers,2015,2 nominations total,"$26,302,731",5.8,31,"28,112",True,,2025-10-29T13:48:27.074227
+tt2279373,The SpongeBob Movie: Sponge Out of Water,2015,1 win & 9 nominations total,"$162,994,032",6.0,62,"65,641",True,,2025-10-29T13:48:27.497580
+tt2281587,Muppets Most Wanted,2014,Nominated for 1 BAFTA Award3 wins & 11 nominations total,"$51,183,113",6.4,61,"38,689",True,,2025-10-29T13:48:27.921057
+tt2283336,Men in Black: International,2019,1 win & 9 nominations total,"$80,001,807",5.6,38,"157,214",True,,2025-10-29T13:48:28.350900
+tt2283362,Jumanji: Welcome to the Jungle,2017,5 wins & 15 nominations total,"$404,540,171",7.0,58,"488,679",True,,2025-10-29T13:48:28.778142
+tt2293640,Minions,2015,Nominated for 1 BAFTA Award4 wins & 29 nominations total,"$336,045,770",6.4,56,"276,757",True,,2025-10-29T13:48:29.201329
+tt2294449,22 Jump Street,2014,7 wins & 25 nominations total,"$191,719,337",7.0,71,"429,225",True,,2025-10-29T13:48:29.645187
+tt2294629,Frozen,2013,Won 2 Oscars. 83 wins & 60 nominations total,"$400,953,009",7.4,75,"698,041",True,,2025-10-29T13:48:30.071018
+tt2296777,Sherlock Gnomes,2018,1 win & 6 nominations total,"$43,242,871",5.3,36,"15,022",True,,2025-10-29T13:48:30.503489
+tt2302755,Olympus Has Fallen,2013,1 win & 5 nominations total,"$98,925,640",6.5,41,"303,186",True,,2025-10-29T13:48:30.940705
+tt2304933,The 5th Wave,2016,1 nomination total,"$34,916,787",5.2,33,"124,056",True,,2025-10-29T13:48:31.364070
+tt2309260,The Gallows,2015,1 nomination total,"$22,764,410",4.3,30,"22,321",True,,2025-10-29T13:48:31.800454
+tt2312718,Homefront,2013,1 nomination total,"$20,158,898",6.5,40,"139,006",True,,2025-10-29T13:48:32.230121
+tt2316204,Alien: Covenant,2017,3 wins & 18 nominations total,"$74,262,031",6.4,65,"337,397",True,,2025-10-29T13:48:32.659145
+tt2318092,Endless Love,2014,1 win total,"$23,438,250",6.2,30,"48,655",True,,2025-10-29T13:48:33.084158
+tt2322441,Fifty Shades of Grey,2015,Nominated for 1 Oscar. 9 wins & 30 nominations total,"$166,167,230",4.2,46,"350,774",True,,2025-10-29T13:48:33.508650
+tt2334871,Snatched,2017,2 wins & 2 nominations total,"$45,852,178",4.7,45,"38,671",True,,2025-10-29T13:48:33.932392
+tt2334879,White House Down,2013,3 wins & 9 nominations total,"$73,103,784",6.3,52,"246,051",True,,2025-10-29T13:48:34.390982
+tt2345737,The Rover,2014,3 wins & 19 nominations total,"$1,114,423",6.4,64,"53,254",True,,2025-10-29T13:48:34.811775
+tt2345759,The Mummy,2017,4 wins & 18 nominations total,"$80,227,895",5.4,34,"217,694",True,,2025-10-29T13:48:35.236159
+tt2357129,Jobs,2013,2 nominations total,"$16,131,410",6.0,44,"106,036",True,,2025-10-29T13:48:35.659262
+tt2357291,Rio 2,2014,Nominated for 1 BAFTA Award2 wins & 24 nominations total,"$131,538,435",6.3,49,"108,577",True,,2025-10-29T13:48:36.083932
+tt2358925,Unfinished Business,2015,1 nomination total,"$10,219,501",5.4,32,"35,928",True,,2025-10-29T13:48:36.506050
+tt2361509,The Intern,2015,1 win & 9 nominations total,"$75,764,672",7.1,51,"298,924",True,,2025-10-29T13:48:36.929898
+tt2364841,Runner Runner,2013,2 nominations total,"$19,316,646",5.6,36,"66,392",True,,2025-10-29T13:48:37.370318
+tt2364897,The Disappointments Room,2016,1 nomination total,"$2,423,468",3.9,31,"11,031",True,,2025-10-29T13:48:37.792877
+tt2369135,Need for Speed,2014,1 win & 6 nominations total,"$43,577,636",6.4,39,"184,853",True,,2025-10-29T13:48:38.226783
+tt2377322,Deliver Us from Evil,2014,2 wins & 4 nominations total,"$30,577,122",6.2,40,"89,505",True,,2025-10-29T13:48:38.651937
+tt2379713,Spectre,2015,Won 1 Oscar. 8 wins & 37 nominations total,"$200,074,609",6.8,60,"486,537",True,,2025-10-29T13:48:39.077908
+tt2381249,Mission: Impossible - Rogue Nation,2015,6 wins & 26 nominations total,"$195,042,377",7.4,75,"437,807",True,,2025-10-29T13:48:39.511245
+tt2381941,Focus,2015,3 nominations total,"$53,862,963",6.6,56,"289,889",True,,2025-10-29T13:48:39.946498
+tt2381991,The Huntsman: Winter's War,2016,16 nominations total,"$48,390,190",6.1,35,"124,688",True,,2025-10-29T13:48:40.374657
+tt2382420,Split: A Deeper Divide,2012,N/A,"$2,000",6.8,53,19,True,,2025-10-29T13:48:40.801577
+tt2386490,How to Train Your Dragon: The Hidden World,2019,Nominated for 1 Oscar. 7 wins & 66 nominations total,"$160,945,505",7.4,71,"171,668",True,,2025-10-29T13:48:41.233057
+tt2386502,A Long Way Off,2014,2 wins,"$30,104",4.6,N/A,220,True,,2025-10-29T13:48:41.660376
+tt2387433,Dark Skies,2013,N/A,"$17,418,667",6.3,50,"82,827",True,,2025-10-29T13:48:42.083790
+tt2387499,Keeping Up with the Joneses,2016,3 nominations total,"$14,904,426",5.9,34,"70,958",True,,2025-10-29T13:48:42.509483
+tt2387559,Delivery Man,2013,N/A,"$30,664,106",6.3,44,"84,840",True,,2025-10-29T13:48:42.938271
+tt2388715,Oculus,2013,3 wins & 17 nominations total,"$27,695,246",6.5,61,"145,944",True,,2025-10-29T13:48:43.368403
+tt2395427,Avengers: Age of Ultron,2015,8 wins & 52 nominations total,"$459,005,868",7.3,66,"977,828",True,,2025-10-29T13:48:43.800192
+tt2398241,Smurfs: The Lost Village,2017,1 win & 6 nominations total,"$45,020,282",6.0,40,"26,667",True,,2025-10-29T13:48:44.225633
+tt2401878,Anomalisa,2015,Nominated for 1 Oscar. 24 wins & 79 nominations total,"$3,759,286",7.2,88,"77,210",True,,2025-10-29T13:48:44.670967
+tt2403021,The Green Inferno,2013,1 win & 6 nominations total,"$7,192,291",5.4,38,"53,418",True,,2025-10-29T13:48:45.097104
+tt2404233,Gods of Egypt,2016,2 wins & 14 nominations total,"$31,153,464",5.4,25,"131,803",True,,2025-10-29T13:48:45.521327
+tt2404311,The Family,2013,1 win & 1 nomination total,"$36,918,811",6.3,42,"126,304",True,,2025-10-29T13:48:45.952863
+tt2404425,Woman in Gold,2015,6 nominations,"$33,307,793",7.3,51,"64,276",True,,2025-10-29T13:48:46.380313
+tt2404435,The Magnificent Seven,2016,5 wins & 12 nominations total,"$93,432,655",6.9,54,"240,944",True,,2025-10-29T13:48:46.819949
+tt2404463,The Heat,2013,7 wins & 16 nominations total,"$159,582,188",6.6,60,"185,730",True,,2025-10-29T13:48:47.246019
+tt2406566,Atomic Blonde,2017,14 wins & 20 nominations total,"$51,687,870",6.7,63,"216,139",True,,2025-10-29T13:48:47.674245
+tt2431286,Philomena,2013,Nominated for 4 Oscars. 33 wins & 86 nominations total,"$37,709,979",7.6,77,"106,399",True,,2025-10-29T13:48:48.101920
+tt2436386,Project Almanac,2015,N/A,"$22,348,241",6.4,47,"86,969",True,,2025-10-29T13:48:48.526804
+tt2446042,Taken 3,2014,3 wins & 3 nominations total,"$89,256,424",6.0,26,"212,199",True,,2025-10-29T13:48:48.954015
+tt2446980,Joy,2015,Nominated for 1 Oscar. 8 wins & 23 nominations total,"$56,451,232",6.6,56,"149,748",True,,2025-10-29T13:48:49.377820
+tt2452042,The Peanuts Movie,2015,2 wins & 49 nominations total,"$130,178,411",7.0,67,"52,134",True,,2025-10-29T13:48:49.801967
+tt2452244,Isn't It Romantic,2019,1 win & 10 nominations total,"$48,791,187",5.9,60,"75,727",True,,2025-10-29T13:48:50.231904
+tt2467046,Left Behind,2014,5 nominations total,"$14,019,924",3.1,12,"43,657",True,,2025-10-29T13:48:50.660336
+tt2473510,Paranormal Activity: The Ghost Dimension,2015,1 win & 4 nominations total,"$18,300,124",4.6,30,"32,253",True,,2025-10-29T13:48:51.093632
+tt2473682,Paranormal Activity: The Marked Ones,2014,3 nominations,"$32,462,372",5.1,42,"46,267",True,,2025-10-29T13:48:51.518239
+tt2488496,Star Wars: Episode VII - The Force Awakens,2015,Nominated for 5 Oscars. 64 wins & 140 nominations total,"$936,662,225",7.7,80,"1,011,547",True,,2025-10-29T13:48:51.941916
+tt2503944,Burnt,2015,6 wins & 1 nomination total,"$13,651,946",6.6,42,"139,460",True,,2025-10-29T13:48:52.366863
+tt2510894,Hotel Transylvania 2,2015,3 wins & 11 nominations total,"$169,700,110",6.6,44,"155,330",True,,2025-10-29T13:48:52.794065
+tt2515034,The Gunman,2015,1 nomination total,"$10,664,749",5.8,39,"44,444",True,,2025-10-29T13:48:53.223060
+tt2515086,One Direction: This Is Us,2013,1 nomination total,"$29,136,885",4.4,49,"25,408",True,,2025-10-29T13:48:53.647120
+tt2527336,Star Wars: Episode VIII - The Last Jedi,2017,Nominated for 4 Oscars. 26 wins & 100 nominations total,"$620,181,382",6.8,84,"705,193",True,,2025-10-29T13:48:54.074807
+tt2527338,Star Wars: Episode IX - The Rise of Skywalker,2019,Nominated for 3 Oscars. 21 wins & 55 nominations total,"$515,202,542",6.4,53,"528,173",True,,2025-10-29T13:48:54.499054
+tt2528814,God's Not Dead,2014,1 win total,"$60,755,732",4.6,16,"45,836",True,,2025-10-29T13:48:54.924173
+tt2531344,Blockers,2018,1 win & 7 nominations total,"$60,311,495",6.2,69,"90,859",True,,2025-10-29T13:48:55.347590
+tt2543164,Arrival,2016,Won 1 Oscar. 71 wins & 268 nominations total,"$100,546,139",7.9,81,"836,259",True,,2025-10-29T13:48:55.775675
+tt2547584,The Light Between Oceans,2016,2 wins & 19 nominations total,"$12,545,979",7.2,60,"62,199",True,,2025-10-29T13:48:56.201064
+tt2554274,Crimson Peak,2015,7 wins & 44 nominations total,"$31,090,320",6.5,66,"162,346",True,,2025-10-29T13:48:56.627445
+tt2555736,The Second Best Exotic Marigold Hotel,2015,4 nominations total,"$33,078,266",6.5,51,"37,292",True,,2025-10-29T13:48:57.056953
+tt2557478,Pacific Rim: Uprising,2018,6 nominations total,"$59,874,525",5.6,44,"134,365",True,,2025-10-29T13:48:57.502165
+tt2557490,A Million Ways to Die in the West,2014,6 nominations total,"$43,139,300",6.1,44,"207,163",True,,2025-10-29T13:48:57.927076
+tt2561572,Get Hard,2015,2 nominations total,"$90,411,453",6.0,34,"153,114",True,,2025-10-29T13:48:58.351462
+tt2562232,Birdman or (The Unexpected Virtue of Ignorance),2014,Won 4 Oscars. 193 wins & 297 nominations total,"$42,340,598",7.7,87,"686,941",True,,2025-10-29T13:48:58.773993
+tt2567026,Alice Through the Looking Glass,2016,4 wins & 20 nominations total,"$77,041,381",6.2,34,"131,108",True,,2025-10-29T13:48:59.195971
+tt2568862,Going in Style,2017,N/A,"$45,018,541",6.6,50,"95,729",True,,2025-10-29T13:48:59.619290
+tt2582496,Me and Earl and the Dying Girl,2015,18 wins & 30 nominations total,"$6,758,416",7.7,74,"143,217",True,,2025-10-29T13:49:00.045024
+tt2582782,Hell or High Water,2016,Nominated for 4 Oscars. 47 wins & 174 nominations total,"$27,007,844",7.6,88,"270,535",True,,2025-10-29T13:49:00.468516
+tt2582802,Whiplash,2014,Won 3 Oscars. 99 wins & 144 nominations total,"$14,003,391",8.5,89,"1,107,068",True,,2025-10-29T13:49:00.894211
+tt2582846,The Fault in Our Stars,2014,23 wins & 18 nominations total,"$124,872,350",7.6,69,"419,175",True,,2025-10-29T13:49:01.317928
+tt2584384,Jojo Rabbit,2019,Won 1 Oscar. 52 wins & 190 nominations total,"$33,370,906",7.9,58,"476,735",True,,2025-10-29T13:49:01.748437
+tt2592614,Resident Evil: The Final Chapter,2016,2 wins & 3 nominations total,"$26,830,068",5.5,49,"105,852",True,,2025-10-29T13:49:02.174642
+tt2637276,Ted 2,2015,3 wins & 4 nominations total,"$81,476,385",6.3,48,"253,831",True,,2025-10-29T13:49:02.601132
+tt2637294,Hot Tub Time Machine 2,2015,3 nominations total,"$12,314,651",5.0,29,"43,814",True,,2025-10-29T13:49:03.027996
+tt2638144,Ben-Hur,2016,2 wins & 3 nominations total,"$26,410,477",5.7,38,"48,775",True,,2025-10-29T13:49:03.453137
+tt2660888,Star Trek Beyond,2016,Nominated for 1 Oscar. 3 wins & 29 nominations total,"$158,848,340",7.0,68,"266,992",True,,2025-10-29T13:49:03.877639
+tt2671706,Fences,2016,Won 1 Oscar. 60 wins & 122 nominations total,"$57,682,904",7.2,79,"122,477",True,,2025-10-29T13:49:04.301697
+tt2673854,Midget Zombie Takeover,2013,N/A,"$11,006",3.2,N/A,144,True,,2025-10-29T13:49:04.727997
+tt2674426,Me Before You,2016,6 wins & 6 nominations total,"$56,245,075",7.4,51,"320,643",True,,2025-10-29T13:49:05.166781
+tt2679042,Hitman: Agent 47,2015,2 nominations total,"$22,467,450",5.7,28,"100,104",True,,2025-10-29T13:49:05.590585
+tt2692250,Night at the Museum: Secret of the Tomb,2014,1 win & 5 nominations total,"$113,746,621",6.2,47,"144,555",True,,2025-10-29T13:49:06.016034
+tt2702724,The Boss,2016,3 nominations total,"$63,285,885",5.4,40,"49,874",True,,2025-10-29T13:49:06.443912
+tt2704998,Game Night,2018,4 wins & 22 nominations total,"$69,268,230",6.9,66,"269,714",True,,2025-10-29T13:49:06.874638
+tt2709692,The Grinch,2018,2 wins & 18 nominations total,"$272,504,456",6.4,51,"104,836",True,,2025-10-29T13:49:07.298651
+tt2709768,The Secret Life of Pets,2016,4 wins & 15 nominations total,"$368,623,860",6.5,61,"230,647",True,,2025-10-29T13:49:07.729395
+tt2713180,Fury,2014,6 wins & 23 nominations total,"$85,817,906",7.6,64,"590,658",True,,2025-10-29T13:49:08.151394
+tt2717822,Blackhat,2015,1 win & 5 nominations total,"$8,005,980",5.5,52,"66,329",True,,2025-10-29T13:49:08.576462
+tt2719848,Everest,2015,2 wins & 9 nominations total,"$43,482,270",7.1,64,"241,475",True,,2025-10-29T13:49:09.002489
+tt2726560,The Longest Ride,2015,1 win & 5 nominations total,"$37,446,117",7.0,33,"93,089",True,,2025-10-29T13:49:09.425104
+tt2752758,Devil's Due,2014,3 nominations total,"$15,821,461",4.2,34,"18,066",True,,2025-10-29T13:49:09.853166
+tt2752772,Sinister 2,2015,1 win & 3 nominations total,"$27,740,955",5.3,32,"64,672",True,,2025-10-29T13:49:10.282155
+tt2763304,T2 Trainspotting,2017,6 wins & 8 nominations total,"$2,402,004",7.1,67,"138,720",True,,2025-10-29T13:49:10.706359
+tt2771200,Beauty and the Beast,2017,Nominated for 2 Oscars. 16 wins & 81 nominations total,"$504,481,165",7.1,65,"352,524",True,,2025-10-29T13:49:11.139346
+tt2771372,Veronica Mars,2014,6 nominations total,"$3,322,127",6.7,62,"55,767",True,,2025-10-29T13:49:11.564875
+tt2776878,Thank You for Your Service,2017,1 win & 1 nomination total,"$9,536,300",6.6,68,"16,363",True,,2025-10-29T13:49:11.989269
+tt2788732,Pete's Dragon,2016,3 wins & 7 nominations total,"$76,233,151",6.7,71,"63,653",True,,2025-10-29T13:49:12.413204
+tt2798920,Annihilation,2018,17 wins & 63 nominations total,"$32,732,301",6.8,79,"385,472",True,,2025-10-29T13:49:12.837362
+tt2802144,Kingsman: The Secret Service,2014,11 wins & 36 nominations total,"$128,261,724",7.7,60,"762,593",True,,2025-10-29T13:49:13.261755
+tt2820852,Furious 7,2015,36 wins & 36 nominations total,"$353,007,020",7.1,67,"432,114",True,,2025-10-29T13:49:13.684825
+tt2823054,Mike and Dave Need Wedding Dates,2016,4 nominations total,"$46,009,673",6.0,51,"98,903",True,,2025-10-29T13:49:14.112033
+tt2828996,A Haunted House 2,2014,2 nominations total,"$17,329,486",4.7,17,"25,195",True,,2025-10-29T13:49:14.540013
+tt2848292,Pitch Perfect 2,2015,10 wins & 17 nominations total,"$184,296,230",6.4,63,"176,393",True,,2025-10-29T13:49:14.969392
+tt2854926,Tag,2018,3 nominations total,"$54,730,625",6.5,56,"155,889",True,,2025-10-29T13:49:15.395586
+tt2869728,Ride Along 2,2016,1 win & 7 nominations total,"$91,221,830",5.9,32,"65,812",True,,2025-10-29T13:49:15.819971
+tt2872718,Nightcrawler,2014,Nominated for 1 Oscar. 46 wins & 126 nominations total,"$32,381,217",7.8,76,"647,047",True,,2025-10-29T13:49:16.246955
+tt2872732,Lucy,2014,1 win & 12 nominations total,"$126,663,600",6.4,62,"567,118",True,,2025-10-29T13:49:16.668826
+tt2873282,Red Sparrow,2018,3 wins & 9 nominations total,"$46,874,505",6.6,53,"213,834",True,,2025-10-29T13:49:17.108235
+tt2883434,Black or White,2014,1 win & 4 nominations,"$21,571,189",6.6,45,"14,065",True,,2025-10-29T13:49:17.531190
+tt2891174,99 Homes,2014,12 wins & 24 nominations total,"$1,411,927",7.1,76,"40,082",True,,2025-10-29T13:49:17.955041
+tt2908446,Insurgent,2015,4 wins & 18 nominations total,"$130,179,072",6.2,42,"267,171",True,,2025-10-29T13:49:18.384726
+tt2911666,John Wick,2014,5 wins & 10 nominations total,"$43,037,835",7.5,68,"802,507",True,,2025-10-29T13:49:18.839343
+tt2918436,The Lazarus Effect,2015,2 nominations total,"$25,801,570",5.2,31,"48,122",True,,2025-10-29T13:49:19.262845
+tt2932536,47 Meters Down,2017,2 nominations total,"$44,307,191",5.6,52,"63,824",True,,2025-10-29T13:49:19.684835
+tt2935510,Ad Astra,2019,Nominated for 1 Oscar. 10 wins & 75 nominations total,"$50,188,370",6.5,80,"274,765",True,,2025-10-29T13:49:20.114137
+tt2937898,A Most Violent Year,2014,15 wins & 52 nominations total,"$5,749,134",6.9,79,"80,438",True,,2025-10-29T13:49:20.543210
+tt2967224,Hot Pursuit,2015,4 nominations total,"$34,580,201",5.2,31,"55,872",True,,2025-10-29T13:49:21.022015
+tt2975578,The Purge: Anarchy,2014,3 wins & 6 nominations total,"$71,962,800",6.4,50,"169,236",True,,2025-10-29T13:49:21.443983
+tt2975590,Batman v Superman: Dawn of Justice,2016,14 wins & 33 nominations total,"$330,360,194",6.4,44,"781,615",True,,2025-10-29T13:49:21.870211
+tt2978462,Dolphin Tale 2,2014,3 nominations total,"$42,024,533",6.4,58,"10,042",True,,2025-10-29T13:49:22.297028
+tt2980516,The Theory of Everything,2014,Won 1 Oscar. 25 wins & 128 nominations total,"$35,893,537",7.7,71,"502,576",True,,2025-10-29T13:49:22.723848
+tt2980648,The Hundred-Foot Journey,2014,2 wins & 4 nominations total,"$54,240,821",7.3,55,"90,082",True,,2025-10-29T13:49:23.149945
+tt2980706,Planes: Fire & Rescue,2014,Nominated for 1 BAFTA Award6 nominations total,"$59,165,787",5.9,48,"21,135",True,,2025-10-29T13:49:23.575301
+tt2994190,Camp X-Ray,2014,6 nominations total,"$13,302",6.9,54,"43,781",True,,2025-10-29T13:49:24.010041
+tt3007512,The Water Diviner,2014,14 wins & 15 nominations total,"$4,196,641",7.0,50,"80,121",True,,2025-10-29T13:49:24.453642
+tt3014666,Moms' Night Out,2014,1 win total,"$10,429,707",5.3,25,"14,715",True,,2025-10-29T13:49:24.908752
+tt3040964,The Jungle Book,2016,Won 1 Oscar. 33 wins & 56 nominations total,"$364,001,123",7.3,77,"301,491",True,,2025-10-29T13:49:25.330139
+tt3045616,Mortdecai,2015,1 win & 9 nominations total,"$7,696,134",5.5,27,"78,490",True,,2025-10-29T13:49:25.777491
+tt3062096,Inferno,2016,5 wins & 1 nomination total,"$34,343,574",6.2,42,"198,904",True,,2025-10-29T13:49:26.207738
+tt3063516,Jackass Presents: Bad Grandpa,2013,Nominated for 1 Oscar. 1 win & 10 nominations total,"$102,003,019",6.5,54,"99,947",True,,2025-10-29T13:49:26.656745
+tt3065204,The Conjuring 2,2016,4 wins & 13 nominations total,"$102,516,140",7.3,65,"331,294",True,,2025-10-29T13:49:27.079237
+tt3076658,Creed,2015,Nominated for 1 Oscar. 45 wins & 66 nominations total,"$109,778,883",7.6,82,"326,630",True,,2025-10-29T13:49:27.502798
+tt3079380,Spy,2015,6 wins & 31 nominations total,"$110,825,712",7.0,75,"270,725",True,,2025-10-29T13:49:27.932623
+tt3104988,Crazy Rich Asians,2018,14 wins & 70 nominations total,"$174,837,452",6.9,74,"203,321",True,,2025-10-29T13:49:28.358658
+tt3125324,Beyond the Lights,2014,Nominated for 1 Oscar. 4 wins & 26 nominations total,"$14,618,727",6.8,73,"17,945",True,,2025-10-29T13:49:28.782912
+tt3152624,Trainwreck,2015,5 wins & 27 nominations total,"$110,225,700",6.2,75,"146,153",True,,2025-10-29T13:49:29.211292
+tt3165608,Justin Bieber's Believe,2013,1 nomination,"$6,206,566",1.6,39,"17,945",True,,2025-10-29T13:49:29.635901
+tt3181822,The Boy Next Door,2015,1 win & 6 nominations total,"$35,423,380",4.7,30,"47,151",True,,2025-10-29T13:49:30.061248
+tt3183660,Fantastic Beasts and Where to Find Them,2016,Won 1 Oscar. 15 wins & 54 nominations total,"$234,037,575",7.2,66,"531,437",True,,2025-10-29T13:49:30.482816
+tt3195644,Insidious: Chapter 3,2015,3 wins & 11 nominations total,"$52,218,558",6.1,52,"125,032",True,,2025-10-29T13:49:30.909176
+tt3216348,Incarnate,2016,N/A,"$4,799,774",5.3,30,"14,609",True,,2025-10-29T13:49:31.348198
+tt3224458,A Beautiful Day in the Neighborhood,2019,Nominated for 1 Oscar. 10 wins & 64 nominations total,"$61,704,055",7.2,80,"92,396",True,,2025-10-29T13:49:31.780253
+tt3231054,Risen,2016,3 nominations total,"$36,880,033",6.3,51,"32,068",True,,2025-10-29T13:49:32.211086
+tt3263904,Sully,2016,Nominated for 1 Oscar. 14 wins & 36 nominations total,"$125,070,033",7.4,74,"315,970",True,,2025-10-29T13:49:32.633959
+tt3276924,Heist,2015,N/A,"$50,136",6.1,37,"33,988",True,,2025-10-29T13:49:33.065055
+tt3281548,Little Women,2019,Won 1 Oscar. 73 wins & 230 nominations total,"$108,101,214",7.8,91,"270,557",True,,2025-10-29T13:49:33.503364
+tt3289724,Welcome to Marwen,2018,2 wins & 8 nominations total,"$10,763,520",6.2,40,"27,228",True,,2025-10-29T13:49:33.928233
+tt3300542,London Has Fallen,2016,1 win & 2 nominations total,"$62,524,260",5.9,28,"177,903",True,,2025-10-29T13:49:34.359020
+tt3315342,Logan,2017,Nominated for 1 Oscar. 28 wins & 82 nominations total,"$226,277,068",8.1,77,"905,584",True,,2025-10-29T13:49:34.780732
+tt3316948,American Ultra,2015,N/A,"$14,440,985",6.1,50,"98,692",True,,2025-10-29T13:49:35.213852
+tt3316960,Still Alice,2014,Won 1 Oscar. 35 wins & 36 nominations total,"$18,754,371",7.5,72,"148,076",True,,2025-10-29T13:49:35.642274
+tt3322364,Concussion,2015,4 wins & 16 nominations total,"$34,542,474",7.1,55,"103,389",True,,2025-10-29T13:49:36.065966
+tt3322940,Annabelle,2014,3 wins & 7 nominations total,"$84,284,252",5.5,37,"186,283",True,,2025-10-29T13:49:36.498497
+tt3332064,Pan,2015,8 nominations total,"$35,088,320",5.7,36,"68,736",True,,2025-10-29T13:49:36.920690
+tt3348730,Jigsaw,2017,N/A,"$38,052,832",5.7,39,"99,346",True,,2025-10-29T13:49:37.342500
+tt3352390,Friend Request,2016,2 wins & 1 nomination total,"$3,759,078",5.2,31,"28,543",True,,2025-10-29T13:49:37.770437
+tt3369806,Max,2015,1 nomination total,"$42,656,255",6.6,47,"29,512",True,,2025-10-29T13:49:38.199004
+tt3371366,Transformers: The Last Knight,2017,3 wins & 21 nominations total,"$130,168,683",5.2,27,"181,295",True,,2025-10-29T13:49:38.622551
+tt3385516,X-Men: Apocalypse,2016,1 win & 19 nominations total,"$155,442,489",6.8,52,"483,756",True,,2025-10-29T13:49:39.048503
+tt3387520,Scary Stories to Tell in the Dark,2019,5 wins & 6 nominations total,"$68,947,075",6.2,61,"89,193",True,,2025-10-29T13:49:39.472105
+tt3387542,The Forest,2016,1 win & 1 nomination total,"$26,594,261",4.8,34,"46,521",True,,2025-10-29T13:49:39.899337
+tt3393786,Jack Reacher: Never Go Back,2016,1 win total,"$58,697,076",6.2,47,"188,424",True,,2025-10-29T13:49:40.322888
+tt3397884,Sicario,2015,Nominated for 3 Oscars. 15 wins & 157 nominations total,"$46,889,293",7.7,82,"520,658",True,,2025-10-29T13:49:40.751032
+tt3402236,Murder on the Orient Express,2017,2 wins & 31 nominations total,"$102,826,543",6.5,52,"313,717",True,,2025-10-29T13:49:41.181017
+tt3411444,Ferdinand,2017,Nominated for 1 Oscar. 2 wins & 22 nominations total,"$84,410,380",6.7,58,"68,792",True,,2025-10-29T13:49:41.610280
+tt3416828,Ice Age: Collision Course,2016,2 wins total,"$64,063,008",5.7,34,"83,066",True,,2025-10-29T13:49:42.036787
+tt3450650,Paul Blart: Mall Cop 2,2015,1 win & 9 nominations total,"$71,038,190",4.5,13,"43,474",True,,2025-10-29T13:49:42.460322
+tt3450958,War for the Planet of the Apes,2017,Nominated for 1 Oscar. 28 wins & 65 nominations total,"$146,880,162",7.4,82,"318,910",True,,2025-10-29T13:49:42.883993
+tt3460252,The Hateful Eight,2015,Won 1 Oscar. 46 wins & 116 nominations total,"$54,117,416",7.8,68,"705,167",True,,2025-10-29T13:49:43.313736
+tt3462710,Unforgettable,2017,2 nominations total,"$11,368,012",5.1,45,"17,018",True,,2025-10-29T13:49:43.741965
+tt3469046,Despicable Me 3,2017,33 nominations total,"$264,624,300",6.3,49,"173,830",True,,2025-10-29T13:49:44.166806
+tt3470600,Sing,2016,3 wins & 25 nominations total,"$270,578,425",7.1,59,"206,430",True,,2025-10-29T13:49:44.594251
+tt3486626,The Nut Job 2: Nutty by Nature,2017,1 win & 3 nominations total,"$28,370,522",5.5,36,"7,687",True,,2025-10-29T13:49:45.021220
+tt3488710,The Walk,2015,3 wins & 17 nominations total,"$10,137,502",7.3,70,"139,747",True,,2025-10-29T13:49:45.442946
+tt3495026,Fan,2016,4 wins & 10 nominations,"$2,300,000",6.8,N/A,"50,180",True,,2025-10-29T13:49:45.869912
+tt3498820,Captain America: Civil War,2016,16 wins & 73 nominations total,"$408,084,349",7.8,75,"904,347",True,,2025-10-29T13:49:46.299187
+tt3501632,Thor: Ragnarok,2017,6 wins & 50 nominations total,"$315,058,289",7.9,74,"872,520",True,,2025-10-29T13:49:46.723402
+tt3513498,The Lego Movie 2: The Second Part,2019,1 win & 16 nominations total,"$105,956,290",6.5,65,"82,329",True,,2025-10-29T13:49:47.151199
+tt3513548,Richard Jewell,2019,Nominated for 1 Oscar. 6 wins & 20 nominations total,"$22,345,542",7.5,68,"101,229",True,,2025-10-29T13:49:47.575238
+tt3530002,The Night Before,2015,2 nominations total,"$43,047,372",6.4,58,"87,620",True,,2025-10-29T13:49:48.004027
+tt3531824,Nerve,2016,5 nominations total,"$38,583,626",6.5,58,"144,418",True,,2025-10-29T13:49:48.437019
+tt3532216,American Made,2017,3 nominations total,"$51,342,000",7.1,65,"226,756",True,,2025-10-29T13:49:48.861559
+tt3553442,Whiskey Tango Foxtrot,2016,1 nomination total,"$23,083,334",6.6,57,"58,541",True,,2025-10-29T13:49:49.289979
+tt3564472,Girls Trip,2017,13 wins & 42 nominations total,"$115,171,585",6.2,71,"42,168",True,,2025-10-29T13:49:49.718666
+tt3567288,The Visit,2015,1 win & 14 nominations total,"$65,206,105",6.3,55,"163,760",True,,2025-10-29T13:49:50.142720
+tt3612126,The Grudge,2019,2 nominations total,"$21,221,803",4.4,41,"31,413",True,,2025-10-29T13:49:50.569076
+tt3614530,Jem and the Holograms,2015,2 nominations,"$2,184,640",4.2,42,"8,405",True,,2025-10-29T13:49:50.994847
+tt3622592,Paper Towns,2015,4 wins & 3 nominations total,"$32,000,304",6.2,56,"110,882",True,,2025-10-29T13:49:51.432495
+tt3623726,Ricki and the Flash,2015,4 nominations total,"$26,822,144",6.0,54,"25,459",True,,2025-10-29T13:49:51.856911
+tt3631112,The Girl on the Train,2016,Nominated for 1 BAFTA Award4 wins & 13 nominations total,"$75,395,035",6.5,48,"206,094",True,,2025-10-29T13:49:52.295013
+tt3640424,Allied,2016,Nominated for 1 Oscar. 1 win & 10 nominations total,"$40,098,064",7.1,60,"176,688",True,,2025-10-29T13:49:52.724951
+tt3659388,The Martian,2015,Nominated for 7 Oscars. 40 wins & 199 nominations total,"$228,433,663",8.0,80,"979,541",True,,2025-10-29T13:49:53.152168
+tt3682448,Bridge of Spies,2015,Won 1 Oscar. 30 wins & 105 nominations total,"$72,313,754",7.6,81,"340,115",True,,2025-10-29T13:49:53.574247
+tt3691740,The BFG,2016,Nominated for 1 BAFTA Award4 wins & 26 nominations total,"$55,483,770",6.3,66,"97,869",True,,2025-10-29T13:49:54.010201
+tt3702088,Daisy Winters,2017,N/A,"$123,773",6.5,N/A,372,True,,2025-10-29T13:49:54.438505
+tt3707106,By the Sea,2015,1 win & 2 nominations total,"$538,460",5.3,45,"23,130",True,,2025-10-29T13:49:54.884126
+tt3713166,Unfriended,2014,3 wins & 6 nominations total,"$32,482,090",5.6,59,"85,441",True,,2025-10-29T13:49:55.310770
+tt3717252,Underworld: Blood Wars,2016,N/A,"$30,353,973",5.8,23,"84,352",True,,2025-10-29T13:49:55.805337
+tt3717490,Power Rangers,2017,6 nominations total,"$85,364,450",5.9,44,"117,325",True,,2025-10-29T13:49:56.238128
+tt3731562,Kong: Skull Island,2017,Nominated for 1 Oscar. 1 win & 22 nominations total,"$168,052,812",6.7,62,"367,774",True,,2025-10-29T13:49:56.669065
+tt3741700,Godzilla: King of the Monsters,2019,5 wins & 14 nominations total,"$110,500,138",6.0,48,"222,616",True,,2025-10-29T13:49:57.094125
+tt3741834,Lion,2016,Nominated for 6 Oscars. 59 wins & 110 nominations total,"$51,738,905",8.0,69,"261,221",True,,2025-10-29T13:49:57.518080
+tt3748528,Rogue One: A Star Wars Story,2016,Nominated for 2 Oscars. 24 wins & 85 nominations total,"$533,539,991",7.8,65,"737,143",True,,2025-10-29T13:49:57.945116
+tt3766354,The Equalizer 2,2018,1 win & 4 nominations total,"$102,084,362",6.7,50,"222,125",True,,2025-10-29T13:49:58.369923
+tt3774114,Snowden,2016,4 wins & 7 nominations total,"$21,587,519",7.3,58,"169,454",True,,2025-10-29T13:49:58.795044
+tt3774694,Love,2015,2 wins & 1 nomination total,"$249,083",6.1,51,"72,496",True,,2025-10-29T13:49:59.240399
+tt3778644,Solo: A Star Wars Story,2018,Nominated for 1 Oscar. 6 wins & 26 nominations total,"$213,767,512",6.9,62,"401,121",True,,2025-10-29T13:49:59.661276
+tt3783958,La La Land,2016,Won 6 Oscars. 242 wins & 307 nominations total,"$151,101,803",8.0,94,"735,553",True,,2025-10-29T13:50:00.088487
+tt3794354,Sonic the Hedgehog,2020,3 wins & 12 nominations total,"$148,974,665",6.5,47,"185,523",True,,2025-10-29T13:50:00.511440
+tt3799694,The Nice Guys,2016,9 wins & 34 nominations total,"$36,261,763",7.4,70,"401,775",True,,2025-10-29T13:50:00.935434
+tt3829266,The Predator,2018,1 win & 8 nominations total,"$51,024,708",5.3,48,"156,053",True,,2025-10-29T13:50:01.359073
+tt3829920,Only the Brave,2017,3 nominations total,"$18,343,983",7.6,72,"85,788",True,,2025-10-29T13:50:01.785090
+tt3832914,War Room,2015,5 wins total,"$67,790,117",6.5,26,"17,250",True,,2025-10-29T13:50:02.211883
+tt3850214,Dope,2015,5 wins & 25 nominations total,"$17,506,470",7.2,72,"91,128",True,,2025-10-29T13:50:02.638344
+tt3850590,Krampus,2015,5 wins & 14 nominations total,"$42,725,475",6.2,49,"91,083",True,,2025-10-29T13:50:03.072122
+tt3861390,Dumbo,2019,4 wins & 13 nominations total,"$114,766,307",6.2,51,"87,012",True,,2025-10-29T13:50:03.503222
+tt3862750,The Perfect Guy,2015,3 wins & 3 nominations total,"$57,027,435",5.6,36,"11,696",True,,2025-10-29T13:50:03.925253
+tt3864056,The Goldfinch,2019,3 nominations total,"$5,332,621",6.4,40,"28,568",True,,2025-10-29T13:50:04.354434
+tt3882082,The Boy,2016,6 nominations total,"$35,819,556",6.0,42,"105,878",True,,2025-10-29T13:50:04.784775
+tt3890160,Baby Driver,2017,Nominated for 3 Oscars. 43 wins & 66 nominations total,"$107,825,862",7.5,86,"665,313",True,,2025-10-29T13:50:05.207828
+tt3896198,Guardians of the Galaxy Vol. 2,2017,Nominated for 1 Oscar. 15 wins & 60 nominations total,"$389,813,101",7.6,67,"809,834",True,,2025-10-29T13:50:05.631625
+tt3922818,The Space Between Us,2017,4 nominations total,"$7,885,294",6.4,33,"57,962",True,,2025-10-29T13:50:06.059823
+tt3949660,Teenage Mutant Ninja Turtles: Out of the Shadows,2016,10 nominations total,"$82,051,601",5.9,40,"104,594",True,,2025-10-29T13:50:06.483182
+tt4030600,The Bye Bye Man,2017,N/A,"$22,395,806",4.3,37,"26,866",True,,2025-10-29T13:50:06.906499
+tt4034228,Manchester by the Sea,2016,Won 2 Oscars. 128 wins & 268 nominations total,"$47,695,371",7.8,96,"343,388",True,,2025-10-29T13:50:07.330207
+tt4046784,Maze Runner: The Scorch Trials,2015,2 wins & 5 nominations total,"$81,697,192",6.3,43,"297,358",True,,2025-10-29T13:50:07.751712
+tt4052882,The Shallows,2016,1 win & 15 nominations total,"$55,124,043",6.3,59,"150,701",True,,2025-10-29T13:50:08.175284
+tt4073790,The Darkest Minds,2018,1 win & 3 nominations total,"$12,695,691",5.7,39,"39,140",True,,2025-10-29T13:50:08.599325
+tt4094724,The Purge: Election Year,2016,6 nominations total,"$79,213,375",6.0,55,"116,754",True,,2025-10-29T13:50:09.032918
+tt4103724,Forever My Girl,2018,N/A,"$16,376,066",6.6,36,"24,147",True,,2025-10-29T13:50:09.461120
+tt4116284,The Lego Batman Movie,2017,13 wins & 68 nominations total,"$175,936,671",7.3,75,"186,431",True,,2025-10-29T13:50:09.894755
+tt4123430,Fantastic Beasts: The Crimes of Grindelwald,2018,Nominated for 2 BAFTA 3 wins & 22 nominations total,"$159,555,901",6.5,52,"325,084",True,,2025-10-29T13:50:10.315448
+tt4126476,After,2019,4 wins total,"$12,138,565",5.3,30,"71,640",True,,2025-10-29T13:50:10.739332
+tt4131800,My Little Pony: The Movie,2017,5 wins & 6 nominations total,"$21,885,107",6.1,39,"8,681",True,,2025-10-29T13:50:11.163381
+tt4136084,Florence Foster Jenkins,2016,Nominated for 2 Oscars. 10 wins & 48 nominations total,"$27,383,770",6.8,71,"61,582",True,,2025-10-29T13:50:11.591625
+tt4139124,Keanu,2016,4 wins & 5 nominations total,"$20,591,853",6.2,63,"53,961",True,,2025-10-29T13:50:12.022805
+tt4150494,The Here After,2015,12 wins & 17 nominations,N/A,6.4,N/A,"1,569",True,,2025-10-29T13:50:12.446076
+tt4154664,Captain Marvel,2019,10 wins & 56 nominations total,"$426,829,839",6.7,64,"642,599",True,,2025-10-29T13:50:12.867235
+tt4154796,Avengers: Endgame,2019,Nominated for 1 Oscar. 70 wins & 132 nominations total,"$858,373,000",8.4,78,"1,390,337",True,,2025-10-29T13:50:13.299034
+tt4160708,Don't Breathe,2016,7 wins & 21 nominations total,"$89,217,875",7.1,71,"322,928",True,,2025-10-29T13:50:13.727095
+tt4172430,13 Hours: The Secret Soldiers of Benghazi,2016,Nominated for 1 Oscar. 5 nominations total,"$52,853,219",7.3,48,"174,773",True,,2025-10-29T13:50:14.155740
+tt4178092,The Gift,2015,2 wins & 12 nominations total,"$43,787,265",7.0,77,"180,833",True,,2025-10-29T13:50:14.580909
+tt4196450,The Birth of a Nation,2016,5 wins & 32 nominations total,"$15,861,566",6.5,69,"22,470",True,,2025-10-29T13:50:15.006174
+tt4196776,Jason Bourne,2016,3 wins & 20 nominations total,"$162,434,410",6.6,58,"252,924",True,,2025-10-29T13:50:15.429086
+tt4217392,Kung Fu Yoga,2017,1 nomination total,"$362,657",5.2,50,"12,033",True,,2025-10-29T13:50:15.871458
+tt4218572,Widows,2018,Nominated for 1 BAFTA Award18 wins & 107 nominations total,"$42,402,632",6.8,84,"107,341",True,,2025-10-29T13:50:16.302837
+tt4244998,Alpha,2018,2 wins total,"$35,857,181",6.6,63,"70,207",True,,2025-10-29T13:50:16.732093
+tt4257926,Miracles from Heaven,2016,2 wins & 5 nominations total,"$61,705,123",7.1,44,"30,792",True,,2025-10-29T13:50:17.159233
+tt4263482,The Witch,2015,43 wins & 72 nominations total,"$25,138,705",7.0,84,"340,090",True,,2025-10-29T13:50:17.592057
+tt4270516,Grandma,2015,6 wins & 13 nominations total,"$6,980,524",6.7,77,"17,548",True,,2025-10-29T13:50:18.015777
+tt4276752,Mojin: The Lost Legend,2015,7 wins & 11 nominations total,"$1,243,810",5.9,48,"4,593",True,,2025-10-29T13:50:18.440925
+tt4287320,The Circle,2017,4 wins & 1 nomination total,"$20,497,844",5.4,43,"103,771",True,,2025-10-29T13:50:18.865374
+tt4302938,Kubo and the Two Strings,2016,Nominated for 2 Oscars. 33 wins & 67 nominations total,"$48,023,088",7.7,84,"143,143",True,,2025-10-29T13:50:19.288044
+tt4337690,90 Minutes in Heaven,2015,N/A,"$4,842,699",4.9,28,"4,594",True,,2025-10-29T13:50:19.711484
+tt4341582,Queen of Katwe,2016,4 wins & 30 nominations total,"$8,874,389",7.4,73,"19,425",True,,2025-10-29T13:50:20.150366
+tt4361050,Ouija: Origin of Evil,2016,2 wins & 7 nominations total,"$35,144,505",6.2,65,"80,509",True,,2025-10-29T13:50:20.573814
+tt4364194,The Peanut Butter Falcon,2019,21 wins & 16 nominations total,"$20,457,158",7.6,70,"115,635",True,,2025-10-29T13:50:21.000156
+tt4383594,Nine Lives,2016,N/A,"$19,700,032",5.3,11,"25,317",True,,2025-10-29T13:50:21.431208
+tt4463894,Shaft,2019,N/A,"$21,360,215",6.4,40,"61,119",True,,2025-10-29T13:50:21.868801
+tt4465564,Fifty Shades Darker,2017,3 wins & 13 nominations total,"$114,581,250",4.6,33,"118,174",True,,2025-10-29T13:50:22.300619
+tt4477536,Fifty Shades Freed,2018,6 wins & 10 nominations total,"$100,407,760",4.6,31,"80,950",True,,2025-10-29T13:50:22.734294
+tt4481414,Gifted,2017,6 wins & 7 nominations total,"$24,801,212",7.6,60,"154,507",True,,2025-10-29T13:50:23.160113
+tt4481514,The House,2017,1 win total,"$25,584,504",5.6,30,"48,372",True,,2025-10-29T13:50:23.584411
+tt4486986,All I See Is You,2016,1 nomination total,"$217,644",5.4,43,"13,951",True,,2025-10-29T13:50:24.011645
+tt4500922,Maze Runner: The Death Cure,2018,7 nominations total,"$58,032,443",6.3,50,"181,539",True,,2025-10-29T13:50:24.437214
+tt4501244,Why Him?,2016,1 win total,"$60,323,786",6.2,39,"131,421",True,,2025-10-29T13:50:24.862328
+tt4504044,The Prodigy,2019,1 win & 1 nomination total,"$14,856,291",5.9,45,"30,081",True,,2025-10-29T13:50:25.289418
+tt4520364,Morgan,2016,2 nominations total,"$3,915,251",5.9,48,"49,026",True,,2025-10-29T13:50:25.713784
+tt4520988,Frozen II,2019,Nominated for 1 Oscar. 18 wins & 95 nominations total,"$477,373,578",6.8,64,"212,026",True,,2025-10-29T13:50:26.414711
+tt4530422,Overlord,2018,2 wins & 7 nominations total,"$21,704,844",6.6,60,"112,163",True,,2025-10-29T13:50:26.837118
+tt4532826,Robin Hood,2018,4 nominations total,"$30,824,628",5.3,32,"83,968",True,,2025-10-29T13:50:27.264778
+tt4537896,White Boy Rick,2018,2 nominations total,"$24,011,188",6.5,59,"47,468",True,,2025-10-29T13:50:27.694099
+tt4560436,Mile 22,2018,1 win total,"$36,108,758",6.1,38,"92,078",True,,2025-10-29T13:50:28.125012
+tt4572514,Patriots Day,2016,2 wins & 3 nominations total,"$31,886,361",7.3,69,"119,811",True,,2025-10-29T13:50:28.562405
+tt4573516,Sleight,2016,3 nominations total,"$3,986,245",5.9,62,"9,466",True,,2025-10-29T13:50:28.988649
+tt4575576,Christopher Robin,2018,Nominated for 1 Oscar. 2 wins & 13 nominations total,"$99,215,042",7.2,60,"89,262",True,,2025-10-29T13:50:29.416099
+tt4587656,The Star,2017,2 wins & 6 nominations total,"$40,896,334",6.3,42,"10,328",True,,2025-10-29T13:50:29.845175
+tt4624424,Storks,2016,5 wins & 4 nominations total,"$72,800,603",6.8,56,"71,046",True,,2025-10-29T13:50:30.269668
+tt4630562,The Fate of the Furious,2017,2 wins & 16 nominations total,"$226,008,385",6.6,56,"268,529",True,,2025-10-29T13:50:30.692520
+tt4633694,Spider-Man: Into the Spider-Verse,2018,Won 1 Oscar. 85 wins & 60 nominations total,"$190,241,310",8.4,87,"754,444",True,,2025-10-29T13:50:31.121455
+tt4643580,Huevos: Little Rooster's Egg-cellent Adventure,2015,1 win & 4 nominations,"$9,080,818",5.7,N/A,"1,262",True,,2025-10-29T13:50:31.552003
+tt4648786,Harriet,2019,Nominated for 2 Oscars. 21 wins & 56 nominations total,"$43,082,155",6.7,66,"34,447",True,,2025-10-29T13:50:31.978455
+tt4649416,Almost Christmas,2016,3 nominations,"$42,158,780",6.2,55,"8,203",True,,2025-10-29T13:50:32.421221
+tt4649466,Kingsman: The Golden Circle,2017,2 wins & 14 nominations total,"$100,234,838",6.7,44,"392,563",True,,2025-10-29T13:50:32.845089
+tt4651520,Bad Moms,2016,3 wins & 5 nominations total,"$113,257,297",6.2,60,"139,491",True,,2025-10-29T13:50:33.291561
+tt4663548,All Saints,2017,1 win & 1 nomination total,"$5,802,208",6.3,63,"2,115",True,,2025-10-29T13:50:33.720456
+tt4669186,Kevin Hart: What Now?,2016,1 nomination.,"$23,591,043",6.0,60,"10,065",True,,2025-10-29T13:50:34.141753
+tt4682786,Collateral Beauty,2016,1 win & 6 nominations total,"$31,016,021",6.8,23,"107,736",True,,2025-10-29T13:50:34.566505
+tt4701182,Bumblebee,2018,2 wins & 13 nominations total,"$127,195,589",6.7,66,"203,442",True,,2025-10-29T13:50:35.013283
+tt4731136,A Cure for Wellness,2016,4 wins & 5 nominations total,"$8,106,986",6.4,47,"115,185",True,,2025-10-29T13:50:35.443512
+tt4761916,Unfriended: Dark Web,2018,N/A,"$8,866,745",6.0,53,"41,894",True,,2025-10-29T13:50:35.868405
+tt4765284,Pitch Perfect 3,2017,4 wins & 6 nominations total,"$104,897,530",5.8,40,"76,229",True,,2025-10-29T13:50:36.290239
+tt4776998,The Promise,2016,3 wins & 8 nominations total,"$8,224,288",6.1,49,"179,878",True,,2025-10-29T13:50:36.740295
+tt4777008,Maleficent: Mistress of Evil,2019,Nominated for 1 Oscar. 1 win & 11 nominations total,"$113,929,605",6.6,43,"128,316",True,,2025-10-29T13:50:37.166611
+tt4779682,The Meg,2018,5 wins & 6 nominations total,"$145,522,784",5.7,46,"222,722",True,,2025-10-29T13:50:37.589222
+tt4786282,Lights Out,2016,3 wins & 9 nominations total,"$67,268,835",6.3,58,"149,383",True,,2025-10-29T13:50:38.014681
+tt4799050,Rough Night,2017,1 win & 1 nomination total,"$22,105,643",5.2,51,"57,827",True,,2025-10-29T13:50:38.441114
+tt4807408,The Best of Enemies,2019,5 nominations total,"$10,205,616",7.3,49,"20,870",True,,2025-10-29T13:50:38.876487
+tt4824302,Mother's Day,2016,1 win & 6 nominations total,"$32,492,859",5.7,18,"41,449",True,,2025-10-29T13:50:39.303226
+tt4832640,Sultan,2016,17 wins & 39 nominations,"$6,200,000",7.1,N/A,"53,442",True,,2025-10-29T13:50:39.725807
+tt4846340,Hidden Figures,2016,Nominated for 3 Oscars. 37 wins & 94 nominations total,"$169,607,287",7.8,74,"278,285",True,,2025-10-29T13:50:40.148941
+tt4847546,Blood Feast,2016,N/A,"$8,708",3.8,N/A,"1,152",True,,2025-10-29T13:50:40.575921
+tt4877122,The Emoji Movie,2017,6 wins & 4 nominations total,"$86,089,513",3.5,12,"76,999",True,,2025-10-29T13:50:41.002766
+tt4881806,Jurassic World: Fallen Kingdom,2018,5 wins & 26 nominations total,"$417,719,760",6.1,51,"371,687",True,,2025-10-29T13:50:41.428220
+tt4912910,Mission: Impossible - Fallout,2018,Nominated for 1 BAFTA Award26 wins & 41 nominations total,"$220,159,104",7.7,87,"410,275",True,,2025-10-29T13:50:41.855912
+tt4913966,The Curse of La Llorona,2019,1 win & 7 nominations total,"$54,733,739",5.3,41,"63,754",True,,2025-10-29T13:50:42.278975
+tt4916630,Just Mercy,2019,9 wins & 19 nominations total,"$36,001,502",7.6,68,"81,584",True,,2025-10-29T13:50:42.702594
+tt4972582,Split,2016,10 wins & 27 nominations total,"$138,291,365",7.3,63,"605,255",True,,2025-10-29T13:50:43.129431
+tt4975722,Moonlight,2016,Won 3 Oscars. 235 wins & 310 nominations total,"$27,854,932",7.4,99,"346,242",True,,2025-10-29T13:50:43.554312
+tt4981636,Middle School: The Worst Years of My Life,2016,5 nominations total,"$20,007,149",6.1,51,"10,263",True,,2025-10-29T13:50:43.992813
+tt5001718,"Everything, Everything",2017,2 wins & 5 nominations total,"$34,121,140",6.3,52,"43,790",True,,2025-10-29T13:50:44.417058
+tt5013056,Dunkirk,2017,Won 3 Oscars. 68 wins & 236 nominations total,"$189,740,665",7.8,94,"788,177",True,,2025-10-29T13:50:44.843393
+tt5028340,Mary Poppins Returns,2018,Nominated for 4 Oscars. 24 wins & 112 nominations total,"$171,958,438",6.7,66,"98,768",True,,2025-10-29T13:50:45.285317
+tt5033998,Charlie's Angels,2019,1 win & 9 nominations total,"$17,803,077",5.0,52,"83,862",True,,2025-10-29T13:50:45.709511
+tt5052448,Get Out,2017,Won 1 Oscar. 154 wins & 214 nominations total,"$176,196,665",7.8,85,"780,027",True,,2025-10-29T13:50:46.142191
+tt5052474,Sicario: Day of the Soldado,2018,1 win & 8 nominations total,"$50,072,235",7.1,61,"183,382",True,,2025-10-29T13:50:46.566935
+tt5109784,Mother!,2017,9 wins & 54 nominations total,"$17,800,004",6.6,76,"262,569",True,,2025-10-29T13:50:46.995709
+tt5113040,The Secret Life of Pets 2,2019,11 nominations total,"$158,980,250",6.4,55,"75,855",True,,2025-10-29T13:50:47.423573
+tt5117670,Peter Rabbit,2018,4 wins & 17 nominations total,"$115,253,424",6.6,51,"50,590",True,,2025-10-29T13:50:47.856048
+tt5140878,Annabelle: Creation,2017,1 win & 8 nominations total,"$102,092,201",6.5,62,"165,156",True,,2025-10-29T13:50:48.292263
+tt5164214,Ocean's Eight,2018,3 wins & 17 nominations total,"$140,295,726",6.3,61,"256,185",True,,2025-10-29T13:50:48.725317
+tt5164432,"Love, Simon",2018,9 wins & 30 nominations total,"$40,826,341",7.5,72,"131,747",True,,2025-10-29T13:50:49.150681
+tt5177088,The Girl in the Spider's Web,2018,1 win & 7 nominations total,"$14,841,338",6.1,43,"54,475",True,,2025-10-29T13:50:49.585354
+tt5208252,Operation Finale,2018,2 nominations total,"$17,612,099",6.6,58,"51,932",True,,2025-10-29T13:50:50.019259
+tt5220122,Hotel Transylvania 3: Summer Vacation,2018,2 wins & 9 nominations total,"$167,510,016",6.3,54,"95,729",True,,2025-10-29T13:50:50.443274
+tt5301662,Marshall,2017,Nominated for 1 Oscar. 5 wins & 21 nominations total,"$10,051,659",7.3,66,"27,707",True,,2025-10-29T13:50:50.873048
+tt5308322,Happy Death Day,2017,3 nominations total,"$55,683,845",6.6,58,"179,789",True,,2025-10-29T13:50:51.298478
+tt5322012,Wish Upon,2017,2 nominations total,"$14,301,505",5.1,32,"23,966",True,,2025-10-29T13:50:51.726453
+tt5325452,Boo! A Madea Halloween,2016,6 nominations total,"$73,206,343",4.7,30,"9,585",True,,2025-10-29T13:50:52.156182
+tt5360952,The Hurricane Heist,2018,N/A,"$6,115,825",5.1,35,"23,299",True,,2025-10-29T13:50:52.583489
+tt5362988,Wind River,2017,17 wins & 27 nominations total,"$33,800,859",7.7,73,"303,978",True,,2025-10-29T13:50:53.012332
+tt5390504,Detroit,2017,5 wins & 21 nominations total,"$16,790,139",7.3,77,"58,004",True,,2025-10-29T13:50:53.438001
+tt5439796,Logan Lucky,2017,2 wins & 11 nominations total,"$27,780,977",7.0,78,"173,438",True,,2025-10-29T13:50:53.863124
+tt5442430,Life,2017,7 nominations total,"$30,234,022",6.6,54,"269,765",True,,2025-10-29T13:50:54.286882
+tt5463162,Deadpool 2,2018,6 wins & 52 nominations total,"$324,591,735",7.6,66,"727,012",True,,2025-10-29T13:50:54.733498
+tt5503686,Hustlers,2019,25 wins & 79 nominations total,"$104,963,598",6.3,79,"111,577",True,,2025-10-29T13:50:55.154427
+tt5523010,The Nutcracker and the Four Realms,2018,1 win & 8 nominations total,"$54,858,851",5.6,39,"39,501",True,,2025-10-29T13:50:55.577985
+tt5563334,The Good Liar,2019,6 nominations total,"$17,156,058",6.7,55,"53,205",True,,2025-10-29T13:50:56.026424
+tt5580266,The Hate U Give,2018,22 wins & 38 nominations total,"$29,719,483",7.5,81,"42,543",True,,2025-10-29T13:50:56.466650
+tt5606664,Doctor Sleep,2019,9 wins & 37 nominations total,"$31,581,712",7.3,59,"233,552",True,,2025-10-29T13:50:56.897196
+tt5657846,Daddy's Home 2,2017,1 win & 8 nominations total,"$104,029,443",6.0,30,"88,662",True,,2025-10-29T13:50:57.320566
+tt5664636,Goosebumps 2: Haunted Halloween,2018,N/A,"$46,700,633",5.6,53,"25,149",True,,2025-10-29T13:50:57.747229
+tt5668770,Mardaani 2,2019,4 wins & 6 nominations,N/A,7.3,N/A,"10,607",True,,2025-10-29T13:50:58.176282
+tt5690360,Slender Man,2018,3 nominations total,"$30,569,484",3.3,30,"41,334",True,,2025-10-29T13:50:58.600708
+tt5697572,Cats,2019,11 wins & 8 nominations total,"$27,166,770",2.8,32,"57,855",True,,2025-10-29T13:50:59.026211
+tt5719700,Home Again,2017,1 win,"$27,020,284",5.8,41,"35,699",True,,2025-10-29T13:50:59.449904
+tt5719748,Cold Pursuit,2019,3 nominations total,"$32,138,862",6.2,57,"82,720",True,,2025-10-29T13:50:59.875431
+tt5721088,Just Getting Started,2017,N/A,"$6,069,605",4.6,21,"8,766",True,,2025-10-29T13:51:00.299381
+tt5726086,Insidious: The Last Key,2018,6 nominations total,"$67,745,330",5.7,49,"77,287",True,,2025-10-29T13:51:00.726152
+tt5727208,Uncut Gems,2019,27 wins & 91 nominations total,"$50,023,780",7.4,93,"339,600",True,,2025-10-29T13:51:01.153989
+tt5734576,The Possession of Hannah Grace,2018,3 nominations total,"$14,837,422",5.2,37,"28,361",True,,2025-10-29T13:51:01.580100
+tt5758778,Skyscraper,2018,4 nominations total,"$68,420,120",5.8,51,"142,241",True,,2025-10-29T13:51:02.005284
+tt5814060,The Nun,2018,2 wins & 1 nomination total,"$117,481,222",5.4,46,"189,543",True,,2025-10-29T13:51:02.457259
+tt5814534,Spies in Disguise,2019,4 nominations total,"$66,757,013",6.8,54,"61,390",True,,2025-10-29T13:51:02.892215
+tt5822564,The Kitchen,2019,1 nomination,"$12,180,032",5.6,35,"23,349",True,,2025-10-29T13:51:03.337970
+tt5848272,Ralph Breaks the Internet,2018,Nominated for 1 Oscar. 4 wins & 67 nominations total,"$201,091,711",7.0,71,"198,675",True,,2025-10-29T13:51:03.783624
+tt5884052,Pokémon: Detective Pikachu,2019,9 nominations total,"$144,174,568",6.5,53,"192,442",True,,2025-10-29T13:51:04.222071
+tt5886046,Escape Room,2019,2 wins & 7 nominations total,"$57,005,601",6.4,48,"153,844",True,,2025-10-29T13:51:04.650022
+tt5941692,Miss Bala,2019,N/A,"$15,006,824",5.8,41,"14,036",True,,2025-10-29T13:51:05.101633
+tt5956100,Tiger Zinda Hai,2017,5 wins & 9 nominations total,"$5,560,921",5.9,N/A,"35,935",True,,2025-10-29T13:51:05.574101
+tt6000478,"Roman J. Israel, Esq.",2017,Nominated for 1 Oscar. 2 wins & 11 nominations total,"$11,962,778",6.5,58,"45,963",True,,2025-10-29T13:51:06.005644
+tt6003368,Diary of a Wimpy Kid: The Long Haul,2017,1 nomination total,"$20,738,724",4.3,39,"11,788",True,,2025-10-29T13:51:06.432391
+tt6095472,The Angry Birds Movie 2,2019,1 win & 3 nominations total,"$41,667,116",6.4,60,"39,641",True,,2025-10-29T13:51:06.857718
+tt6105098,The Lion King,2019,Nominated for 1 Oscar. 21 wins & 44 nominations total,"$543,638,043",6.8,55,"287,057",True,,2025-10-29T13:51:07.283374
+tt6133466,The First Purge,2018,1 nomination total,"$69,488,745",5.2,54,"76,076",True,,2025-10-29T13:51:07.723732
+tt6139732,Aladdin,2019,9 wins & 39 nominations total,"$355,559,216",6.9,53,"307,065",True,,2025-10-29T13:51:08.150135
+tt6146586,John Wick: Chapter 3 - Parabellum,2019,18 wins & 29 nominations total,"$171,015,687",7.4,73,"466,236",True,,2025-10-29T13:51:08.580253
+tt6189022,Angel Has Fallen,2019,1 nomination total,"$69,030,436",6.4,45,"119,841",True,,2025-10-29T13:51:09.004672
+tt6217804,Boo 2! A Madea Halloween,2017,1 win & 3 nominations total,"$47,319,572",4.0,17,"5,576",True,,2025-10-29T13:51:09.431131
+tt6265828,A Ghost Story,2017,11 wins & 21 nominations total,"$1,596,371",6.8,84,"84,427",True,,2025-10-29T13:51:09.856248
+tt6294822,The Post,2017,Nominated for 2 Oscars. 21 wins & 116 nominations total,"$81,903,458",7.2,83,"168,588",True,,2025-10-29T13:51:10.281755
+tt6306064,Adrift,2018,5 nominations total,"$31,445,012",6.6,56,"64,956",True,,2025-10-29T13:51:10.709021
+tt6320628,Spider-Man: Far from Home,2019,11 wins & 26 nominations total,"$391,283,774",7.4,69,"613,322",True,,2025-10-29T13:51:11.138654
+tt6322922,An Inconvenient Sequel: Truth to Power,2017,Nominated for 1 BAFTA Award6 wins & 16 nominations total,"$3,496,795",6.6,68,"8,470",True,,2025-10-29T13:51:11.563652
+tt6324278,Abominable,2019,4 wins & 23 nominations total,"$61,270,390",7.0,61,"45,749",True,,2025-10-29T13:51:12.059846
+tt6343314,Creed II,2018,1 win & 12 nominations total,"$115,715,889",7.1,66,"165,560",True,,2025-10-29T13:51:12.485143
+tt6359956,A Bad Moms Christmas,2017,1 win & 1 nomination total,"$72,110,659",5.6,42,"61,011",True,,2025-10-29T13:51:12.911098
+tt6394270,Bombshell,2019,Won 1 Oscar. 25 wins & 63 nominations total,"$31,762,808",6.8,64,"132,894",True,,2025-10-29T13:51:13.336624
+tt6398184,Downton Abbey,2019,3 wins & 19 nominations total,"$96,853,865",7.4,64,"68,360",True,,2025-10-29T13:51:13.767673
+tt6421110,Proud Mary,2018,1 win & 4 nominations total,"$20,877,013",5.0,35,"11,263",True,,2025-10-29T13:51:14.201217
+tt6428676,Wonder Park,2019,1 win & 1 nomination total,"$45,216,793",5.9,45,"13,123",True,,2025-10-29T13:51:14.629476
+tt6450186,I Can Only Imagine,2018,6 wins & 5 nominations total,"$83,482,352",7.3,30,"19,549",True,,2025-10-29T13:51:15.056175
+tt6450804,Terminator: Dark Fate,2019,1 win & 12 nominations total,"$62,253,077",6.2,54,"208,094",True,,2025-10-29T13:51:15.483926
+tt6472976,Five Feet Apart,2019,3 wins & 8 nominations total,"$45,729,221",7.2,53,"93,573",True,,2025-10-29T13:51:15.911591
+tt6495770,Action Point,2018,N/A,"$5,059,608",5.1,36,"12,551",True,,2025-10-29T13:51:16.342310
+tt6513120,Fighting with My Family,2019,10 wins & 5 nominations total,"$22,958,886",7.0,68,"91,997",True,,2025-10-29T13:51:16.772012
+tt6565702,X-Men: Dark Phoenix,2019,13 nominations total,"$65,845,974",5.7,43,"222,185",True,,2025-10-29T13:51:17.196486
+tt6574272,Phoenix Forgotten,2017,1 nomination total,"$3,600,146",5.4,33,"7,567",True,,2025-10-29T13:51:17.621007
+tt6628394,Bad Times at the El Royale,2018,2 wins & 12 nominations total,"$17,839,115",7.1,60,"174,353",True,,2025-10-29T13:51:18.047311
+tt6644200,A Quiet Place,2018,Nominated for 1 Oscar. 38 wins & 129 nominations total,"$188,024,361",7.5,82,"641,676",True,,2025-10-29T13:51:18.482048
+tt6663582,The Spy Who Dumped Me,2018,3 wins & 4 nominations total,"$33,562,069",6.1,52,"85,958",True,,2025-10-29T13:51:18.910295
+tt6673612,Dolittle,2020,4 wins & 9 nominations total,"$77,047,065",5.6,26,"76,594",True,,2025-10-29T13:51:19.336853
+tt6690310,Extraordinary Mission,2017,7 wins & 3 nominations total,"$54,174",6.2,N/A,931,True,,2025-10-29T13:51:19.781280
+tt6722030,The Intruder,2019,N/A,"$35,419,122",5.6,39,"20,016",True,,2025-10-29T13:51:20.206385
+tt6751668,Parasite,2019,Won 4 Oscars. 309 wins & 260 nominations total,"$53,847,897",8.5,97,"1,100,523",True,,2025-10-29T13:51:20.632575
+tt6772950,Truth or Dare,2018,1 win & 2 nominations total,"$41,411,015",5.2,35,"70,087",True,,2025-10-29T13:51:21.056662
+tt6781982,Night School,2018,1 win & 4 nominations total,"$77,339,130",5.6,43,"47,563",True,,2025-10-29T13:51:21.483890
+tt6791096,I Feel Pretty,2018,1 win & 6 nominations total,"$48,795,601",5.7,48,"59,104",True,,2025-10-29T13:51:21.912723
+tt6802308,The 15:17 to Paris,2018,1 win & 3 nominations total,"$36,276,286",5.3,45,"36,608",True,,2025-10-29T13:51:22.336833
+tt6803212,Don't Let Go,2019,N/A,"$5,215,062",6.4,49,"14,939",True,,2025-10-29T13:51:22.773788
+tt6806448,Fast & Furious Presents: Hobbs & Shaw,2019,1 win & 25 nominations total,"$173,956,935",6.4,60,"252,754",True,,2025-10-29T13:51:23.200087
+tt6823368,Glass,2019,2 wins & 15 nominations total,"$111,048,468",6.6,43,"296,505",True,,2025-10-29T13:51:23.634116
+tt6850820,Peppermint,2018,4 nominations total,"$35,418,723",6.5,29,"74,118",True,,2025-10-29T13:51:24.060750
+tt6857112,Us,2019,85 wins & 133 nominations total,"$175,084,580",6.8,81,"378,708",True,,2025-10-29T13:51:24.487245
+tt6911608,Mamma Mia! Here We Go Again,2018,1 win & 13 nominations total,"$120,634,935",6.6,60,"116,641",True,,2025-10-29T13:51:24.912387
+tt6921996,Johnny English Strikes Again,2018,1 win total,"$4,412,170",6.2,39,"88,845",True,,2025-10-29T13:51:25.333112
+tt6924650,Midway,2019,1 nomination total,"$56,846,802",6.7,47,"101,830",True,,2025-10-29T13:51:25.762205
+tt6966692,Green Book,2018,Won 3 Oscars. 58 wins & 123 nominations total,"$85,080,171",8.2,69,"656,245",True,,2025-10-29T13:51:26.188125
+tt7026672,Every Day,2018,1 nomination total,"$6,102,076",6.4,52,"24,856",True,,2025-10-29T13:51:26.611471
+tt7040874,A Simple Favor,2018,3 wins & 10 nominations total,"$53,548,586",6.7,67,"187,268",True,,2025-10-29T13:51:27.050356
+tt7054636,A Madea Family Funeral,2019,8 nominations total,"$73,257,045",4.7,39,"5,414",True,,2025-10-29T13:51:27.475971
+tt7083526,Breakthrough,2019,Nominated for 1 Oscar. 2 wins & 11 nominations total,"$40,713,082",6.3,46,"11,613",True,,2025-10-29T13:51:27.898759
+tt7131622,Once Upon a Time... in Hollywood,2019,Won 2 Oscars. 146 wins & 377 nominations total,"$142,502,728",7.6,84,"933,294",True,,2025-10-29T13:51:28.321118
+tt7131870,Wolf Warrior 2,2017,32 wins & 16 nominations total,"$2,721,100",5.9,44,"9,388",True,,2025-10-29T13:51:28.744506
+tt7137846,Breaking In,2018,1 win & 1 nomination total,"$46,840,590",5.5,42,"17,623",True,,2025-10-29T13:51:29.172798
+tt7286456,Joker,2019,Won 2 Oscars. 120 wins & 246 nominations total,"$335,477,657",8.3,59,"1,637,986",True,,2025-10-29T13:51:29.597027
+tt7329656,47 Meters Down: Uncaged,2019,N/A,"$22,260,900",5.0,43,"31,951",True,,2025-10-29T13:51:30.025666
+tt7343762,#DUPE#,2019,N/A,N/A,N/A,N/A,N/A,True,,2025-10-29T13:51:30.451093
+tt7349662,BlacKkKlansman,2018,Won 1 Oscar. 46 wins & 215 nominations total,"$49,275,340",7.5,83,"307,479",True,,2025-10-29T13:51:30.921800
+tt7349950,It: Chapter Two,2019,7 wins & 34 nominations total,"$211,622,525",6.5,58,"332,850",True,,2025-10-29T13:51:31.353371
+tt7388562,"Paul, Apostle of Christ",2018,5 wins & 5 nominations total,"$17,560,475",6.6,52,"10,330",True,,2025-10-29T13:51:31.779212
+tt7390646,Black and Blue,2019,1 win & 2 nominations total,"$22,055,313",6.4,54,"28,987",True,,2025-10-29T13:51:32.203076
+tt7401588,Instant Family,2018,3 wins & 5 nominations total,"$67,363,237",7.3,57,"130,834",True,,2025-10-29T13:51:32.631060
+tt7424200,Teen Titans GO! To the Movies,2018,9 nominations total,"$29,790,236",6.7,69,"23,036",True,,2025-10-29T13:51:33.056311
+tt7430722,War,2019,24 wins & 19 nominations total,"$4,654,000",6.6,N/A,"37,807",True,,2025-10-29T13:51:33.488511
+tt7504726,The Call of the Wild,2020,1 win & 8 nominations total,"$62,342,368",6.7,48,"61,774",True,,2025-10-29T13:51:33.915665
+tt7510346,The Turning,2020,1 nomination total,"$15,472,775",3.9,35,"17,067",True,,2025-10-29T13:51:34.362103
+tt7545266,Like a Boss,2020,1 win & 5 nominations total,"$22,169,514",4.7,33,"15,651",True,,2025-10-29T13:51:34.788823
+tt7547410,Dora and the Lost City of Gold,2019,4 wins & 2 nominations total,"$60,477,943",6.1,63,"37,829",True,,2025-10-29T13:51:35.229922
+tt7551014,#DUPE#,2019,N/A,N/A,N/A,N/A,N/A,True,,2025-10-29T13:51:35.657256
+tt7616798,A Dog's Way Home,2019,2 wins total,"$42,004,346",6.7,50,"21,810",True,,2025-10-29T13:51:36.097699
+tt7634968,What Men Want,2019,1 win total,"$54,611,903",5.4,49,"33,748",True,,2025-10-29T13:51:36.525570
+tt7690670,SuperFly,2018,N/A,"$20,545,116",5.3,52,"7,929",True,,2025-10-29T13:51:36.952355
+tt7713068,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,2020,18 wins & 77 nominations total,"$84,172,791",6.1,60,"277,271",True,,2025-10-29T13:51:37.376333
+tt7734218,Stuber,2019,5 nominations total,"$22,370,452",6.2,42,"53,767",True,,2025-10-29T13:51:37.799013
+tt7752126,Brightburn,2019,1 win & 2 nominations total,"$17,300,439",6.1,44,"116,919",True,,2025-10-29T13:51:38.227190
+tt7798634,Ready or Not,2019,4 wins & 24 nominations total,"$28,714,231",6.8,64,"219,128",True,,2025-10-29T13:51:38.667193
+tt7798646,The Photograph,2020,1 win & 3 nominations total,"$20,578,185",6.1,62,"6,494",True,,2025-10-29T13:51:39.089269
+tt7958736,Ma,2019,1 win & 8 nominations total,"$45,896,028",5.6,53,"69,060",True,,2025-10-29T13:51:39.512878
+tt7959026,The Mule,2018,1 win & 10 nominations total,"$103,804,407",7.0,58,"162,858",True,,2025-10-29T13:51:39.943021
+tt7961060,Dragon Ball Super: Broly,2018,4 nominations total,"$30,712,119",7.7,59,"35,342",True,,2025-10-29T13:51:40.364723
+tt7975244,Jumanji: The Next Level,2019,2 wins & 10 nominations total,"$320,314,960",6.6,58,"310,945",True,,2025-10-29T13:51:40.790381
+tt8079248,Yesterday,2019,2 wins & 19 nominations total,"$73,286,650",6.8,55,"179,459",True,,2025-10-29T13:51:41.213949
+tt8085790,Little,2019,3 wins & 6 nominations total,"$40,860,481",5.6,49,"15,655",True,,2025-10-29T13:51:41.636192
+tt8097306,Nobody's Fool,2018,1 win total,"$31,713,110",5.0,39,"8,270",True,,2025-10-29T13:51:42.074345
+tt8155288,Happy Death Day 2U,2019,4 nominations total,"$28,148,130",6.2,57,"92,585",True,,2025-10-29T13:51:42.514239
+tt8186318,Overcomer,2019,2 wins & 3 nominations total,"$34,746,945",6.7,17,"6,038",True,,2025-10-29T13:51:42.953270
+tt8244784,The Hunt,2020,3 wins & 5 nominations total,"$5,812,500",6.6,50,"147,735",True,,2025-10-29T13:51:43.380777
+tt8350360,Annabelle Comes Home,2019,2 nominations total,"$74,152,591",5.9,53,"96,848",True,,2025-10-29T13:51:43.819588
+tt8364368,Crawl,2019,5 nominations total,"$39,014,193",6.1,60,"99,950",True,,2025-10-29T13:51:44.242238
+tt8385474,A Dog's Journey,2019,2 nominations total,"$22,782,371",7.4,43,"31,409",True,,2025-10-29T13:51:44.664340
+tt8564902,Death of a Nation,2018,2 wins & 2 nominations,"$5,885,881",4.1,1,"7,384",True,,2025-10-29T13:51:45.085766
+tt8579674,1917,2019,Won 3 Oscars. 135 wins & 200 nominations total,"$159,227,644",8.2,78,"746,968",True,,2025-10-29T13:51:45.511862
+tt8623904,Last Christmas,2019,1 win & 2 nominations total,"$35,150,750",6.5,50,"97,842",True,,2025-10-29T13:51:45.936429
+tt8663516,Child's Play,2019,2 wins & 10 nominations total,"$29,208,403",5.7,48,"59,246",True,,2025-10-29T13:51:46.359708
+tt8688634,21 Bridges,2019,2 nominations total,"$28,539,757",6.7,51,"78,966",True,,2025-10-29T13:51:46.792986
+tt8722346,Queen & Slim,2019,13 wins & 44 nominations total,"$43,808,310",7.1,74,"35,868",True,,2025-10-29T13:51:47.219570
+tt8772262,Midsommar,2019,27 wins & 74 nominations total,"$27,426,361",7.1,72,"465,353",True,,2025-10-29T13:51:47.640213
+tt8946378,Knives Out,2019,Nominated for 1 Oscar. 52 wins & 113 nominations total,"$165,363,234",7.9,82,"834,596",True,,2025-10-29T13:51:48.069713
+tt9024106,Unplanned,2019,6 wins & 3 nominations total,"$19,005,109",5.5,10,"12,015",True,,2025-10-29T13:51:48.500798
+tt9134216,Playing with Fire,2019,2 wins & 2 nominations total,"$44,451,847",5.2,24,"17,395",True,,2025-10-29T13:51:48.938114
+tt9173418,Brahms: The Boy II,2020,1 win & 2 nominations total,"$12,611,536",4.7,29,"22,126",True,,2025-10-29T13:51:49.370794
