@@ -102,6 +102,11 @@ By analyzing the patterns between *budget*, *box office*, and *ratings*, I try t
 
    * Check if global box-office earnings are linked to audience ratings.  
    * Use simple regression analysis to find out whether commercial success also means higher ratings.
+     
+**4. Personal vs Public Ratings**
+
+* Compare my own IMDb ratings (MyRating) with public IMDb ratings for the subset of movies I have rated.
+* Analyze the RatingGap (MyRating − IMDb Rating) using a one-sample t-test and visualizations to see whether I am systematically more generous or more critical than the general audience.
 
 
 ## Expected Outcomes
@@ -111,7 +116,7 @@ By analyzing the patterns between *budget*, *box office*, and *ratings*, I try t
 * The low-budget films that are rated most highly may be outliers. They may demonstrate examples of storytelling success without major production costs.
 * The project will yield visual and statistical evidence on whether prestige and investment correspond with audience opinion.
 
-  ## Data Cleaning & Preprocessing
+## Data Cleaning & Preprocessing
 
 **Key steps included:**
 
@@ -195,18 +200,17 @@ High-budget movies do **not** consistently receive high ratings, but award-winni
 - Many highly rated films earn modestly
 
 ### **Personal Ratings Show Individual Taste**
-- My ratings generally follow the overall IMDb trend but show noticeable individual variation.
-- The MyRating vs IMDb Rating scatterplot reveals clear cases where I rate certain films higher (my personal favorites) or lower (less appealing to me) than the general audience.
-- The RatingGap metric (MyRating – IMDbRating) quantifies these differences and highlights where my personal preferences diverge from public opinion.
-
-
+- My ratings follow the general IMDb trend but show a **consistent downward shift** compared to public scores.
+- The MyRating vs IMDb Rating scatterplot shows many movies where I rate films slightly **lower** than the crowd, with fewer cases where I rate them higher.
+- The one-sample t-test confirms this pattern: the average RatingGap (MyRating − IMDbRating) is **significantly negative**, meaning I am generally **more critical** than the IMDb audience.
+- The RatingGap metric quantifies this difference (mean gap ≈ −0.19), highlighting where my personal preferences diverge from public opinion.
 
 ## Conclusions
 
 - Financial investment alone **does not** guarantee high audience ratings.  
 - Awards and critical recognition **strongly align** with higher ratings.  
 - Audience perception is influenced more by **quality and storytelling** than by production scale.  
-- Personal ratings reveal predictable divergences from general audience sentiment.
+- Personal ratings reveal predictable divergences from general audience sentiment, supported by a significantly negative RatingGap.
 
 **Overall, the analysis shows that storytelling is the real driver of what makes a movie memorable.**
 
