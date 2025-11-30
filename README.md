@@ -11,6 +11,18 @@ This comparison will reveal whether personal preferences align with global audie
 
 The goal is to determine if financial and critical success correlate with audience approval, therefore quantifying what makes a movie "successful."
 
+
+## AI Usage Disclosure
+This project used a Large Language Model (LLM) for:
+* Code structure suggestions
+* Text polishing & formatting
+* Minor refactoring (comments, backticks, plot styling)
+  
+All statistical decisions, data cleaning logic, feature engineering, tests, and interpretations were done by me.
+Code segments directly influenced by the LLM are explicitly marked.
+
+
+
 ## Motivation
 
 Being a movie enthusiast, I have often wondered if commercial and critical success actually correlate to the enjoyment of the people who watch it.
@@ -34,7 +46,11 @@ By analyzing the patterns between *budget*, *box office*, and *ratings*, I try t
 
 * **H₀₃:** Box office performance (domestic or worldwide gross) has no association with IMDb ratings or Metascores.
 * **H₁₃:** There is a positive correlation between box office results and both IMDb ratings and Metascores.
-
+  
+### **4. Personal vs Public Ratings (RatingGap)**
+* **H₀₄:** On average, my personal ratings do not systematically differ from IMDb ratings
+* **H₁₄:** On average, my personal ratings systematically differ from IMDb ratings
+  
 ## Data Sources
 
 ### **Box Office Mojo Dataset**
@@ -68,8 +84,8 @@ By analyzing the patterns between *budget*, *box office*, and *ratings*, I try t
 ### **Personal IMDb Ratings**
 
 * Source: IMDb personal export file
-* Purpose: To compare personal preferences with overall audience trends.
-
+* Purpose: Used for optional comparison against public ratings.
+  
 ## Planned Analysis
 
 **1. Budget vs Rating**
@@ -94,3 +110,105 @@ By analyzing the patterns between *budget*, *box office*, and *ratings*, I try t
 * It is expected that award-winning films, especially Oscar winners, will always have consistently higher ratings than the non-awarded.
 * The low-budget films that are rated most highly may be outliers. They may demonstrate examples of storytelling success without major production costs.
 * The project will yield visual and statistical evidence on whether prestige and investment correspond with audience opinion.
+
+  ## Data Cleaning & Preprocessing
+
+**Key steps included:**
+
+- Converting all money fields to numeric (removing `$`, `,`, whitespace)
+- Standardizing column names across Mojo + OMDb
+- Converting Year, IMDb rating, Metascore, and MyRating to numeric
+- Removing invalid or duplicate entries
+- Merging datasets using:
+  - **imdbID** (preferred key)
+  - **fallback:** Title + Year
+
+## Feature Engineering
+
+Created new variables:
+
+- **Profit** = Worldwide – Budget  
+- **ROI** = Worldwide / Budget  
+- **AwardLevel** = Oscar Winner / Oscar Nominee / Other Award / No Awards  
+- **AwardTier** = Winner / Nominee Only / No Award  
+- **RatingGap** = MyRating – IMDbRating  
+
+## Exploratory Data Analysis (EDA)
+
+### **Descriptive Statistics**
+
+- Budgets & grosses are extremely right-skewed.  
+- IMDb public ratings cluster between **6.0–8.0**.  
+- Awarded films have noticeably higher ratings.
+
+### **Correlation Analysis**
+
+- **Budget ↔ WorldwideGross:** strong positive correlation  
+- **Ratings ↔ Budget:** very weak correlation (r ≈ 0.1)  
+- **Awards ↔ Ratings:** moderate correlation  
+- **MyRating:** aligns with IMDb but shows individual deviations  
+
+### **Visualizations Included**
+
+- Budget vs IMDb Rating (log-scale scatter)
+- Worldwide Gross vs IMDb Rating
+- Boxplots of AwardLevel vs Ratings
+- Correlation heatmaps
+- MyRating vs IMDb Rating scatter
+
+
+**Overall Insight:**  
+High-budget movies do **not** consistently receive high ratings, but award-winning films **generally do**.
+
+
+## Formal Statistical Analysis
+
+### **ANOVA: Award groups vs IMDb Rating**
+- Statistically significant → **Reject H₀₂**  
+- Post-hoc Welch t-tests show:  
+  - Oscar Winners > Nominees  
+  - Nominees > No Awards  
+
+### **Correlation: Budget vs Ratings**
+- Very weak positive correlation  
+- Reject H₀₁ statistically  
+- **Practical significance is extremely low**
+
+### **Box Office vs Ratings**
+- Weak positive correlation  
+- Box office success ≠ audience appreciation
+
+
+## Key Findings
+
+### **Budget Matters Statistically, but Not Meaningfully**
+- r ≈ 0.05–0.13  
+- Effect size extremely weak  
+- High budget ≠ high rating
+
+### **Awards Are the Best Predictor of High Ratings**
+- Oscar winners outperform all other groups  
+- Awards correlate strongly with critical and audience scores
+
+### **Box Office Success Is Not a Rating Predictor**
+- Many high-grossing films are only mid-rated  
+- Many highly rated films earn modestly
+
+### **Personal Ratings Show Individual Taste**
+- My ratings generally follow the overall IMDb trend but show noticeable individual variation.
+- The MyRating vs IMDb Rating scatterplot reveals clear cases where I rate certain films higher (my personal favorites) or lower (less appealing to me) than the general audience.
+- The RatingGap metric (MyRating – IMDbRating) quantifies these differences and highlights where my personal preferences diverge from public opinion.
+
+
+
+## Conclusions
+
+- Financial investment alone **does not** guarantee high audience ratings.  
+- Awards and critical recognition **strongly align** with higher ratings.  
+- Audience perception is influenced more by **quality and storytelling** than by production scale.  
+- Personal ratings reveal predictable divergences from general audience sentiment.
+
+**Overall, the analysis shows that storytelling is the real driver of what makes a movie memorable.**
+
+
+  
