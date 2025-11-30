@@ -183,6 +183,10 @@ High-budget movies do **not** consistently receive high ratings, but award-winni
 - Weak positive correlation  
 - Box office success ≠ audience appreciation
 
+### **Personal Ratings vs Public IMDb Ratings**
+- One-sample t-test on RatingGap (MyRating − IMDb Rating) → **Reject H₀₄**
+- Mean RatingGap is significantly **negative** (I rate films lower on average)
+- Personal ratings show **predictable divergences** from general audience sentiment
 
 ## Key Findings
 
@@ -199,11 +203,9 @@ High-budget movies do **not** consistently receive high ratings, but award-winni
 - Many high-grossing films are only mid-rated  
 - Many highly rated films earn modestly
 
-### **Personal Ratings Show Individual Taste**
-- My ratings follow the general IMDb trend but show a **consistent downward shift** compared to public scores.
-- The MyRating vs IMDb Rating scatterplot shows many movies where I rate films slightly **lower** than the crowd, with fewer cases where I rate them higher.
-- The one-sample t-test confirms this pattern: the average RatingGap (MyRating − IMDbRating) is **significantly negative**, meaning I am generally **more critical** than the IMDb audience.
-- The RatingGap metric quantifies this difference (mean gap ≈ −0.19), highlighting where my personal preferences diverge from public opinion.
+Personal Ratings Show Individual Taste
+- I tend to rate movies slightly lower than IMDb users on average.
+- My ratings follow the general trend but show consistent, predictable deviations (mean gap ≈ −0.19).
 
 ## Conclusions
 
